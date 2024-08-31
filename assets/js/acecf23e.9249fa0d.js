@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmind_mash=self.webpackChunkmind_mash||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/MindMash/blog","blogTitle":"Blog","authorsListPath":"/MindMash/blog/authors"}')}}]);
