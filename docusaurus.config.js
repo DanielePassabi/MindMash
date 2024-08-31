@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'MindMash',
   tagline: 'Data. Lots of it.',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/planet-earth.png',
 
   // Set the production url of your site here
   url: 'https://github.com',
