@@ -2,6 +2,6 @@
 sidebar_position: 1
 ---
 
-# MindMash
+# Introduction
 
 TODO: update this section.
