@@ -66,9 +66,9 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'notesSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Notes',
           },
           {
             type: 'docSidebar',   // Add this block
@@ -87,46 +87,20 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'My Links',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'My Portfolio',
+                href: 'https://danielepassabi.github.io/',
               },
+              {
+                label: 'LinkedIn',
+                href: 'https://www.linkedin.com/in/daniele-passabi/',
+              }
             ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              // {
-              //   label: 'Blog',
-              //   to: '/blog',
-              // },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
-            ],
-          },
+          }
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `(I do not really need a) Copyright © ${new Date().getFullYear()} MindMash, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
