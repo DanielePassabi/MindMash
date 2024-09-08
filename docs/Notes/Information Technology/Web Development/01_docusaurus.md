@@ -138,3 +138,13 @@ jobs:
 
 In your GitHub repository, navigate to `Settings` > `Environments`.
 Under `Deployment branches and tags`, add `main` to allow deployments from the main branch.
+
+### 5. Local Hosting
+
+In order to run Docusaurus locally, you just need to launch the following command:
+
+```cmd
+yarn start
+```
+
+This will open your project in `http://localhost:3000/MindMash/`.

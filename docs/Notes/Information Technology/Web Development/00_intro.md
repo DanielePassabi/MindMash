@@ -1,5 +1,5 @@
 ---
-id: web-development-intro
+id: wd-intro
 title: Introduction to Web Development
 ---
 
