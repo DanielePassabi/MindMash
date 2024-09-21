@@ -1,9 +1,16 @@
 ---
-id: gym-basic-routine
-title: Basic Routine
+id: gym-gpt-basic-routine
+title: Basic Routine (GPT)
 ---
 
-# Allenamento Base
+# Allenamento Base (GPT)
+
+:::warning[Deprecata]
+
+Questa routine è stata aggiornata grazie ai consigli del trainer e non viene più utilizzata. La versione aggiornata è sull'app **Hevy**.
+
+:::
+
 
 ## Giorno 1: Pettorali, spalle, tricipiti
 
