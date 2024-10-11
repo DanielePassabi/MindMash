@@ -106,6 +106,20 @@
   outline-offset: -10px; /* Moves the inner border closer to the image */
 }
 
+.video-holidays-vertical {
+  width: 100%;  /* Keep the width responsive */
+  height: 1000px;  /* Set the desired height */
+  border: 1px solid #ddd; /* Outer postcard border */
+  border-radius: 0px; /* Rounded corners */
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15); /* Soft shadow */
+  margin: 20px auto;
+  display: block;
+  background-color: #fff;
+  padding: 9px; /* Padding between image and outer border */
+  outline: 1px solid #ccc; /* Inner border between padding and image */
+  outline-offset: -10px; /* Moves the inner border closer to the image */
+}
+
 .video-holidays-2 {
   flex: 1; /* Each image takes 1/2 of the container */
   max-width: 49%; /* Ensures that each image takes up about 1/2 of the container */
@@ -140,5 +154,4 @@
 .img-holidays, .img-holidays-2, .img-holidays-3 {
   transition: transform 0.3s ease-in-out; /* Smooth transition on hover */
   display: block;
-  margin: auto;
 }
