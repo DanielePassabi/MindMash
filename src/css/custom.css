@@ -133,21 +133,25 @@
   outline-offset: -10px;
 }
 
-/* General hover effect for all images */
-.img-holidays:hover, 
-.img-holidays-2:hover, 
-.img-holidays-3:hover {
-  transform: scale(1.25); /* Default scaling for larger images */
-  transition: transform 0.3s ease-in-out; /* Smooth transition */
-}
+/* General hover effect for all images on larger devices */
+@media (min-width: 768px) {
+  .img-holidays:hover, 
+  .img-holidays-2:hover, 
+  .img-holidays-3:hover {
+    transform: scale(1.25); /* Default scaling for larger images */
+    transition: transform 0.3s ease-in-out; /* Smooth transition */
+    z-index: 9999;
+    position: relative;
+  }
 
-/* Larger scaling for smaller images */
-.img-holidays-2:hover {
-  transform: scale(1.5); /* Larger scale for smaller images */
-}
+  /* Larger scaling for smaller images */
+  .img-holidays-2:hover {
+    transform: scale(1.5); /* Larger scale for smaller images */
+  }
 
-.img-holidays-3:hover {
-  transform: scale(2); /* Even larger scale for the smallest images */
+  .img-holidays-3:hover {
+    transform: scale(2); /* Even larger scale for the smallest images */
+  }
 }
 
 /* Ensure that the parent containers are able to handle the scale change */
