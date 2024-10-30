@@ -3,6 +3,8 @@ id: gym-trainer-insights-02
 title: Bicipiti
 ---
 
+## Esercizi Tradizionali e Varianti
+
 ### Esercizio: Preacher Curl
 
 L’esercizio di **curl con manubrio** è uno degli esercizi più diffusi per l'allenamento dei bicipiti, ma spesso viene eseguito in modo non corretto, compromettendo l’efficacia e il coinvolgimento del muscolo target. Un errore comune è abbassare troppo i gomiti durante l’esecuzione, portandoli fuori dal piano di movimento corretto.
@@ -26,6 +28,10 @@ Un altro esercizio efficace per bicipiti e avambracci è il **curl a martello**.
 
 Invece di sollevare il manubrio verticalmente (verso l’alto), come si fa nel curl a martello classico, la variante consiste nel portare il manubrio **verso il petto**. Questo cambiamento nell’angolo di movimento permette di isolare meglio il bicipite e di evitare che il movimento diventi troppo meccanico o assistito da altri muscoli.
 
+## Esercizi Avanzati per l'Isolamento del Bicipite
+
+Per ottenere un allenamento più efficace e mirato dei bicipiti, esistono esercizi che offrono una migliore attivazione muscolare rispetto alle versioni tradizionali. Di seguito sono presentati due esercizi avanzati che possono sostituire il **preacher curl classico** e i **curl con manubri su panca inclinata**.
+
 ### Esercizio: Chin Up
 
 Il Chin Up è un esercizio eccellente per lo sviluppo dei bicipiti. A differenza degli esercizi per la schiena, come la lat machine, l'obiettivo principale qui è evitare l'attivazione dei muscoli della schiena e concentrare tutto lo sforzo sui bicipiti.
@@ -35,17 +41,42 @@ Il Chin Up è un esercizio eccellente per lo sviluppo dei bicipiti. A differenza
 - **Utilizzo dei bicipiti**: per sollevarti, usa esclusivamente i muscoli dei bicipiti. Concentrati sull'attivare e contrarre il bicipite durante l'intero movimento.
 - **Altezza del sollevamento**: cerca di andare il più in alto possibile, idealmente superando la sbarra con il mento.
 
-### Informazioni Utili
+### Esercizio: Preacher Curl al Cavo con Maniglia EZ
 
-#### Isolamento del bicipite
+Il **preacher curl al cavo** è un'ottima alternativa al preacher curl tradizionale, poiché offre una tensione continua sul bicipite durante tutto il movimento grazie all'uso dei cavi.
+
+- Posiziona una pedana davanti alla macchina a cavi per raggiungere l'altezza ottimale.
+- Collega una *barra EZ* al cavo basso della macchina.
+- Siediti sulla panca del preacher curl, non è necessario in questo caso appoggiare i gomiti sul cuscinetto, è preferibile incastrarsi con le ascelle, per una migliore stabilità
+- Mantieni la schiena leggermente inarcata con le scapole retratte.
+- Afferra la maniglia EZ con una presa sottopalmo.
+- Contrai il bicipite per sollevare la maniglia verso le spalle.
+- Rilascia lentamente il peso.
+
+### Esercizio: Bayesian Curl (alti)
+
+Il **Bayesian Curl** è un esercizio che permette di isolare il bicipite in modo ottimale, sfruttando l'allungamento e la contrazione massima del muscolo.
+
+- Imposta una macchina a cavi con il cavo posizionato ad altezza delle spalle.
+- Afferra la maniglia con una presa sottopalmo.
+- Effettua due passi in avanti
+- *Scapole Retratte*: tira indietro le scapole e mantienile in questa posizione.
+- *Braccio Perpendicolare*: mantieni il braccio perpendicolare al terreno, dietro il corpo.
+- Senza muovere il gomito, contrai il bicipite portando l'avambraccio verso il bicipite stesso.
+- Mantieni il polso in linea e evita movimenti compensatori del corpo.
+- Rilascia lentamente, controllando il movimento.
+
+## Informazioni Utili
+
+### Isolamento del bicipite
 
 Il bicipite è noto per essere un muscolo relativamente difficile da isolare. Anche il minimo movimento delle spalle o una presa troppo forte sul manubrio possono coinvolgere altri muscoli, come il **deltoide** o l’**avambraccio**, riducendo il lavoro effettivo del bicipite. L'errore comune è stringere troppo il manubrio, cosa che attiva l'avambraccio e toglie il focus dal bicipite.
 
-#### Esercizio di visualizzazione
+### Esercizio di visualizzazione
 
 Un’ottima tecnica per comprendere come isolare il bicipite è visualizzare il movimento di un cameriere che porta un piatto. In questo caso, il cameriere non può stringere il piatto, quindi non può utilizzare l'avambraccio per assistere nel movimento. Questo esempio illustra come il bicipite può essere isolato correttamente, minimizzando il coinvolgimento di altri muscoli.
 
-#### Connessione mente-muscolo
+### Connessione mente-muscolo
 
 Un altro concetto chiave nell’allenamento del bicipite è stabilire una connessione forte tra la **contrazione muscolare** e il movimento del peso. Non si tratta semplicemente di sollevare un peso; l'obiettivo è contrarre il muscolo correttamente, con il peso che si solleva come conseguenza di questa contrazione. Questa mentalità porta a una maggiore attivazione muscolare e un miglioramento significativo dei risultati.
 
