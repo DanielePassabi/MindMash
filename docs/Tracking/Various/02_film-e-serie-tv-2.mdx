@@ -1,0 +1,87 @@
+---
+id: film-e-serie-tv-updated
+title: Film e Serie TV 2.0
+---
+
+import React from 'react';
+import data2016 from '@site/static/data/movies_and_tv_series_2016.json';
+import data2017 from '@site/static/data/movies_and_tv_series_2017.json';
+import data2018 from '@site/static/data/movies_and_tv_series_2018.json';
+import data2019 from '@site/static/data/movies_and_tv_series_2019.json';
+import data2020 from '@site/static/data/movies_and_tv_series_2020.json';
+import data2021 from '@site/static/data/movies_and_tv_series_2021.json';
+import data2022 from '@site/static/data/movies_and_tv_series_2022.json';
+import data2023 from '@site/static/data/movies_and_tv_series_2023.json';
+import FilmCard from '@site/src/components/FilmCard/FilmCard.jsx';
+
+export default function DataPage() {
+  const data2016Array = Object.values(data2016);
+  const data2017Array = Object.values(data2017);
+  const data2018Array = Object.values(data2018);
+  const data2019Array = Object.values(data2019);
+  const data2020Array = Object.values(data2020);
+  const data2021Array = Object.values(data2021);
+  const data2022Array = Object.values(data2022);
+  const data2023Array = Object.values(data2023);
+
+  return (
+    <>
+      <h2>Anno 2016</h2>
+      <div style={{ display: 'flex', flexWrap: 'wrap', gap: '1rem' }}>
+        {data2016Array.map((film, idx) => (
+          <FilmCard key={idx} film={film} />
+        ))}
+      </div>
+
+      <h2>Anno 2017</h2>
+      <div style={{ display: 'flex', flexWrap: 'wrap', gap: '1rem' }}>
+        {data2017Array.map((film, idx) => (
+          <FilmCard key={idx} film={film} />
+        ))}
+      </div>
+
+      <h2>Anno 2018</h2>
+      <div style={{ display: 'flex', flexWrap: 'wrap', gap: '1rem' }}>
+        {data2018Array.map((film, idx) => (
+          <FilmCard key={idx} film={film} />
+        ))}
+      </div>
+
+      <h2>Anno 2019</h2>
+      <div style={{ display: 'flex', flexWrap: 'wrap', gap: '1rem' }}>
+        {data2019Array.map((film, idx) => (
+          <FilmCard key={idx} film={film} />
+        ))}
+      </div>
+
+      <h2>Anno 2020</h2>
+      <div style={{ display: 'flex', flexWrap: 'wrap', gap: '1rem' }}>
+        {data2020Array.map((film, idx) => (
+          <FilmCard key={idx} film={film} />
+        ))}
+      </div>
+
+      <h2>Anno 2021</h2>
+      <div style={{ display: 'flex', flexWrap: 'wrap', gap: '1rem' }}>
+        {data2021Array.map((film, idx) => (
+          <FilmCard key={idx} film={film} />
+        ))}
+      </div>
+
+      <h2>Anno 2022</h2>
+      <div style={{ display: 'flex', flexWrap: 'wrap', gap: '1rem' }}>
+        {data2022Array.map((film, idx) => (
+          <FilmCard key={idx} film={film} />
+        ))}
+      </div>
+
+      <h2>Anno 2023</h2>
+      <div style={{ display: 'flex', flexWrap: 'wrap', gap: '1rem' }}>
+        {data2023Array.map((film, idx) => (
+          <FilmCard key={idx} film={film} />
+        ))}
+      </div>
+
+    </>
+  );
+}

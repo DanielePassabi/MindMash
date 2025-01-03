@@ -1,0 +1,482 @@
+{
+    "2017_001": {
+        "title": "Il traditore tipo",
+        "watch_date": "02 Gennaio",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_002": {
+        "title": "Assassin's Creed",
+        "watch_date": "05 Gennaio",
+        "category": "Film",
+        "notes": "🎥"
+    },
+    "2017_003": {
+        "title": "Deadpool",
+        "watch_date": "06 Gennaio",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_004": {
+        "title": "The transporter",
+        "watch_date": "14 Gennaio",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_005": {
+        "title": "The Pills - Sempre meglio che lavorare",
+        "watch_date": "22 Gennaio",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_006": {
+        "title": "Goodbye Lenin",
+        "watch_date": "27 Gennaio",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_007": {
+        "title": "The Grey",
+        "watch_date": "29 Gennaio",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_008": {
+        "title": "Split",
+        "watch_date": "04 Febbraio",
+        "category": "Film",
+        "notes": "🎥"
+    },
+    "2017_009": {
+        "title": "Seduzione fatale",
+        "watch_date": "06 Febbraio",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_010": {
+        "title": "The Hateful Eight",
+        "watch_date": "12 Febbraio",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_011": {
+        "title": "Victor - La storia segreta del dottor Frankenstein",
+        "watch_date": "13 Febbraio",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_012": {
+        "title": "Cinquanta sfumature di nero",
+        "watch_date": "14 Febbraio",
+        "category": "Film",
+        "notes": "🎥"
+    },
+    "2017_013": {
+        "title": "Point Break",
+        "watch_date": "20 Febbraio",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_014": {
+        "title": "Manhattan Nocturne",
+        "watch_date": "22 Febbraio",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_015": {
+        "title": "Resident Evil The Final Chapter",
+        "watch_date": "28 Febbraio",
+        "category": "Film",
+        "notes": "🎥"
+    },
+    "2017_016": {
+        "title": "X-Men: Apocalisse",
+        "watch_date": "04 Marzo",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_017": {
+        "title": "Logan: The Wolverine",
+        "watch_date": "04 Marzo",
+        "category": "Film",
+        "notes": "🎥"
+    },
+    "2017_018": {
+        "title": "Killing season",
+        "watch_date": "09 Aprile",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_019": {
+        "title": "The Reach - Caccia all'uomo",
+        "watch_date": "12 Aprile",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_020": {
+        "title": "Paradise Beach - Dentro l'incubo",
+        "watch_date": "13 Aprile",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_021": {
+        "title": "Fast and Furious 8",
+        "watch_date": "15 Aprile",
+        "category": "Film",
+        "notes": "🎥"
+    },
+    "2017_022": {
+        "title": "Underworld - Blood Wars",
+        "watch_date": "21 Aprile",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_023": {
+        "title": "Mr Robot S1",
+        "watch_date": "04 Maggio",
+        "category": "Serie",
+        "notes": "Fine: 11 Maggio"
+    },
+    "2017_024": {
+        "title": "Lo chiamavano Jeeg Robot",
+        "watch_date": "07 Maggio",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_025": {
+        "title": "Mr Robot S2",
+        "watch_date": "13 Maggio",
+        "category": "Serie",
+        "notes": "Fine: 22 Maggio"
+    },
+    "2017_026": {
+        "title": "The tournament",
+        "watch_date": "14 Maggio",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_027": {
+        "title": "Il grande Gatsby",
+        "watch_date": "05 Luglio",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_028": {
+        "title": "Self/Less",
+        "watch_date": "15 Luglio",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_029": {
+        "title": "Inferno 2016",
+        "watch_date": "16 Luglio",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_030": {
+        "title": "American Sniper",
+        "watch_date": "17 Luglio",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_031": {
+        "title": "Breaking Bad S1",
+        "watch_date": "17 Luglio",
+        "category": "Serie",
+        "notes": "Fine: 20 Luglio"
+    },
+    "2017_032": {
+        "title": "John Wick - Capitolo 2",
+        "watch_date": "20 Luglio",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_033": {
+        "title": "Spider-Man: Homecoming",
+        "watch_date": "21 Luglio",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_034": {
+        "title": "Alien: Covenant",
+        "watch_date": "22 Luglio",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_035": {
+        "title": "Breaking Bad S2",
+        "watch_date": "23 Luglio",
+        "category": "Serie",
+        "notes": "Fine: 07 Agosto"
+    },
+    "2017_036": {
+        "title": "La vendetta di un uomo tranquillo",
+        "watch_date": "30 Luglio",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_037": {
+        "title": "La mummia - 2017",
+        "watch_date": "31 Luglio",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_038": {
+        "title": "Collateral Beauty",
+        "watch_date": "03 Agosto",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_039": {
+        "title": "Viaggio in paradiso",
+        "watch_date": "05 Agosto",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_040": {
+        "title": "Breaking Bad S3",
+        "watch_date": "08 Agosto",
+        "category": "Serie",
+        "notes": "Fine: 14 Agosto"
+    },
+    "2017_041": {
+        "title": "Breaking Bad S4",
+        "watch_date": "16 Agosto",
+        "category": "Serie",
+        "notes": "Fine: 22 Agosto"
+    },
+    "2017_042": {
+        "title": "Bastille day - il colpo del secolo",
+        "watch_date": "18 Agosto",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_043": {
+        "title": "I am soldier",
+        "watch_date": "20 Agosto",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_044": {
+        "title": "Passengers",
+        "watch_date": "21 Agosto",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_045": {
+        "title": "Tartarughe Ninja - Fuori dall'ombra",
+        "watch_date": "22 Agosto",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_046": {
+        "title": "Breaking Bad S5",
+        "watch_date": "23 Agosto",
+        "category": "Serie",
+        "notes": "Fine: 06 Settembre"
+    },
+    "2017_047": {
+        "title": "La Torre Nera",
+        "watch_date": "23 Agosto",
+        "category": "Film",
+        "notes": "🎥"
+    },
+    "2017_048": {
+        "title": "Jack Reacher - Punto di non ritorno",
+        "watch_date": "27 Agosto",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_049": {
+        "title": "Guardiani della Galassia vol. II",
+        "watch_date": "29 Agosto",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_050": {
+        "title": "The contract",
+        "watch_date": "31 Agosto",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_051": {
+        "title": "Sleepless - Il giustiziere",
+        "watch_date": "04 Settembre",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_052": {
+        "title": "King Arthur - Il potere della spada",
+        "watch_date": "06 Settembre",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_053": {
+        "title": "Girl's Night Out - Incubo dal passato",
+        "watch_date": "10 Settembre",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_054": {
+        "title": "Riddick",
+        "watch_date": "14 Settembre",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_055": {
+        "title": "Pitch Black",
+        "watch_date": "14 Settembre",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_056": {
+        "title": "Natale all'improvviso",
+        "watch_date": "15 Settembre",
+        "category": "Film",
+        "notes": "🚫"
+    },
+    "2017_057": {
+        "title": "Equals",
+        "watch_date": "15 Settembre",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_058": {
+        "title": "Sette anime",
+        "watch_date": "17 Settembre",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_059": {
+        "title": "xXx - Il ritorno di Xander Cage",
+        "watch_date": "17 Settembre",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_060": {
+        "title": "La 25ª ora",
+        "watch_date": "17 Settembre",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_061": {
+        "title": "Snatch - Lo strappo",
+        "watch_date": "24 Settembre",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_062": {
+        "title": "Allied",
+        "watch_date": "30 Settembre",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_063": {
+        "title": "Sin City",
+        "watch_date": "02 Ottobre",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_064": {
+        "title": "The chronicles of Riddick",
+        "watch_date": "05 Ottobre",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_065": {
+        "title": "Better call Saul S1",
+        "watch_date": "16 Ottobre",
+        "category": "Serie",
+        "notes": "Fine: 26 Ottobre"
+    },
+    "2017_066": {
+        "title": "Blade Runner",
+        "watch_date": "20 Ottobre",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_067": {
+        "title": "Better call Saul S2",
+        "watch_date": "29 Ottobre",
+        "category": "Serie",
+        "notes": "Fine: 08 Novembre"
+    },
+    "2017_068": {
+        "title": "Arrival",
+        "watch_date": "04 Novembre",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_069": {
+        "title": "Prison Break S1",
+        "watch_date": "05 Novembre",
+        "category": "Serie",
+        "notes": "Fine: 07 Dicembre"
+    },
+    "2017_070": {
+        "title": "Better call Saul S3",
+        "watch_date": "13 Novembre",
+        "category": "Serie",
+        "notes": "Fine: 23 Novembre"
+    },
+    "2017_071": {
+        "title": "Detroit",
+        "watch_date": "30 Novembre",
+        "category": "Film",
+        "notes": "🎥"
+    },
+    "2017_072": {
+        "title": "Suburra S1",
+        "watch_date": "03 Dicembre",
+        "category": "Serie",
+        "notes": "Fine: 11 Dicembre"
+    },
+    "2017_073": {
+        "title": "Prison Break S2",
+        "watch_date": "08 Dicembre",
+        "category": "Serie",
+        "notes": "Fine: ?"
+    },
+    "2017_074": {
+        "title": "Assassinio sull'Orient Express",
+        "watch_date": "09 Dicembre",
+        "category": "Film",
+        "notes": "🎥"
+    },
+    "2017_075": {
+        "title": "Life - Non oltrepassare il limite",
+        "watch_date": "17 Dicembre",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_076": {
+        "title": "Pirati dei Caraibi 5 - La vendetta di Salazar",
+        "watch_date": "19 Dicembre",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_077": {
+        "title": "Redemption - Identità nascoste",
+        "watch_date": "21 Dicembre",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_078": {
+        "title": "Monolith",
+        "watch_date": "26 Dicembre",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_079": {
+        "title": "La fratellanza",
+        "watch_date": "28 Dicembre",
+        "category": "Film",
+        "notes": ""
+    },
+    "2017_080": {
+        "title": "The war - Il pianeta delle scimmie",
+        "watch_date": "29 Dicembre",
+        "category": "Film",
+        "notes": ""
+    }
+}

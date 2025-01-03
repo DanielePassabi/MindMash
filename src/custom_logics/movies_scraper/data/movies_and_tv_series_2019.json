@@ -1,0 +1,266 @@
+{
+    "2019_001": {
+        "title": "Mr Robot S2",
+        "watch_date": "09 Gennaio",
+        "category": "Serie TV",
+        "notes": "28/12 - 09/01"
+    },
+    "2019_002": {
+        "title": "Mr Robot S3",
+        "watch_date": "10 Gennaio",
+        "category": "Serie TV",
+        "notes": "10/01 - 15/01"
+    },
+    "2019_003": {
+        "title": "I fantastici 4 - 2015",
+        "watch_date": "16 Gennaio",
+        "category": "Film",
+        "notes": ""
+    },
+    "2019_004": {
+        "title": "Bird Box",
+        "watch_date": "09 Febbraio",
+        "category": "Film",
+        "notes": ""
+    },
+    "2019_005": {
+        "title": "Suburra S2",
+        "watch_date": "02 Marzo",
+        "category": "Serie TV",
+        "notes": "02/03 - 05/03"
+    },
+    "2019_006": {
+        "title": "The prodigy - il figlio del male",
+        "watch_date": "31 Aprile",
+        "category": "Film",
+        "notes": "🎥"
+    },
+    "2019_007": {
+        "title": "A star is born 2018",
+        "watch_date": "02 Aprile",
+        "category": "Film",
+        "notes": ""
+    },
+    "2019_008": {
+        "title": "After",
+        "watch_date": "13 Aprile",
+        "category": "Film",
+        "notes": "🎥"
+    },
+    "2019_009": {
+        "title": "Hush - Il terrore del silenzio",
+        "watch_date": "14 Aprile",
+        "category": "Film",
+        "notes": ""
+    },
+    "2019_010": {
+        "title": "Papillon",
+        "watch_date": "18 Aprile",
+        "category": "Film",
+        "notes": ""
+    },
+    "2019_011": {
+        "title": "Capitan Marvel",
+        "watch_date": "19 Aprile",
+        "category": "Film",
+        "notes": ""
+    },
+    "2019_012": {
+        "title": "Sulla mia pelle",
+        "watch_date": "20 Aprile",
+        "category": "Film",
+        "notes": ""
+    },
+    "2019_013": {
+        "title": "Benvenuto presidente",
+        "watch_date": "21 Aprile",
+        "category": "Film",
+        "notes": ""
+    },
+    "2019_014": {
+        "title": "The greatest showman",
+        "watch_date": "22 Aprile",
+        "category": "Film",
+        "notes": ""
+    },
+    "2019_015": {
+        "title": "Avengers - Infinity War",
+        "watch_date": "23 Aprile",
+        "category": "Film",
+        "notes": "🎥"
+    },
+    "2019_016": {
+        "title": "Avengers - Endgame",
+        "watch_date": "24 Aprile",
+        "category": "Film",
+        "notes": "🎥"
+    },
+    "2019_017": {
+        "title": "The Equalizer 2",
+        "watch_date": "19 Maggio",
+        "category": "Film",
+        "notes": ""
+    },
+    "2019_018": {
+        "title": "Interstellar",
+        "watch_date": "02 Giugno",
+        "category": "Film",
+        "notes": ""
+    },
+    "2019_019": {
+        "title": "Dunkirk",
+        "watch_date": "04 Giugno",
+        "category": "Film",
+        "notes": ""
+    },
+    "2019_020": {
+        "title": "Shutter Island",
+        "watch_date": "12 Giugno",
+        "category": "Film",
+        "notes": ""
+    },
+    "2019_021": {
+        "title": "The prestige",
+        "watch_date": "17 Giugno",
+        "category": "Film",
+        "notes": ""
+    },
+    "2019_022": {
+        "title": "Cold Pursuit",
+        "watch_date": "24 Giugno",
+        "category": "Film",
+        "notes": ""
+    },
+    "2019_023": {
+        "title": "Interstellar",
+        "watch_date": "26 Giugno",
+        "category": "Film",
+        "notes": ""
+    },
+    "2019_024": {
+        "title": "Inception",
+        "watch_date": "05 Luglio",
+        "category": "Film",
+        "notes": ""
+    },
+    "2019_025": {
+        "title": "Arrivederci Professore",
+        "watch_date": "08 Luglio",
+        "category": "Film",
+        "notes": "🎥"
+    },
+    "2019_026": {
+        "title": "La casa di papel S1",
+        "watch_date": "09 Luglio",
+        "category": "Serie TV",
+        "notes": "09/07 - 11/07"
+    },
+    "2019_027": {
+        "title": "La casa di papel S2",
+        "watch_date": "13 Luglio",
+        "category": "Serie TV",
+        "notes": "13/07 - 16/07"
+    },
+    "2019_028": {
+        "title": "La casa di papel S3",
+        "watch_date": "20 Luglio",
+        "category": "Serie TV",
+        "notes": "20/07 - 22/07"
+    },
+    "2019_029": {
+        "title": "Black Mirror S4",
+        "watch_date": "15 Agosto",
+        "category": "Serie TV",
+        "notes": "15/08 - 19/08"
+    },
+    "2019_030": {
+        "title": "Getaway - Via di fuga",
+        "watch_date": "26 Agosto",
+        "category": "Film",
+        "notes": ""
+    },
+    "2019_031": {
+        "title": "Dieci piccoli indiani - parte 1",
+        "watch_date": "27 Agosto",
+        "category": "Film",
+        "notes": ""
+    },
+    "2019_032": {
+        "title": "Dieci piccoli indiani - parte 2",
+        "watch_date": "27 Agosto",
+        "category": "Film",
+        "notes": ""
+    },
+    "2019_033": {
+        "title": "John Wick 3 - Parabellum",
+        "watch_date": "30 Agosto",
+        "category": "Film",
+        "notes": ""
+    },
+    "2019_034": {
+        "title": "Spirit - Cavallo selvaggio",
+        "watch_date": "01 Settembre",
+        "category": "Film",
+        "notes": ""
+    },
+    "2019_035": {
+        "title": "Spider-Man - Un nuovo universo",
+        "watch_date": "03 Settembre",
+        "category": "Film",
+        "notes": ""
+    },
+    "2019_036": {
+        "title": "Match point",
+        "watch_date": "07 Settembre",
+        "category": "Film",
+        "notes": ""
+    },
+    "2019_037": {
+        "title": "Shining",
+        "watch_date": "10 Settembre",
+        "category": "Film",
+        "notes": ""
+    },
+    "2019_038": {
+        "title": "Replicas",
+        "watch_date": "20 Settembre",
+        "category": "Film",
+        "notes": ""
+    },
+    "2019_039": {
+        "title": "Mile 22",
+        "watch_date": "22 Settembre",
+        "category": "Film",
+        "notes": ""
+    },
+    "2019_040": {
+        "title": "Chernobyl S1",
+        "watch_date": "28 Settembre",
+        "category": "Serie TV",
+        "notes": "28/09 - 05/10"
+    },
+    "2019_041": {
+        "title": "Warcraft - L’Inizio",
+        "watch_date": "08 Novembre",
+        "category": "Film",
+        "notes": ""
+    },
+    "2019_042": {
+        "title": "Joker",
+        "watch_date": "16 Dicembre",
+        "category": "Film",
+        "notes": ""
+    },
+    "2019_043": {
+        "title": "Il Re Leone",
+        "watch_date": "22 Dicembre",
+        "category": "Film",
+        "notes": ""
+    },
+    "2019_044": {
+        "title": "The Witcher - Serie Netflix",
+        "watch_date": "22 Dicembre",
+        "category": "Serie TV",
+        "notes": "22/12 - 24/12"
+    }
+}
