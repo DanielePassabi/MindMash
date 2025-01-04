@@ -705,15 +705,15 @@
     "watch_date": "29 Agosto",
     "category": "Film",
     "notes": "",
-    "url": "https://www.themoviedb.org/movie/447365-guardians-of-the-galaxy-vol-3",
-    "release_date": "03/05/2023",
+    "url": "https://www.themoviedb.org/movie/283995-guardians-of-the-galaxy-vol-2",
+    "release_date": "25/04/2017",
     "genres": [
-      "Fantascienza",
-      "Avventura",
-      "Azione"
+      "Science Fiction",
+      "Adventure",
+      "Action"
     ],
-    "runtime": "2h 30m",
-    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jY4MHLeiKmLZFwdMyWcJyDe7eC4.jpg"
+    "runtime": "2h 17m",
+    "poster_url": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg"
   },
   "2017_050": {
     "title": "The contract",

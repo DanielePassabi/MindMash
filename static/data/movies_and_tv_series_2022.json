@@ -72,7 +72,7 @@
     "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/c3cWPOdPTwv31bIjZx0nb0qmVV1.jpg"
   },
   "2022_135": {
-    "title": "The Hobbit - An unexpected journey",
+    "title": "The Hobbit: An unexpected journey",
     "watch_date": "01 Maggio",
     "category": "Film",
     "notes": "\ud83e\uddda\u200d\u2640\ufe0f",
@@ -87,20 +87,19 @@
     "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gFW9Pq7rXIFSsfYdpwD35Ws8M7.jpg"
   },
   "2022_136": {
-    "title": "The Hobbit 2",
+    "title": "The Hobbit: The Desolation of Smaug",
     "watch_date": "?",
     "category": "Film",
     "notes": "\ud83e\uddda\u200d\u2640\ufe0f",
-    "url": "https://www.themoviedb.org/movie/522478-peter-rabbit-2-the-runaway",
-    "release_date": "01/07/2021",
+    "url": "https://www.themoviedb.org/movie/57158-the-hobbit-the-desolation-of-smaug",
+    "release_date": "12/12/2013",
     "genres": [
-      "Famiglia",
-      "Commedia",
+      "Fantasy",
       "Avventura",
-      "Animazione"
+      "Azione"
     ],
-    "runtime": "1h 33m",
-    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1f5901WEku53l0WOzdfJYjnxJ7H.jpg"
+    "runtime": "2h 41m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5Rtu8VJsM0282ljMS9l0VKx67av.jpg"
   },
   "2022_137": {
     "title": "Love, Death and Robots S3",
@@ -234,7 +233,7 @@
     "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg"
   },
   "2022_146": {
-    "title": "The Hobbit 3",
+    "title": "The Hobbit: The Battle of the Five Armies",
     "watch_date": "31 Luglio",
     "category": "Film",
     "notes": "\ud83e\uddda\u200d\u2640\ufe0f",

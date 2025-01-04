@@ -12,65 +12,26 @@ import data2020 from '@site/static/data/movies_and_tv_series_2020.json';
 import data2021 from '@site/static/data/movies_and_tv_series_2021.json';
 import data2022 from '@site/static/data/movies_and_tv_series_2022.json';
 import data2023 from '@site/static/data/movies_and_tv_series_2023.json';
+import data2024 from '@site/static/data/movies_and_tv_series_2024.json';
 import FilmCard from '@site/src/components/FilmCard/FilmCard.jsx';
 
 export default function DataPage() {
-  const data2016Array = Object.values(data2016);
-  const data2017Array = Object.values(data2017);
-  const data2018Array = Object.values(data2018);
-  const data2019Array = Object.values(data2019);
-  const data2020Array = Object.values(data2020);
-  const data2021Array = Object.values(data2021);
-  const data2022Array = Object.values(data2022);
-  const data2023Array = Object.values(data2023);
+  const data2024Array = Object.values(data2024).reverse();
+  const data2023Array = Object.values(data2023).reverse();
+  const data2022Array = Object.values(data2022).reverse();
+  const data2021Array = Object.values(data2021).reverse();
+  const data2020Array = Object.values(data2020).reverse();
+  const data2019Array = Object.values(data2019).reverse();
+  const data2018Array = Object.values(data2018).reverse();
+  const data2017Array = Object.values(data2017).reverse();
+  const data2016Array = Object.values(data2016).reverse();
 
   return (
     <>
-      <h2>Anno 2016</h2>
-      <div style={{ display: 'flex', flexWrap: 'wrap', gap: '1rem' }}>
-        {data2016Array.map((film, idx) => (
-          <FilmCard key={idx} film={film} />
-        ))}
-      </div>
 
-      <h2>Anno 2017</h2>
+      <h2>Anno 2024</h2>
       <div style={{ display: 'flex', flexWrap: 'wrap', gap: '1rem' }}>
-        {data2017Array.map((film, idx) => (
-          <FilmCard key={idx} film={film} />
-        ))}
-      </div>
-
-      <h2>Anno 2018</h2>
-      <div style={{ display: 'flex', flexWrap: 'wrap', gap: '1rem' }}>
-        {data2018Array.map((film, idx) => (
-          <FilmCard key={idx} film={film} />
-        ))}
-      </div>
-
-      <h2>Anno 2019</h2>
-      <div style={{ display: 'flex', flexWrap: 'wrap', gap: '1rem' }}>
-        {data2019Array.map((film, idx) => (
-          <FilmCard key={idx} film={film} />
-        ))}
-      </div>
-
-      <h2>Anno 2020</h2>
-      <div style={{ display: 'flex', flexWrap: 'wrap', gap: '1rem' }}>
-        {data2020Array.map((film, idx) => (
-          <FilmCard key={idx} film={film} />
-        ))}
-      </div>
-
-      <h2>Anno 2021</h2>
-      <div style={{ display: 'flex', flexWrap: 'wrap', gap: '1rem' }}>
-        {data2021Array.map((film, idx) => (
-          <FilmCard key={idx} film={film} />
-        ))}
-      </div>
-
-      <h2>Anno 2022</h2>
-      <div style={{ display: 'flex', flexWrap: 'wrap', gap: '1rem' }}>
-        {data2022Array.map((film, idx) => (
+        {data2024Array.map((film, idx) => (
           <FilmCard key={idx} film={film} />
         ))}
       </div>
@@ -82,6 +43,54 @@ export default function DataPage() {
         ))}
       </div>
 
+      <h2>Anno 2022</h2>
+      <div style={{ display: 'flex', flexWrap: 'wrap', gap: '1rem' }}>
+        {data2022Array.map((film, idx) => (
+          <FilmCard key={idx} film={film} />
+        ))}
+      </div>
+
+      <h2>Anno 2021</h2>
+      <div style={{ display: 'flex', flexWrap: 'wrap', gap: '1rem' }}>
+        {data2021Array.map((film, idx) => (
+          <FilmCard key={idx} film={film} />
+        ))}
+      </div>
+
+      <h2>Anno 2020</h2>
+      <div style={{ display: 'flex', flexWrap: 'wrap', gap: '1rem' }}>
+        {data2020Array.map((film, idx) => (
+          <FilmCard key={idx} film={film} />
+        ))}
+      </div>
+
+      <h2>Anno 2019</h2>
+      <div style={{ display: 'flex', flexWrap: 'wrap', gap: '1rem' }}>
+        {data2019Array.map((film, idx) => (
+          <FilmCard key={idx} film={film} />
+        ))}
+      </div>
+
+      <h2>Anno 2018</h2>
+      <div style={{ display: 'flex', flexWrap: 'wrap', gap: '1rem' }}>
+        {data2018Array.map((film, idx) => (
+          <FilmCard key={idx} film={film} />
+        ))}
+      </div>
+
+      <h2>Anno 2017</h2>
+      <div style={{ display: 'flex', flexWrap: 'wrap', gap: '1rem' }}>
+        {data2017Array.map((film, idx) => (
+          <FilmCard key={idx} film={film} />
+        ))}
+      </div>
+
+      <h2>Anno 2016</h2>
+      <div style={{ display: 'flex', flexWrap: 'wrap', gap: '1rem' }}>
+        {data2016Array.map((film, idx) => (
+          <FilmCard key={idx} film={film} />
+        ))}
+      </div>
     </>
   );
 }

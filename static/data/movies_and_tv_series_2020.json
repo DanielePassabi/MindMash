@@ -193,27 +193,28 @@
     "watch_date": "17 Aprile",
     "category": "Serie TV",
     "notes": "17/04 - 15/05",
-    "url": "https://www.themoviedb.org/tv/2370-hell-s-kitchen",
-    "release_date": "2005",
+    "url": "https://www.themoviedb.org/tv/99741-devils",
+    "release_date": "2020",
     "genres": [
-      "Reality"
+      "Drama"
     ],
-    "runtime": null,
-    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/shOVFku8daIGRpgjTdMZBxUAvsV.jpg"
+    "runtime": "-",
+    "poster_url": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/l4Pl7APWpRANULCirWTrcMPfdIl.jpg"
   },
   "2020_059": {
     "title": "Parasite",
     "watch_date": "05 Luglio",
     "category": "Film",
     "notes": "",
-    "url": "https://www.themoviedb.org/movie/48311-parasite",
-    "release_date": "12/03/1982",
+    "url": "https://www.themoviedb.org/movie/496243",
+    "release_date": "07/11/2019",
     "genres": [
-      "Horror",
-      "Fantascienza"
+      "Comedy",
+      "Thriller",
+      "Drama"
     ],
-    "runtime": "1h 25m",
-    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/krhU4toMvIVgZXZIyrlpuW1DwP9.jpg"
+    "runtime": "2h 13m",
+    "poster_url": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg"
   },
   "2020_060": {
     "title": "Tenet",

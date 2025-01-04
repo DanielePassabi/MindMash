@@ -58,20 +58,23 @@
     "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rtNLQ8HbPElzEfrHjrzSr07prKT.jpg"
   },
   "2021_082": {
-    "title": "Spirit",
+    "title": "Spirit - Cavallo selvaggio",
     "watch_date": "26 Febbraio",
     "category": "Film",
     "notes": "\ud83e\uddda\u200d\u2640\ufe0f",
-    "url": "https://www.themoviedb.org/movie/72869-spirit",
-    "release_date": "01/08/2001",
+    "url": "https://www.themoviedb.org/movie/9023-spirit-stallion-of-the-cimarron",
+    "release_date": "19/12/2002",
     "genres": [
+      "Animazione",
+      "Avventura",
+      "Commedia",
+      "Famiglia",
       "Dramma",
-      "Horror",
-      "Thriller",
-      "televisione film"
+      "Western",
+      "Romance"
     ],
-    "runtime": "1h 45m",
-    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jppEf2ihUzInG37j6T0koaqGYWs.jpg"
+    "runtime": "1h 23m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wnCrtSSfMPvty9cJdsMPbWBFF8W.jpg"
   },
   "2021_083": {
     "title": "L\u2019isola del tesoro",
@@ -148,15 +151,19 @@
     "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3Q41QdROiYoEMY0qXhfRMT5DbPd.jpg"
   },
   "2021_088": {
-    "title": "Sin City 2",
+    "title": "Sin City: A Dame to Kill For",
     "watch_date": "?",
     "category": "Film",
     "notes": "\ud83e\uddda\u200d\u2640\ufe0f",
-    "url": "https://www.themoviedb.org/movie/1110664-kotc-23-sin-city",
-    "release_date": "16/05/2003",
-    "genres": [],
-    "runtime": "3h",
-    "poster_url": null
+    "url": "https://www.themoviedb.org/movie/189-sin-city-a-dame-to-kill-for",
+    "release_date": "01/10/2014",
+    "genres": [
+      "Crime",
+      "Azione",
+      "Thriller"
+    ],
+    "runtime": "1h 42m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sG6qxhO1gV7LG8WsVRJNWacwp3Q.jpg"
   },
   "2021_089": {
     "title": "See S1",
@@ -245,16 +252,57 @@
     "runtime": null,
     "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5UaYsGZOFhjFDwQh6GuLjjA1WlF.jpg"
   },
-  "2021_095": {
-    "title": "The Big Bang Theory S1-S4",
+  "2021_095a": {
+    "title": "The Big Bang Theory S1",
     "watch_date": "29 Giugno",
     "category": "Serie TV",
     "notes": "? - 29/06",
-    "url": null,
-    "release_date": null,
-    "genres": [],
+    "url": "https://www.themoviedb.org/tv/1418-the-big-bang-theory",
+    "release_date": "2007",
+    "genres": [
+      "Commedia"
+    ],
     "runtime": null,
-    "poster_url": null
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ooBGRQBdbGzBxAVfExiO8r7kloA.jpg"
+  },
+  "2021_095b": {
+    "title": "The Big Bang Theory S2",
+    "watch_date": "29 Giugno",
+    "category": "Serie TV",
+    "notes": "? - 29/06",
+    "url": "https://www.themoviedb.org/tv/1418-the-big-bang-theory",
+    "release_date": "2007",
+    "genres": [
+      "Commedia"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ooBGRQBdbGzBxAVfExiO8r7kloA.jpg"
+  },
+  "2021_095c": {
+    "title": "The Big Bang Theory S3",
+    "watch_date": "29 Giugno",
+    "category": "Serie TV",
+    "notes": "? - 29/06",
+    "url": "https://www.themoviedb.org/tv/1418-the-big-bang-theory",
+    "release_date": "2007",
+    "genres": [
+      "Commedia"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ooBGRQBdbGzBxAVfExiO8r7kloA.jpg"
+  },
+  "2021_095d": {
+    "title": "The Big Bang Theory S4",
+    "watch_date": "29 Giugno",
+    "category": "Serie TV",
+    "notes": "? - 29/06",
+    "url": "https://www.themoviedb.org/tv/1418-the-big-bang-theory",
+    "release_date": "2007",
+    "genres": [
+      "Commedia"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ooBGRQBdbGzBxAVfExiO8r7kloA.jpg"
   },
   "2021_096": {
     "title": "The Big Bang Theory S5",
@@ -390,43 +438,45 @@
     "watch_date": "20 Agosto",
     "category": "Serie TV",
     "notes": "20/08 - 25/08",
-    "url": "https://www.themoviedb.org/tv/63510",
-    "release_date": "2015",
+    "url": "https://www.themoviedb.org/tv/1429",
+    "release_date": "2013",
     "genres": [
-      "Animazione",
-      "Action & Adventure",
-      "Commedia",
-      "Sci-Fi & Fantasy"
+      "Animation",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
     ],
-    "runtime": null,
-    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/el6yFiXQxiPLZLCJsukAI9UTI6J.jpg"
+    "runtime": "-",
+    "poster_url": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/hTP1DtLGFamjfu8WqjnuQdP1n4i.jpg"
   },
   "2021_106": {
     "title": "Attack on Titan S2",
     "watch_date": "25 Agosto",
     "category": "Serie TV",
     "notes": "25/08 - 26/08",
-    "url": "https://www.themoviedb.org/tv/63510",
-    "release_date": "2015",
+    "url": "https://www.themoviedb.org/tv/1429",
+    "release_date": "2013",
     "genres": [
-      "Animazione",
-      "Action & Adventure",
-      "Commedia",
-      "Sci-Fi & Fantasy"
+      "Animation",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
     ],
-    "runtime": null,
-    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/el6yFiXQxiPLZLCJsukAI9UTI6J.jpg"
+    "runtime": "-",
+    "poster_url": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/hTP1DtLGFamjfu8WqjnuQdP1n4i.jpg"
   },
   "2021_107": {
     "title": "Attack on Titan S3 Parte I",
     "watch_date": "26 Agosto",
     "category": "Serie TV",
     "notes": "26/08 - 28/08",
-    "url": null,
-    "release_date": "1 agosto, 2015",
-    "genres": [],
-    "runtime": null,
-    "poster_url": null
+    "url": "https://www.themoviedb.org/tv/1429",
+    "release_date": "2013",
+    "genres": [
+      "Animation",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "runtime": "-",
+    "poster_url": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/hTP1DtLGFamjfu8WqjnuQdP1n4i.jpg"
   },
   "2021_108": {
     "title": "Spider-Man Far From Home",
@@ -461,11 +511,15 @@
     "watch_date": "29 Agosto",
     "category": "Serie TV",
     "notes": "29/08 - 30/08",
-    "url": null,
-    "release_date": "1 agosto, 2015",
-    "genres": [],
-    "runtime": null,
-    "poster_url": null
+    "url": "https://www.themoviedb.org/tv/1429",
+    "release_date": "2013",
+    "genres": [
+      "Animation",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "runtime": "-",
+    "poster_url": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/hTP1DtLGFamjfu8WqjnuQdP1n4i.jpg"
   },
   "2021_111": {
     "title": "Nobody",
@@ -486,11 +540,15 @@
     "watch_date": "?",
     "category": "Serie TV",
     "notes": "\ud83e\uddda\u200d\u2640\ufe0f",
-    "url": null,
-    "release_date": "1 agosto, 2015",
-    "genres": [],
-    "runtime": null,
-    "poster_url": null
+    "url": "https://www.themoviedb.org/tv/1429",
+    "release_date": "2013",
+    "genres": [
+      "Animation",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "runtime": "-",
+    "poster_url": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/hTP1DtLGFamjfu8WqjnuQdP1n4i.jpg"
   },
   "2021_113": {
     "title": "Perfect Blue",
@@ -535,7 +593,7 @@
     "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8cFxeflG3pVRJcy339HwImTOUlc.jpg"
   },
   "2021_116": {
-    "title": "Squid Game",
+    "title": "Squid Game S1",
     "watch_date": "?",
     "category": "Serie TV",
     "notes": "\ud83e\uddda\u200d\u2640\ufe0f",
@@ -550,7 +608,7 @@
     "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nW5rupC5zMeAGgGBYXkr8JL8Xq7.jpg"
   },
   "2021_117": {
-    "title": "Modern Family S1",
+    "title": "Modern Family S2",
     "watch_date": "?",
     "category": "Serie TV",
     "notes": "\ud83e\uddda\u200d\u2640\ufe0f",

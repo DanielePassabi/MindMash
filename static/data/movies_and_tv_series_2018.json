@@ -56,18 +56,17 @@
     "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rH0NJQNMcdKjdpBSt2ibpDhctIX.jpg"
   },
   "2018_007": {
-    "title": "Eliminators",
+    "title": "Eliminators - Senza regole",
     "watch_date": "07 Gennaio",
     "category": "Film",
     "notes": "",
-    "url": "https://www.themoviedb.org/movie/47822-eliminators",
-    "release_date": "31/01/1986",
+    "url": "https://www.themoviedb.org/movie/421313-eliminators",
+    "release_date": "06/12/2016",
     "genres": [
-      "Azione",
-      "Fantascienza"
+      "Azione"
     ],
-    "runtime": "1h 36m",
-    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9RBzZcSKmBhVbJWtLwELyvU7V4G.jpg"
+    "runtime": "1h 34m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pUB91wOMQrmkforP7ntIMy2zkdn.jpg"
   },
   "2018_008": {
     "title": "Memento",
@@ -234,15 +233,15 @@
     "watch_date": "24 Febbraio",
     "category": "Film",
     "notes": "",
-    "url": "https://www.themoviedb.org/movie/453395-doctor-strange-in-the-multiverse-of-madness",
-    "release_date": "04/05/2022",
+    "url": "https://www.themoviedb.org/movie/284052-doctor-strange",
+    "release_date": "26/10/2016",
     "genres": [
-      "Fantasy",
-      "Azione",
-      "Avventura"
+      "Action",
+      "Adventure",
+      "Fantasy"
     ],
-    "runtime": "2h 6m",
-    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3HldUzuFfMXtmyle2ZanffFbw3B.jpg"
+    "runtime": "1h 55m",
+    "poster_url": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/7WfK17BXE6szXlm4WOxfswgbdsL.jpg"
   },
   "2018_020": {
     "title": "Gomorra S2",
@@ -390,7 +389,7 @@
     "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4SA0ZfPzB8vgd8aMK0avDdmjUKl.jpg"
   },
   "2018_030": {
-    "title": "Maze Runner: the death cure",
+    "title": "Maze Runner: The Death Cure",
     "watch_date": "21 Aprile",
     "category": "Film",
     "notes": "",
@@ -432,7 +431,7 @@
       "Fantascienza"
     ],
     "runtime": "2h 36m",
-    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/A404e70ZnvWFoWA517sySQXe8X6.jpg"
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/t24aimjQLa0dyoZQEbSws7XK1U0.jpg"
   },
   "2018_033": {
     "title": "Black Panther",
@@ -691,11 +690,15 @@
     "watch_date": "15 Luglio",
     "category": "Film",
     "notes": "",
-    "url": null,
+    "url": "https://www.themoviedb.org/tv/42009-black-mirror",
     "release_date": "2011",
-    "genres": [],
-    "runtime": null,
-    "poster_url": null
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama",
+      "Mystery"
+    ],
+    "runtime": "-",
+    "poster_url": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/5UaYsGZOFhjFDwQh6GuLjjA1WlF.jpg"
   },
   "2018_051": {
     "title": "Ready Player One",
@@ -847,19 +850,19 @@
     "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3lOLhm94BSUt9pTP9VpHo1eQIxc.jpg"
   },
   "2018_061": {
-    "title": "Ant-Man and the Wasp",
+    "title": "Ant-Man and the Wasp 2018",
     "watch_date": "02 Ottobre",
     "category": "Film",
     "notes": "",
-    "url": "https://www.themoviedb.org/movie/640146-ant-man-and-the-wasp-quantumania",
-    "release_date": "15/02/2023",
+    "url": "https://www.themoviedb.org/movie/363088-ant-man-and-the-wasp",
+    "release_date": "14/08/2018",
     "genres": [
       "Azione",
       "Avventura",
       "Fantascienza"
     ],
-    "runtime": "2h 7m",
-    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4cSf5MRlzkRX7oluXo0N6v8H1uH.jpg"
+    "runtime": "1h 58m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lNs2tFWH7OMJzhF2sLBsQA2MNrM.jpg"
   },
   "2018_062": {
     "title": "Upgrade",
@@ -895,16 +898,16 @@
     "watch_date": "16 Ottobre",
     "category": "Film",
     "notes": "",
-    "url": "https://www.themoviedb.org/movie/123025-batman-the-dark-knight-returns-part-1",
-    "release_date": "25/09/2012",
+    "url": "https://www.themoviedb.org/movie/155-the-dark-knight",
+    "release_date": "23/07/2008",
     "genres": [
-      "Fantascienza",
-      "Azione",
-      "Animazione",
-      "Mistero"
+      "Drama",
+      "Action",
+      "Crime",
+      "Thriller"
     ],
-    "runtime": "1h 16m",
-    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kkjTbwV1Xnj8wBL52PjOcXzTbnb.jpg"
+    "runtime": "2h 32m",
+    "poster_url": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
   },
   "2018_065": {
     "title": "Ned Kelly",

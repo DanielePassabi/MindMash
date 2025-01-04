@@ -437,4 +437,34 @@ Here's the table for the list of films and series watched in 2020:
 
 ## Anno 2024
 
-...
+| Data         | Titolo                                                 | Categoria | Note   |
+| ------------ | ------------------------------------------------------ | --------- | ------ |
+| 13 Gennaio   | Hunger Games - La ballata dell'usignolo e del serpente | Film      |        |
+| 30 Gennaio   | Jujutsu Kaisen S1                                      | Serie TV  |        |
+| 07 Febbraio  | Society of the snow                                    | Film      |        |
+| ?            | Un Professore S1                                       | Serie TV  | 🧚‍♀️   |
+| ?            | Un Professore S2                                       | Serie TV  | 🧚‍♀️   |
+| 27 Marzo     | Red Eye                                                | Film      |        |
+| ?            | Attack on Titan                                        | Serie TV  | 🧚‍♀️   |
+| ?            | Death Note                                             | Serie TV  |        |
+| ?            | The Boys S1                                            | Serie TV  |        |
+| ?            | The Boys S2                                            | Serie TV  |        |
+| ?            | The Boys S3                                            | Serie TV  |        |
+| ?            | The Boys S4                                            | Serie TV  |        |
+| Settembre  | Rick and Morty S1                                        | Serie TV  |        |
+| Settembre  | Rick and Morty S2                                        | Serie TV  |        |
+| Settembre  | Rick and Morty S3                                        | Serie TV  |        |
+| Settembre  | Rick and Morty S4                                        | Serie TV  |        |
+| Settembre  | Rick and Morty S5                                        | Serie TV  |        |
+| Settembre  | Rick and Morty S6                                        | Serie TV  |        |
+| Settembre  | La Principessa Mononoke                                  | Film      |        |
+| Settembre  | Fight Club                                               | Film      | 🧚‍♀️   |
+| Settembre  | Rick and Morty S7                                        | Serie TV  |        |
+| Ottobre    | Vinland Saga S1                                          | Serie TV  |        |
+| Ottobre    | Vinland Saga S2                                          | Serie TV  |        |
+| Novembre   | Kill Bill Volume II                                      | Film      |        |
+| Dicembre   | Full Metal Alchemist S1                                  | Serie TV  |        |
+| Dicembre   | Full Metal Alchemist S2                                  | Serie TV  |        |
+| Dicembre   | Full Metal Alchemist S3                                  | Serie TV  |        |
+| Dicembre   | Full Metal Alchemist S4                                  | Serie TV  |        |
+| Dicembre   | Il ragazzo e l’airone                                    | Film      |        |

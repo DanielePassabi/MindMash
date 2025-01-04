@@ -2,11 +2,15 @@ import React from 'react';
 import missingWallpaper from './missing_wallpaper.jpg';
 
 export default function FilmCard({ film }) {
+  // Determine the background color
+  const isTvSeries = film.category?.toLowerCase().includes('tv');
+  const backgroundColor = isTvSeries ? '#F5E5E0' : '#F9F9F9';
+
   return (
     <div
       style={{
         border: '1px solid #ccc',
-        backgroundColor: '#f9f9f9',
+        backgroundColor: backgroundColor,
         padding: '0.5rem',
         marginBottom: '0rem',
         borderRadius: '0px',
@@ -19,26 +23,24 @@ export default function FilmCard({ film }) {
         src={film.poster_url || missingWallpaper}
         alt={`Poster of ${film.title}`}
         style={{
-            width: '100%',
-            height: 'auto',
-            borderRadius: '0px',
-            border: '1px solid #ccc',
+          width: '100%',
+          height: 'auto',
+          borderRadius: '0px',
+          border: '1px solid #ccc',
         }}
-        />
+      />
 
       {/* Title */}
       {film.url ? (
-      // Show title as a link
-      <h3 style={{ fontSize: '1rem', margin: '0.25rem 0' }}>
+        <h3 style={{ fontSize: '0.9rem', margin: '0.25rem 0' }}>
           <a href={film.url} target="_blank" rel="noopener noreferrer">
-          {film.title}
+            {film.title}
           </a>
-      </h3>
+        </h3>
       ) : (
-      // Show title as plain text (no link)
-      <h3 style={{ fontSize: '1rem', margin: '0.25rem 0' }}>
+        <h3 style={{ fontSize: '0.9rem', margin: '0.25rem 0' }}>
           {film.title}
-      </h3>
+        </h3>
       )}
 
       {/* Release date */}

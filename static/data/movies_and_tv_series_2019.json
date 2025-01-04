@@ -133,14 +133,13 @@
     "watch_date": "18 Aprile",
     "category": "Film",
     "notes": "",
-    "url": "https://www.themoviedb.org/movie/5924-papillon",
-    "release_date": "21/02/1974",
+    "url": "https://www.themoviedb.org/movie/433498-papillon",
+    "release_date": "27/06/2018",
     "genres": [
-      "Crime",
-      "Dramma"
+      "Drama"
     ],
-    "runtime": "2h 24m",
-    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/356oqQpug682OERsWV0bGZ0YxwQ.jpg"
+    "runtime": "2h 14m",
+    "poster_url": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/ahF5c6vyP8HWMqIwlhecbRALkjq.jpg"
   },
   "2019_011": {
     "title": "Capitan Marvel",
@@ -209,7 +208,7 @@
       "Fantascienza"
     ],
     "runtime": "2h 36m",
-    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/A404e70ZnvWFoWA517sySQXe8X6.jpg"
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/t24aimjQLa0dyoZQEbSws7XK1U0.jpg"
   },
   "2019_016": {
     "title": "Avengers - Endgame",
@@ -224,7 +223,7 @@
       "Azione"
     ],
     "runtime": "3h 1m",
-    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8miyORCKx1lMYtc5YmqHyiVLwDF.jpg"
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/AwiFJmSGLSNia99080w7RtOB1P.jpg"
   },
   "2019_017": {
     "title": "The Equalizer 2",
@@ -607,29 +606,34 @@
     "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/y1AthYH1r2j4N4cYn2HdrEGgrnJ.jpg"
   },
   "2019_043": {
-    "title": "Il Re Leone",
+    "title": "Il Re Leone (Live Action, 2019)",
     "watch_date": "22 Dicembre",
     "category": "Film",
     "notes": "",
-    "url": "https://www.themoviedb.org/movie/762509-mufasa-the-lion-king",
-    "release_date": "19/12/2024",
+    "url": "https://www.themoviedb.org/movie/420818-the-lion-king",
+    "release_date": "21/08/2019",
     "genres": [
-      "Avventura",
-      "Famiglia",
-      "Animazione"
+      "Adventure",
+      "Drama",
+      "Family",
+      "Animation"
     ],
     "runtime": "1h 58m",
-    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eZS2taWdadP8lh22xJOVrWT0lTn.jpg"
+    "poster_url": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/dzBtMocZuJbjLOXvrl4zGYigDzh.jpg"
   },
   "2019_044": {
-    "title": "The Witcher - Serie Netflix",
+    "title": "The Witcher S1",
     "watch_date": "22 Dicembre",
     "category": "Serie TV",
     "notes": "22/12 - 24/12",
-    "url": null,
-    "release_date": null,
-    "genres": [],
+    "url": "https://www.themoviedb.org/tv/71912-the-witcher",
+    "release_date": "2019",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Dramma",
+      "Action & Adventure"
+    ],
     "runtime": null,
-    "poster_url": null
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wSS25kvLxYNLGEYbmWVEF4aoGPt.jpg"
   }
 }
