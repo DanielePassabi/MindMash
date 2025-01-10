@@ -1,6 +1,6 @@
 ---
 id: ai-intro
-title: Introduction to Artificial Intelligence
+title: 📖 Introduction to AI
 ---
 
 # Introduction to Artificial Intelligence
