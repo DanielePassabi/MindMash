@@ -1,5 +1,5 @@
 ---
-id: ai-01
+id: ai-02
 title: 📖 Self-Supervised Learning
 ---
 

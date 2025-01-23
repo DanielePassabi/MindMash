@@ -1,0 +1,126 @@
+---
+id: ai-01
+title: 📖 Precision, Recall, F1-Score
+---
+
+## 1. Precision
+
+**Definition**: Precision measures the proportion of correctly predicted positive observations out of all the observations predicted as positive.
+
+```markdown
+Precision = TP / (TP + FP)
+```
+
+Where:
+
+- `TP` = True Positives (correct positive predictions).
+- `FP` = False Positives (incorrect positive predictions).
+
+**Intuition**: Precision answers the question: "Of all the positive predictions, how many were actually correct?"
+
+---
+
+## 2. Recall
+
+**Definition**: Recall measures the proportion of correctly predicted positive observations out of all the actual positive observations.
+
+```markdown
+Recall = TP / (TP + FN)
+```
+
+Where:
+
+- `TP` = True Positives (correct positive predictions).
+- `FN` = False Negatives (positive cases missed by the model).
+
+**Intuition**: Recall answers the question: "Of all the actual positive cases, how many did the model correctly identify?"
+
+---
+
+## 3. F1-Score
+
+**Definition**: The F1-Score is the harmonic mean of precision and recall. It balances the trade-off between precision and recall.
+
+```markdown
+F1-Score = 2 * (Precision * Recall) / (Precision + Recall)
+```
+
+**Intuition**: F1-Score is useful when you need a balance between precision and recall, especially when the dataset is imbalanced.
+
+---
+
+## Example Scenario: Spam Email Classifier
+
+Let's assume the following:
+
+- You have 100 emails in total.
+- 10 emails are actually spam.
+- Your model predicts 15 emails as spam, but only 7 of those are correct.
+
+### Confusion Matrix:
+
+|                | Predicted Spam (Positive) | Predicted Not Spam (Negative) |
+|----------------|---------------------------|--------------------------------|
+| **Actual Spam**      | True Positives (TP) = 7    | False Negatives (FN) = 3       |
+| **Actual Not Spam**  | False Positives (FP) = 8   | True Negatives (TN) = 82       |
+
+### Precision Calculation
+
+```markdown
+Precision = TP / (TP + FP)
+Precision = 7 / (7 + 8) = 7 / 15 = 0.467
+```
+
+**Result**: Precision = **46.7%**
+
+### Recall Calculation
+
+```markdown
+Recall = TP / (TP + FN)
+Recall = 7 / (7 + 3) = 7 / 10 = 0.7
+```
+
+**Result**: Recall = **70%**
+
+### F1-Score Calculation
+
+```markdown
+F1-Score = 2 * (Precision * Recall) / (Precision + Recall)
+F1-Score = 2 * (0.467 * 0.7) / (0.467 + 0.7)
+F1-Score = 2 * 0.3269 / 1.167
+F1-Score = 0.56
+```
+
+**Result**: F1-Score = **56%**
+
+---
+
+## When to Use These Metrics
+
+### Precision
+
+Use when the cost of a false positive is high.
+- **Example**: In email spam detection, predicting an important email as spam (false positive) can cause the user to miss critical information.
+
+### Recall
+
+Use when the cost of a false negative is high.
+- **Example**: In medical diagnosis, failing to identify a disease (false negative) can have severe consequences.
+
+### F1-Score
+
+Use when you need to balance precision and recall, especially with imbalanced datasets.
+- **Example**: In fraud detection, both false positives and false negatives have significant costs, so F1-Score provides a balanced measure.
+
+---
+
+## How Metrics Relate to the Confusion Matrix
+
+|                | Predicted Positive | Predicted Negative |
+|----------------|---------------------|---------------------|
+| **Actual Positive** | True Positive (TP)       | False Negative (FN)       |
+| **Actual Negative** | False Positive (FP)      | True Negative (TN)        |
+
+- **Precision**: Focuses on the first column (positive predictions).
+- **Recall**: Focuses on the first row (actual positives).
+- **F1-Score**: Combines both precision and recall.
