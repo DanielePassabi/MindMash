@@ -5,7 +5,11 @@ title: 🤗 HF Agents Unit 1
 
 # Unit 1. Introduction to Agents
 
-Link to [Unit 1](https://huggingface.co/learn/agents-course/unit1/what-are-agents).
+## ➡️ **Useful Materials**
+
+### Original Source
+
+You can find here the original [**HuggingFace Unit 1**](https://huggingface.co/learn/agents-course/unit1/what-are-agents).
 
 ## 1️⃣ **What is an agent?**
 
@@ -644,7 +648,7 @@ An **Agent's thoughts** represent its **internal reasoning and planning process*
 | *Goal Setting* | *“To complete this task, I need to establish the acceptance criteria first.”* |
 | *Prioritization* | *“The security vulnerability should be addressed before adding new features.”* |
 
-:::warning[Note]
+:::tip[Note]
 For **LLMs fine-tuned for function calling**, the thought process may be **implicit** rather than explicitly generated. More details will be covered in the **Actions** section.
 :::
 
@@ -662,9 +666,196 @@ This encourages the model to:
 - **Break the problem into sub-tasks**, reducing the likelihood of errors.
 - **Consider intermediate steps more carefully**, improving overall accuracy.
 
-:::info[Beyond Prompting: Reasoning-Focused Models]
+:::tip[Beyond Prompting: Reasoning-Focused Models]
 Recent advancements have led to models like **Deepseek R1** and **OpenAI's o1**, which have been **fine-tuned to "think before answering."**
 Unlike ReAct, which relies on **prompting**, these models are **explicitly trained** to generate structured reasoning sections using special tokens (e.g., `<think>` and `</think>`).
 
 This evolution highlights the growing importance of **built-in reasoning strategies** for improving model accuracy and reliability.
 :::
+
+## 7️⃣ **Actions: Enabling the Agent to Engage with Its Environment**
+
+### Understanding Actions in AI Agents
+
+:::info[Definition]
+Actions are the concrete steps an **AI agent takes to interact with its environment**.
+:::
+
+For example, a **customer service agent** might:
+
+- Retrieve customer data from a database.
+- Offer relevant support articles.
+- Escalate issues to a human representative.
+
+### Types of Agent Actions
+
+AI agents take actions in different ways, depending on how they represent and execute operations:
+
+| **Type of Agent**       | **Description** |
+|-------------------------|----------------|
+| *JSON Agent*         | Specifies actions in **JSON format**. |
+| *Code Agent*         | Generates **executable code** to perform actions (interpreted externally). |
+| *Function-calling Agent* | A subtype of JSON Agents, fine-tuned to generate a new message for each action. |
+
+Actions can serve various **purposes**, depending on the agent's objective:
+
+| **Type of Action**      | **Description** |
+|-------------------------|----------------|
+| *Information Gathering* | Performing web searches, querying databases, or retrieving documents. |
+| *Tool Usage*         | Making API calls, running calculations, or executing code. |
+| *Environment Interaction* | Manipulating digital interfaces or controlling physical devices. |
+| *Communication*       | Engaging with users via chat or collaborating with other agents. |
+
+### The Importance of Stopping and Parsing Actions
+
+A crucial aspect of an agent’s execution cycle is the **Stop and Parse Approach**, ensuring that actions are **structured, predictable, and correctly executed**.
+
+This method follows a structured process to maintain clarity and control over an agent's outputs:
+
+1. **Generation in a Structured Format**  
+   The agent outputs its intended action in a predetermined format, such as **JSON or code**.
+
+2. **Halting Further Generation**  
+   Once the action is fully described, the agent **stops generating tokens**, preventing unnecessary or incorrect output.
+
+3. **Parsing the Output**  
+   An **external parser** reads the formatted action, identifies which **Tool** to call, and extracts the necessary parameters.
+
+#### Example: Parsing a Weather Query
+
+If an agent needs to check the weather in New York, it might output:
+
+```json
+Thought: I need to check the current weather for New York.
+Action:
+{
+  "action": "get_weather",
+  "action_input": {"location": "New York"}
+}
+```
+
+The framework can then:
+
+- Extract the **function name**: `get_weather`.
+- Retrieve the **required parameters**: `location: "New York"`.
+- Call the appropriate **external tool** to execute the request.
+
+#### Why Is This Important?
+
+✔ **Ensures clear, machine-readable outputs** for seamless execution.  
+✔ **Minimizes errors** by enforcing structured formatting.  
+✔ **Prevents unintended text generation**, maintaining precision.  
+
+### Code Agents: Generating Executable Actions  
+
+An alternative to JSON-based actions is **Code Agents**, which generate **executable code blocks** — typically in a high-level language like **Python** — instead of structured JSON.
+
+![My Image](./images/code-vs-json-actions.png)
+
+#### Advantages of Code Agents
+
+✔ **Expressiveness** – Supports complex logic (loops, conditionals, and nested functions), making it more flexible than JSON.  
+✔ **Modularity and Reusability** – Generated code can define reusable functions and modules for multiple tasks.  
+✔ **Enhanced Debuggability** – Errors in code are often easier to detect and correct using standard debugging tools.  
+✔ **Direct Integration** – Can interface directly with external libraries, APIs, and data sources for real-time operations.  
+
+#### Example: Code Agent for Fetching Weather Data
+
+A **Code Agent** tasked with retrieving weather information might generate the following Python snippet:  
+
+```python
+# Code Agent Example: Retrieve Weather Information
+def get_weather(city):
+    import requests
+    api_url = f"https://api.weather.com/v1/location/{city}?apiKey=YOUR_API_KEY"
+    response = requests.get(api_url)
+    if response.status_code == 200:
+        data = response.json()
+        return data.get("weather", "No weather information available")
+    else:
+        return "Error: Unable to fetch weather data."
+
+# Execute the function and prepare the final answer
+result = get_weather("New York")
+final_answer = f"The current weather in New York is: {result}"
+print(final_answer)
+```
+
+#### How This Works
+
+✔ The **Code Agent** dynamically **generates and executes** Python code.  
+✔ The function **fetches data from an API**, processes the response, and formats the output.  
+✔ The **stop and parse approach** ensures clear code boundaries and signals completion (e.g., via `print(final_answer)`).  
+
+#### Key Takeaways
+
+- **Code Agents offer greater flexibility** for tasks that require **dynamic computation, complex logic, or API integration**.  
+- They are particularly useful in **data processing, automation, and real-time decision-making** scenarios.  
+- Like JSON-based agents, they still **require structured parsing and controlled execution** to maintain reliability and security.  
+
+## 8️⃣ **Observe: Integrating Feedback to Reflect and Adapt**
+
+### What Are Observations?
+
+:::info[Definition]
+
+Observations are how an **Agent perceives the consequences of its actions**. They provide **real-time feedback** that fuels the Agent’s thought process and guides its next steps. 
+
+:::
+
+Observations come from **external signals**, such as:
+
+- **API responses** (e.g., weather data, search results)
+- **Error messages** (e.g., system logs, status codes)
+- **Sensor readings** (e.g., a robot’s position, environmental changes)
+
+### The Observation Phase
+
+Once an action is executed, the **Agent processes feedback** in three key steps:  
+
+1. **Collects Feedback**  
+Receives data confirming success, failure, or additional information needed.  
+
+2. **Appends Results**  
+Integrates the new information into its memory (often appended at the end of the prompt).  
+
+3. **Adapts Strategy**  
+Uses the updated context to refine future actions and reasoning.  
+
+For example, if a weather API returns:  
+> *"Partly cloudy, 15°C, 60% humidity."*  
+
+This observation is **stored** and used to determine if additional steps are needed or if a final answer can be generated.  
+
+This **iterative feedback loop** allows the Agent to **dynamically align with its goals**, continuously learning and adjusting based on real-world outcomes.  
+
+### Types of Observations
+
+Observations can take many forms, acting like **Tool logs** that provide textual feedback from action execution:  
+
+| **Type of Observation** | **Example**  |  
+|------------------------|-------------|  
+| *System Feedback*      | Error messages, success notifications, status codes |  
+| *Data Changes*         | Database updates, file modifications, system state changes |  
+| *Environmental Data*   | Sensor readings, system metrics, resource usage |  
+| *Response Analysis*    | API responses, query results, computation outputs |  
+| *Time-based Events*    | Deadlines reached, scheduled tasks completed |  
+
+### How Are Observations Integrated?
+
+After performing an action, the framework follows these steps:  
+
+1. **Parse the action**  
+Identify the function to call and extract its arguments.  
+
+2. **Execute the action**  
+Perform the requested operation.  
+
+3. **Append the result as an observation**  
+Store feedback for the next reasoning cycle.  
+
+This structured process ensures that **each action is informed by previous outcomes**, enabling continuous improvement and adaptation.  
+
+## 9️⃣ **Coding Time!**
+
+You can find coding examples in [high-performance-analytics/education](https://github.com/high-performance-analytics/education/tree/main/topics/agents).
