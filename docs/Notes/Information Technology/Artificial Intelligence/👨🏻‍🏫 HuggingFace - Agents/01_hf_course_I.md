@@ -1,6 +1,6 @@
 ---
 id: hf-unit-1
-title: 🤗 HF Agents Unit 1
+title: 📖 HF Agents Unit 1
 ---
 
 # Unit 1. Introduction to Agents
@@ -174,9 +174,9 @@ LLMs are **autoregressive**, meaning that the **output of one step** becomes the
 
 LLMs keep generating tokens **until** the EOS token (e.g., `<|im_end|>` in some models) is reached.
 
-![My Image](./images/decode_example.png)
+![My Image](./_images/decode_example.png)
 
-![My Image](./images/DecodingFinal.gif)
+![My Image](./_images/DecodingFinal.gif)
 
 ### Attention is All You Need
 
@@ -193,7 +193,7 @@ A **key feature** of the Transformer architecture is **Attention**, which allows
 - While **next-token prediction** remains the core principle (since **GPT-2**), improvements in **scaling** and **longer attention spans** have enhanced LLMs.
 - **Context length** refers to the **maximum number of tokens** the model can process at once—determining how much prior information it can use when generating text.
 
-![My Image](./images/AttentionSceneFinal.gif)
+![My Image](./_images/AttentionSceneFinal.gif)
 
 ### Prompting the LLM
 
@@ -274,7 +274,7 @@ In **AI Agents**, system messages also:
 
 These instructions ensure consistency in the model's behavior and task execution.
 
-![My Image](./images/messages_example.jpg)
+![My Image](./_images/messages_example.jpg)
 
 ### Conversations: User and Assistant Messages
 
@@ -537,7 +537,7 @@ Tool Name: calculator, Description: Multiply two integers., Arguments: a: int, b
 #### System Prompt
 
 We can then inject our tools description inside the system prompt.
-![My Image](./images/Agent_system_prompt_tools.png)
+![My Image](./_images/Agent_system_prompt_tools.png)
 
 ### Summary
 
@@ -581,11 +581,11 @@ This cycle repeats, enabling **autonomous and iterative problem-solving**.
 
 The three components work together in a continuous loop. To use an analogy from programming, the agent uses a **while loop**: the loop continues until the objective of the agent has been fulfilled.
 
-![My Image](./images/AgentCycle.gif)
+![My Image](./_images/AgentCycle.gif)
 
 In many Agent frameworks, **the rules and guidelines are embedded directly into the system prompt**, ensuring that every cycle adheres to a defined logic.
 
-![My Image](./images/system_prompt_cycle.png)
+![My Image](./_images/system_prompt_cycle.png)
 
 We see here that in the System Message we defined :
 
@@ -620,7 +620,7 @@ Alfred follows the **Thought → Action → Observation** cycle:
 
 This structured loop ensures **accurate, dynamic responses** based on real-time data.
 
-![My Image](./images/agent_example.png)
+![My Image](./_images/agent_example.png)
 
 ## 6️⃣ **Thought: Internal Reasoning and the Re-Act Approach**
 
@@ -750,7 +750,7 @@ The framework can then:
 
 An alternative to JSON-based actions is **Code Agents**, which generate **executable code blocks** — typically in a high-level language like **Python** — instead of structured JSON.
 
-![My Image](./images/code-vs-json-actions.png)
+![My Image](./_images/code-vs-json-actions.png)
 
 #### Advantages of Code Agents
 
