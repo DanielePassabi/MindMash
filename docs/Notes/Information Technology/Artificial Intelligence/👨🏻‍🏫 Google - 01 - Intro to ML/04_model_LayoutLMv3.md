@@ -57,7 +57,7 @@ Optimizing the pre-training strategy to handle large amounts of unlabeled data, 
 
 Unlike LayoutLMv2 (which had a separate image encoder that was fused with text embeddings at specific transformer layers), LayoutLMv3 aims for a **unified transformer encoder**. This means:
 
-#### Input Embeddings
+#### ➽ Input Embeddings
 
 - **Text Tokens**  
 Standard token embeddings (e.g., from WordPiece or BPE tokenization).

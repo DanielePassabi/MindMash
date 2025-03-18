@@ -49,7 +49,7 @@ Understanding these paradigms sets the stage for comprehending where self-superv
 
 **Self-Supervised Learning (SSL)** is a subset of unsupervised learning where the model learns to predict part of the data from other parts. It creates supervisory signals from the data itself, eliminating the need for external labels. Essentially, SSL leverages the inherent structure within the data to generate labels, enabling the model to learn meaningful representations.
 
-#### Key Characteristics
+#### ➽ Key Characteristics
 
 - **Label Generation**  
 Labels are automatically derived from the data.
@@ -62,7 +62,7 @@ Can utilize vast amounts of unlabeled data, which are often more readily availab
 
 SSL operates primarily through two mechanisms: pretext tasks and representation learning.
 
-#### Pretext Tasks
+#### ➽ Pretext Tasks
 
 Pretext tasks are proxy tasks designed to generate labels from the data itself. By solving these tasks, the model learns representations that capture the underlying structure of the data.
 
@@ -72,7 +72,7 @@ The model is tasked with reconstructing a missing part of an image. By learning 
 
 :::
 
-#### Representation Learning
+#### ➽ Representation Learning
 
 Representation learning involves transforming raw data into a structured format that makes it easier for models to perform tasks like classification or regression.
 
@@ -86,7 +86,7 @@ In natural language processing, models like Word2Vec learn vector representation
 
 SSL encompasses various approaches, primarily categorized into contrastive learning and generative approaches.
 
-#### Contrastive Learning
+#### ➽ Contrastive Learning
 
 Contrastive learning focuses on distinguishing between similar (positive) and dissimilar (negative) pairs of data. The objective is to bring representations of similar pairs closer while pushing dissimilar pairs apart in the feature space.
 
@@ -96,7 +96,7 @@ This method augments an image twice to create two correlated views. The model is
 
 :::
 
-#### Generative Approaches
+#### ➽ Generative Approaches
 
 Generative self-supervised learning involves models generating data or parts of data, learning the underlying distribution in the process.
 
