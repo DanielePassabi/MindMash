@@ -387,6 +387,29 @@ Although noise might initially appear detrimental because it causes variability 
 
 As a result, a moderate level of noise - carefully balanced through the batch size - is desirable rather than something to eliminate entirely.
 
+:::warning[Why Smaller Batch Sizes improve Generalization?]
+The relationship between smaller batch sizes and improved generalization is an interesting phenomenon in machine learning. We explain the key mechanisms behind this effect:
+
+1. **Noise as Regularization**  
+   Smaller batches introduce more noise into the gradient updates since each batch provides only a limited view of the overall data distribution. This noise acts as an implicit regularization mechanism, helping the model avoid overfitting to the training data and promoting better generalization to unseen examples.
+
+2. **Escaping Sharp Minima**  
+   Research suggests that the loss landscape of neural networks contains both "sharp" and "flat" minima. Models that settle in flatter minima tend to generalize better. Smaller batch sizes create noisier updates that help models escape sharp minima and find flatter regions of the loss landscape, which are more robust to small variations in the input data.
+
+3. **Exploration of Parameter Space**  
+   The added noise from small-batch training encourages broader exploration of the parameter space, making it less likely for the model to get stuck in suboptimal local minima. This wider exploration increases the chances of finding parameter configurations that generalize well.
+
+4. **Implicit Learning Rate Adaptation**  
+   Smaller batches effectively introduce an adaptive learning rate behavior. The noise in gradient estimates is higher in regions where the loss changes rapidly (sharp minima) and lower in flat regions, naturally pushing optimization toward flatter minima.
+
+5. **Diversity of Examples**  
+   With smaller batches, the model gets updated more frequently (more iterations per epoch). This means the model "sees" more diverse combinations of training examples during optimization, potentially capturing more nuanced patterns in the data.
+
+The effect is particularly pronounced in deep neural networks and has been supported by empirical studies showing that models trained with smaller batches often perform better on validation and test data than those trained with larger batches, especially when using the same number of epochs.
+
+However, it's worth noting that extremely small batch sizes can also introduce too much noise, potentially harming convergence. Finding the right batch size usually requires experimentation for your specific task and model architecture.
+:::
+
 ### Epochs
 
 #### ➽ Introduction
@@ -458,6 +481,16 @@ Too many epochs, model memorizes training data, validation metrics worsen
 1. Monitoring validation metrics during training
 2. Stopping when validation performance begins to degrade
 3. Reverting to the model state with best validation performance
+
+:::warning[Is Point 3 part of Early Stopping?]
+
+Point 3 is indeed considered an integral part of the complete early stopping technique, not just an optional follow-up step.
+
+The core idea of early stopping is to prevent overfitting by halting training when the model begins to learn patterns specific to the training data that don't generalize well. However, simply stopping at that point would give us a model that has already begun to overfit.
+
+So while conceptually we can think of early stopping as just "knowing when to stop", the complete implementation almost always includes reverting to the best model state as part of the technique itself.
+
+:::
 
 Some of the most commonly monitored metrics during early stopping include:
 
@@ -531,3 +564,83 @@ In linear regression using gradient descent optimization:
 - Features with larger values produce larger gradients.
 - This causes the optimization algorithm to "step" farther along dimensions with larger scales.
 - As a result, the algorithm may oscillate or zigzag through the error space, slowing convergence.
+
+:::info[A concrete example]
+
+Let's focus on a simple example with linear regression to show how unscaled features can cause problems during gradient descent optimization.
+
+#### Example Setup
+
+Let's consider a linear regression problem with a bias term and two features:
+
+- Feature 1: **Income in dollars** (values around $50000$)
+- Feature 2: **Age in years** (values around $30$, $40$)
+
+We're trying to predict **house prices** (in thousands of dollars).
+
+Our model is: $$y = w₀ + w₁x₁ + w₂x₂$$
+
+- $w₀$ is the bias term
+- $w₁$ is the weight for income ($x₁$)
+- $w₂$ is the weight for age ($x₂$)
+
+#### The Problem Visualization
+
+Let's visualize what happens during gradient descent with these unscaled features:
+
+1. **Gradient Calculation**: for each weight, the gradient is computed as:
+   - For $w₀$: $∂J/∂w₀ = Σ(ŷ - y)$
+   - For $w₁$: $∂J/∂w₁ = Σ(ŷ - y) * x₁$
+   - For $w₂$: $∂J/∂w₂ = Σ(ŷ - y) * x₂$
+
+2. **Impact of Feature Scale**:
+   - Income ($x₁$) has values around $50000$, so $∂J/∂w₁$ will be ~ $50000$ times larger than the gradient for the bias
+   - Age ($x₂$) has values around $35$, so $∂J/∂w₂$ will be ~ $35$ times larger than the bias gradient
+
+3. **Concrete Example**:
+   Let's say we have a small dataset:
+
+   | Income ($x₁$) | Age ($x₂$) | House Price ($y$) |
+   |-------------|----------|-----------------|
+   | $52000$      | $35$       | $250$             |
+   | $48000$      | $42$       | $230$             |
+   | $65000$      | $28$       | $285$             |
+
+   If we start with all weights at zero: $w₀ = 0, w₁ = 0, w₂ = 0$
+
+   Let's compute the gradients for a single step with learning rate $α = 0.0001$:
+
+   For the first data point:
+   - Prediction  
+   $ŷ = 0 + 0(52000) + 0(35) = 0$
+
+   - Error  
+   $(ŷ - y) = (0 - 250) = -250$
+
+   - Gradients:
+     - $∂J/∂w₀ = -250$
+     - $∂J/∂w₁ = -250 * 52000 = -13000000$
+     - $∂J/∂w₂ = -250 * 35 = -8750$
+
+   After one update:
+   - $w₀ = 0 - 0.0001 * (-250) = 0.025$
+   - $w₁ = 0 - 0.0001 * (-13000000) = 1300$
+   - $w₂ = 0 - 0.0001 * (-8750) = 0.875$
+
+4. **The Problem**  
+   - The weight for income ($w₁$) changed dramatically ($0 → 1300$)
+   - The weight for age ($w₂$) had a moderate change ($0 → 0.875$)
+   - The bias term barely moved ($0 → 0.025$)
+
+This causes two major issues:
+
+1. **Zigzagging**  
+As we continue optimization, we'll take huge steps in the income direction and tiny steps in the bias direction, causing an inefficient zigzag path through the parameter space.
+
+2. **Learning Rate Dilemma**  
+   - If we use a small learning rate to prevent overshooting in the income dimension, we'll make painfully slow progress in the bias dimension
+   - If we use a larger learning rate to make reasonable progress in the bias dimension, we'll cause wild oscillations in the income dimension
+
+This is why feature scaling (like standardization or normalization) is crucial for efficient gradient descent. It ensures all features contribute proportionally to the parameter updates.
+
+:::

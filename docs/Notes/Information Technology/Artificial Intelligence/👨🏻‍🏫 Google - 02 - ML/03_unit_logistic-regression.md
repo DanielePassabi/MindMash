@@ -129,8 +129,8 @@ $$
 Where:
 
 - $D$: Dataset of $(x, y)$ pairs.  
-- $y$: True label (0 or 1).  
-- $y'$: Predicted probability (between 0 and 1).  
+- $y$: True label ($0$ or $1$).  
+- $y'$: Predicted probability (between $0$ and $1$).  
 
 #### ➽ Intuition and Behavior
 
