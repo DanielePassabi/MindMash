@@ -1,0 +1,97 @@
+/* Main container */
+.galleryContainer {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Year section */
+.yearSection {
+  margin-bottom: 1rem;
+}
+
+/* The <summary> clickable heading */
+.yearSummary {
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+  color: var(--ifm-color-primary);
+}
+
+/* Optional styling for stats just below the year name in summary */
+.yearStats {
+  font-size: 0.9rem;
+  margin-top: 0.25rem; /* slight spacing under the year */
+  font-weight: 500;
+  color: var(--ifm-font-color-base);
+}
+
+/* 3 columns grid */
+.gamesGrid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+}
+
+/* Base card styles */
+.gameCard {
+  border-radius: 8px;
+  overflow: hidden;
+  background-color: var(--ifm-background-surface-color);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease;
+  padding-bottom: 0.5rem;
+}
+
+.gameCard:hover {
+  transform: translateY(-4px);
+}
+
+/* Completed vs. not completed vs. multiplayer (border color only) */
+.gameCardComplete {
+  border-bottom: 4px solid #B4E4CA; /* Greenish border */
+}
+.gameCardIncomplete {
+  border-bottom: 4px solid #FF8585; /* Reddish border */
+}
+.gameCardMultiplayer {
+  border-bottom: 4px solid #85B4FF; /* Blue border for multiplayer */
+}
+
+/* 16:9 images */
+.gameImage {
+  width: 100%;
+  aspect-ratio: 16 / 9; /* Keeps 16:9 ratio */
+  object-fit: cover;
+}
+
+/* Game details */
+.gameDetails {
+  padding: 0.75rem 1rem;
+  color: var(--ifm-font-color-base);
+  font-weight: 400;
+}
+
+.gameTitle {
+  margin: 0 0 0.5rem;
+  font-size: 1.1rem;
+  color: var(--ifm-color-primary);
+}
+
+/* Tighter spacing for p elements */
+.gameDetails p {
+  margin: 0.25rem 0;
+  font-size: 0.9rem;
+}
+
+/* Loading & error states */
+.loading,
+.error {
+  text-align: center;
+  padding: 4rem;
+  font-size: 1.2rem;
+}
+
+.error {
+  color: var(--ifm-color-danger);
+}

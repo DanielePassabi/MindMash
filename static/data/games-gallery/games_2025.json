@@ -1,0 +1,46 @@
+[
+    {
+        "id": "01",
+        "name": "Crash Bandicoot (PS1)",
+        "hours_played": "8",
+        "completed": true,
+        "notes": "Completato al 100% 🚀"
+    },
+    {
+        "id": "02",
+        "name": "Alan Wake 2 Night Springs",
+        "hours_played": "3",
+        "completed": true
+    },
+    {
+        "id": "03",
+        "name": "Alan Wake 2 The Lake House",
+        "hours_played": "3",
+        "completed": true
+    },
+    {
+        "id": "04",
+        "name": "The Finals",
+        "hours_played": "missing",
+        "completed": "multiplayer"
+    },
+    {
+        "id": "05",
+        "name": "No Man's Sky",
+        "hours_played": "missing",
+        "completed": false
+    },
+    {
+        "id": "06",
+        "name": "Brawhlalla",
+        "hours_played": "missing",
+        "completed": "multiplayer"
+    },
+    {
+        "id": "07",
+        "name": "Crash Bandicoot 2 \u2013 Cortex Strikes Back (PS1)",
+        "hours_played": 7,
+        "completed": true,
+        "notes": "Completato al 100% 🚀"
+    }
+]
