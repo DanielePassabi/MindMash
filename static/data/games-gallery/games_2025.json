@@ -27,13 +27,13 @@
     {
         "id": "05",
         "name": "No Man's Sky",
-        "hours_played": "missing",
+        "hours_played": "27",
         "completed": false
     },
     {
         "id": "06",
         "name": "Brawhlalla",
-        "hours_played": "missing",
+        "hours_played": "8",
         "completed": "multiplayer"
     },
     {
@@ -42,5 +42,11 @@
         "hours_played": 7,
         "completed": true,
         "notes": "Completato al 100% 🚀"
+    },
+    {
+        "id": "08",
+        "name": "Crash Bandicoot 3 \u2013 Warped (PS1)",
+        "hours_played": "missing",
+        "completed": false
     }
 ]
