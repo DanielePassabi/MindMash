@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="en" dir="ltr" class="docs-wrapper plugin-docs plugin-id-default docs-version-current docs-doc-page docs-doc-id-notes/Information Technology/Python/python-04.1" data-has-hydrated="false">
+<head>
+<meta charset="UTF-8">
+<meta name="generator" content="Docusaurus v3.5.2">
+<title data-rh="true">📍 Checkpoint 01 | MindMash</title><meta data-rh="true" name="viewport" content="width=device-width,initial-scale=1"><meta data-rh="true" name="twitter:card" content="summary_large_image"><meta data-rh="true" property="og:image" content="https://github.com/MindMash/img/docusaurus-social-card.jpg"><meta data-rh="true" name="twitter:image" content="https://github.com/MindMash/img/docusaurus-social-card.jpg"><meta data-rh="true" property="og:url" content="https://github.com/MindMash/docs/Notes/Information Technology/Python/python-04.1"><meta data-rh="true" property="og:locale" content="en"><meta data-rh="true" name="docusaurus_locale" content="en"><meta data-rh="true" name="docsearch:language" content="en"><meta data-rh="true" name="docusaurus_version" content="current"><meta data-rh="true" name="docusaurus_tag" content="docs-default-current"><meta data-rh="true" name="docsearch:version" content="current"><meta data-rh="true" name="docsearch:docusaurus_tag" content="docs-default-current"><meta data-rh="true" property="og:title" content="📍 Checkpoint 01 | MindMash"><meta data-rh="true" name="description" content="Below is a comprehensive comparison of the four main Python collection types—Lists, Tuples, Dictionaries, and Sets—followed by real-world scenarios demonstrating when each data structure is most suitable."><meta data-rh="true" property="og:description" content="Below is a comprehensive comparison of the four main Python collection types—Lists, Tuples, Dictionaries, and Sets—followed by real-world scenarios demonstrating when each data structure is most suitable."><link data-rh="true" rel="icon" href="/MindMash/img/planet-earth.png"><link data-rh="true" rel="canonical" href="https://github.com/MindMash/docs/Notes/Information Technology/Python/python-04.1"><link data-rh="true" rel="alternate" href="https://github.com/MindMash/docs/Notes/Information Technology/Python/python-04.1" hreflang="en"><link data-rh="true" rel="alternate" href="https://github.com/MindMash/docs/Notes/Information Technology/Python/python-04.1" hreflang="x-default"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.13.24/dist/katex.min.css" integrity="sha384-odtC+0UGzzFL/6PNoE8rX/SPcQDXBJ+uRepguP4QkPCm2LBxH3FA3y+fKSiJ+AmM" crossorigin="anonymous"><link rel="stylesheet" href="/MindMash/assets/css/styles.840d84ac.css">
+<script src="/MindMash/assets/js/runtime~main.23e49216.js" defer="defer"></script>
+<script src="/MindMash/assets/js/main.38fa3831.js" defer="defer"></script>
+</head>
+<body class="navigation-with-keyboard">
+<script>!function(){function t(t){document.documentElement.setAttribute("data-theme",t)}var e=function(){try{return new URLSearchParams(window.location.search).get("docusaurus-theme")}catch(t){}}()||function(){try{return window.localStorage.getItem("theme")}catch(t){}}();t(null!==e?e:"light")}(),function(){try{const n=new URLSearchParams(window.location.search).entries();for(var[t,e]of n)if(t.startsWith("docusaurus-data-")){var a=t.replace("docusaurus-data-","data-");document.documentElement.setAttribute(a,e)}}catch(t){}}()</script><div id="__docusaurus"><div role="region" aria-label="Skip to main content"><a class="skipToContent_fXgn" href="#__docusaurus_skipToContent_fallback">Skip to main content</a></div><nav aria-label="Main" class="navbar navbar--fixed-top"><div class="navbar__inner"><div class="navbar__items"><button aria-label="Toggle navigation bar" aria-expanded="false" class="navbar__toggle clean-btn" type="button"><svg width="30" height="30" viewBox="0 0 30 30" aria-hidden="true"><path stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M4 7h22M4 15h22M4 23h22"></path></svg></button><a class="navbar__brand" href="/MindMash/"><div class="navbar__logo"><img src="/MindMash/img/logo.svg" alt="MindMash Logo" class="themedComponent_mlkZ themedComponent--light_NVdE"><img src="/MindMash/img/logo.svg" alt="MindMash Logo" class="themedComponent_mlkZ themedComponent--dark_xIcU"></div><b class="navbar__title text--truncate">MindMash</b></a><a aria-current="page" class="navbar__item navbar__link navbar__link--active" href="/MindMash/docs/notes/intro">Notes</a><a class="navbar__item navbar__link" href="/MindMash/docs/tracking/intro">Tracking</a><a class="navbar__item navbar__link" href="/MindMash/docs/private/intro-private">Private</a></div><div class="navbar__items navbar__items--right"><a href="https://github.com/DanielePassabi" target="_blank" rel="noopener noreferrer" class="navbar__item navbar__link">GitHub<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="iconExternalLink_nPIU"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg></a><div class="toggle_vylO colorModeToggle_DEke"><button class="clean-btn toggleButton_gllP toggleButtonDisabled_aARS" type="button" disabled="" title="Switch between dark and light mode (currently light mode)" aria-label="Switch between dark and light mode (currently light mode)" aria-live="polite"><svg viewBox="0 0 24 24" width="24" height="24" class="lightToggleIcon_pyhR"><path fill="currentColor" d="M12,9c1.65,0,3,1.35,3,3s-1.35,3-3,3s-3-1.35-3-3S10.35,9,12,9 M12,7c-2.76,0-5,2.24-5,5s2.24,5,5,5s5-2.24,5-5 S14.76,7,12,7L12,7z M2,13l2,0c0.55,0,1-0.45,1-1s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S1.45,13,2,13z M20,13l2,0c0.55,0,1-0.45,1-1 s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S19.45,13,20,13z M11,2v2c0,0.55,0.45,1,1,1s1-0.45,1-1V2c0-0.55-0.45-1-1-1S11,1.45,11,2z M11,20v2c0,0.55,0.45,1,1,1s1-0.45,1-1v-2c0-0.55-0.45-1-1-1C11.45,19,11,19.45,11,20z M5.99,4.58c-0.39-0.39-1.03-0.39-1.41,0 c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0s0.39-1.03,0-1.41L5.99,4.58z M18.36,16.95 c-0.39-0.39-1.03-0.39-1.41,0c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0c0.39-0.39,0.39-1.03,0-1.41 L18.36,16.95z M19.42,5.99c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06c-0.39,0.39-0.39,1.03,0,1.41 s1.03,0.39,1.41,0L19.42,5.99z M7.05,18.36c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06 c-0.39,0.39-0.39,1.03,0,1.41s1.03,0.39,1.41,0L7.05,18.36z"></path></svg><svg viewBox="0 0 24 24" width="24" height="24" class="darkToggleIcon_wfgR"><path fill="currentColor" d="M9.37,5.51C9.19,6.15,9.1,6.82,9.1,7.5c0,4.08,3.32,7.4,7.4,7.4c0.68,0,1.35-0.09,1.99-0.27C17.45,17.19,14.93,19,12,19 c-3.86,0-7-3.14-7-7C5,9.07,6.81,6.55,9.37,5.51z M12,3c-4.97,0-9,4.03-9,9s4.03,9,9,9s9-4.03,9-9c0-0.46-0.04-0.92-0.1-1.36 c-0.98,1.37-2.58,2.26-4.4,2.26c-2.98,0-5.4-2.42-5.4-5.4c0-1.81,0.89-3.42,2.26-4.4C12.92,3.04,12.46,3,12,3L12,3z"></path></svg></button></div><div class="navbarSearchContainer_Bca1"></div></div></div><div role="presentation" class="navbar-sidebar__backdrop"></div></nav><div id="__docusaurus_skipToContent_fallback" class="main-wrapper mainWrapper_z2l0"><div class="docsWrapper_hBAB"><button aria-label="Scroll back to top" class="clean-btn theme-back-to-top-button backToTopButton_sjWU" type="button"></button><div class="docRoot_UBD9"><aside class="theme-doc-sidebar-container docSidebarContainer_YfHR"><div class="sidebarViewport_aRkj"><div class="sidebar_njMd"><nav aria-label="Docs sidebar" class="menu thin-scrollbar menu_SIkG"><ul class="theme-doc-sidebar-menu menu__list"><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class="menu__link" href="/MindMash/docs/notes/intro">Introduction to Notes</a></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--sublist-caret" role="button" aria-expanded="false" href="/MindMash/docs/notes/Economics and Finance/economia-e-finanza-01">Economics and Finance</a></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--sublist-caret" role="button" aria-expanded="false" href="/MindMash/docs/notes/Gym/Consigli Trainer/gym-trainer-insights-03">Gym</a></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--sublist-caret menu__link--active" role="button" aria-expanded="true" href="/MindMash/docs/notes/Information Technology/Artificial Intelligence/general-0">Information Technology</a></div><ul style="display:block;overflow:visible;height:auto" class="menu__list"><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--sublist-caret" role="button" aria-expanded="false" tabindex="0" href="/MindMash/docs/notes/Information Technology/Artificial Intelligence/general-0">Artificial Intelligence</a></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--sublist-caret menu__link--active" role="button" aria-expanded="true" tabindex="0" href="/MindMash/docs/notes/Information Technology/Python/python-01">Python</a></div><ul style="display:block;overflow:visible;height:auto" class="menu__list"><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/MindMash/docs/notes/Information Technology/Python/python-01">🐍 01. Lists</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/MindMash/docs/notes/Information Technology/Python/python-02">🐍 02. Tuples</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/MindMash/docs/notes/Information Technology/Python/python-03">🐍 03. Dictionaries</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/MindMash/docs/notes/Information Technology/Python/python-04">🐍 04. Sets</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link menu__link--active" aria-current="page" tabindex="0" href="/MindMash/docs/notes/Information Technology/Python/python-04.1">📍 Checkpoint 01</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/MindMash/docs/notes/Information Technology/Python/python-05">🐍 05. Strings</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/MindMash/docs/notes/Information Technology/Python/python-06">🐍 06. Collections</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/MindMash/docs/notes/Information Technology/Python/python-07">🐍 07. Iterators</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/MindMash/docs/notes/Information Technology/Python/python-08">🐍 08. Lambda</a></li></ul></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--sublist-caret" role="button" aria-expanded="false" tabindex="0" href="/MindMash/docs/notes/Information Technology/Web Development/wd-intro">Web Development</a></div></li></ul></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--sublist-caret" role="button" aria-expanded="false" href="/MindMash/docs/notes/Italian Literature/il-intro">Italian Literature</a></div></li></ul></nav></div></div></aside><main class="docMainContainer_TBSr"><div class="container padding-top--md padding-bottom--lg"><div class="row"><div class="col docItemCol_VOVn"><div class="docItemContainer_Djhp"><article><nav class="theme-doc-breadcrumbs breadcrumbsContainer_Z_bl" aria-label="Breadcrumbs"><ul class="breadcrumbs" itemscope="" itemtype="https://schema.org/BreadcrumbList"><li class="breadcrumbs__item"><a aria-label="Home page" class="breadcrumbs__link" href="/MindMash/"><svg viewBox="0 0 24 24" class="breadcrumbHomeIcon_YNFT"><path d="M10 19v-5h4v5c0 .55.45 1 1 1h3c.55 0 1-.45 1-1v-7h1.7c.46 0 .68-.57.33-.87L12.67 3.6c-.38-.34-.96-.34-1.34 0l-8.36 7.53c-.34.3-.13.87.33.87H5v7c0 .55.45 1 1 1h3c.55 0 1-.45 1-1z" fill="currentColor"></path></svg></a></li><li class="breadcrumbs__item"><span class="breadcrumbs__link">Information Technology</span><meta itemprop="position" content="1"></li><li class="breadcrumbs__item"><span class="breadcrumbs__link">Python</span><meta itemprop="position" content="2"></li><li itemscope="" itemprop="itemListElement" itemtype="https://schema.org/ListItem" class="breadcrumbs__item breadcrumbs__item--active"><span class="breadcrumbs__link" itemprop="name">📍 Checkpoint 01</span><meta itemprop="position" content="3"></li></ul></nav><div class="tocCollapsible_ETCw theme-doc-toc-mobile tocMobile_ITEo"><button type="button" class="clean-btn tocCollapsibleButton_TO0P">On this page</button></div><div class="theme-doc-markdown markdown"><header><h1>Checkpoint 01</h1></header>
+<p>Below is a <strong>comprehensive comparison</strong> of the four main Python collection types—<strong>Lists</strong>, <strong>Tuples</strong>, <strong>Dictionaries</strong>, and <strong>Sets</strong>—followed by real-world scenarios demonstrating when each data structure is most suitable.</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="1-comparison-at-a-glance">1. Comparison at a Glance<a href="#1-comparison-at-a-glance" class="hash-link" aria-label="Direct link to 1. Comparison at a Glance" title="Direct link to 1. Comparison at a Glance">​</a></h2>
+<table><thead><tr><th><em><strong>Feature</strong></em></th><th><strong>List</strong></th><th><strong>Tuple</strong></th><th><strong>Dictionary</strong></th><th><strong>Set</strong></th></tr></thead><tbody><tr><td><em>Definition</em></td><td>Ordered collection of items</td><td>Ordered, immutable collection of items</td><td>Unordered collection of key-value pairs</td><td>Unordered collection of unique items</td></tr><tr><td><em>Syntax</em></td><td><code>[ ]</code></td><td><code>( )</code></td><td><code>{key: value}</code></td><td><code>{ }</code> or <code>set()</code></td></tr><tr><td><em>Ordered?</em></td><td>Yes</td><td>Yes</td><td>In Python 3.7+ insertion order is preserved (conceptually unordered pre-3.7)</td><td>No</td></tr><tr><td><em>Mutable?</em></td><td>Yes (items can be changed)</td><td>No (items cannot be changed)</td><td>Yes (key-value pairs can be added/removed/updated)</td><td>Yes (items can be added/removed)</td></tr><tr><td><em>Duplicates Allowed?</em></td><td>Yes</td><td>Yes</td><td>Keys must be unique; values may be duplicated</td><td>No (automatically removes duplicates)</td></tr><tr><td><em>Indexing</em></td><td>Yes, by integer index</td><td>Yes, by integer index</td><td>By key (dictionary is key-indexed, not integer-indexed)</td><td>No (unindexed, membership tests only)</td></tr><tr><td><em>Typical Use Cases</em></td><td>- Maintaining ordered, mutable sequences <br> - Iteration, slicing, dynamic changes</td><td>- Storing fixed, ordered data <br> - Return multiple items from a function safely</td><td>- Fast lookups by key <br> - Representing structured data with unique keys</td><td>- Fast membership tests <br> - Set algebra (union, intersection, difference)</td></tr><tr><td><em>Example</em></td><td><code>[10, 20, 30]</code></td><td><code>(&quot;Alice&quot;, 25, &quot;Engineer&quot;)</code></td><td><code>{&quot;name&quot;: &quot;Alice&quot;, &quot;age&quot;: 25}</code></td><td><code>{&quot;apple&quot;, &quot;banana&quot;, &quot;cherry&quot;}</code></td></tr></tbody></table>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="2-real-programming-scenarios">2. Real Programming Scenarios<a href="#2-real-programming-scenarios" class="hash-link" aria-label="Direct link to 2. Real Programming Scenarios" title="Direct link to 2. Real Programming Scenarios">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="21-lists">2.1 Lists<a href="#21-lists" class="hash-link" aria-label="Direct link to 2.1 Lists" title="Direct link to 2.1 Lists">​</a></h3>
+<ol>
+<li>
+<p><strong>Data that may change</strong></p>
+<ul>
+<li>You have an ordered collection of items that you might add to, remove from, or modify during the program’s execution.</li>
+<li><strong>Example</strong>: A to-do list in a task management app where tasks are frequently added, removed, or reordered.</li>
+</ul>
+</li>
+<li>
+<p><strong>Iterating and preserving order</strong></p>
+<ul>
+<li>You need to perform slicing, sorting, or general sequence manipulation.</li>
+<li><strong>Example</strong>: Processing lines from a file in order or managing user-supplied inputs in the sequence they arrive.</li>
+</ul>
+</li>
+<li>
+<p><strong>Stack or Queue Implementations</strong></p>
+<ul>
+<li>You can use <code>append()</code> and <code>pop()</code> to implement stack-like (LIFO) or queue-like (FIFO) behavior.</li>
+<li><strong>Example</strong>: Undo functionality (stack-based) or a print queue (FIFO).</li>
+</ul>
+</li>
+</ol>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="22-tuples">2.2 Tuples<a href="#22-tuples" class="hash-link" aria-label="Direct link to 2.2 Tuples" title="Direct link to 2.2 Tuples">​</a></h3>
+<ol>
+<li>
+<p><strong>Immutable Group of Related Data</strong></p>
+<ul>
+<li>You have logically grouped items that should not change.</li>
+<li><strong>Example</strong>: Storing database credentials (host, port, username) as a single unit.</li>
+</ul>
+</li>
+<li>
+<p><strong>Return Multiple Values from a Function</strong></p>
+<ul>
+<li>Tuples are convenient for returning multiple values in a single function call.</li>
+<li><strong>Example</strong>: A function returning <code>(status_code, response_data, headers)</code> from an API call.</li>
+</ul>
+</li>
+<li>
+<p><strong>Dictionary Keys or Set Elements</strong> (when the data in the tuple is immutable)</p>
+<ul>
+<li>When you need a hashable representation of multiple pieces of data.</li>
+<li><strong>Example</strong>: Using <code>(x, y)</code> coordinates as a key in a dictionary or set for quick lookup.</li>
+</ul>
+</li>
+</ol>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="23-dictionaries">2.3 Dictionaries<a href="#23-dictionaries" class="hash-link" aria-label="Direct link to 2.3 Dictionaries" title="Direct link to 2.3 Dictionaries">​</a></h3>
+<ol>
+<li>
+<p><strong>Key-Value Mappings</strong></p>
+<ul>
+<li>You have data that needs to be accessed by a descriptive identifier (key) rather than a numeric index.</li>
+<li><strong>Example</strong>: A user profile with fields like <code>{&quot;name&quot;: &quot;Alice&quot;, &quot;age&quot;: 25, &quot;city&quot;: &quot;Paris&quot;}</code>.</li>
+</ul>
+</li>
+<li>
+<p><strong>Fast Lookups by Key</strong></p>
+<ul>
+<li>You must quickly check or update information associated with a specific key.</li>
+<li><strong>Example</strong>: Caching API responses using the request URL as a key and the response data as its value.</li>
+</ul>
+</li>
+<li>
+<p><strong>Flexible, Dynamic Structured Data</strong></p>
+<ul>
+<li>You need to add or remove attributes (key-value pairs) at runtime.</li>
+<li><strong>Example</strong>: Building JSON-like structures for configuration, where fields can be added/removed as needed.</li>
+</ul>
+</li>
+<li>
+<p><strong>Counting / Frequency Mapping</strong></p>
+<ul>
+<li>When you need a mapping from items to their counts or frequencies.</li>
+<li><strong>Example</strong>: Counting words in a text, e.g., <code>{&quot;hello&quot;: 3, &quot;world&quot;: 2}</code>.</li>
+</ul>
+</li>
+</ol>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="24-sets">2.4 Sets<a href="#24-sets" class="hash-link" aria-label="Direct link to 2.4 Sets" title="Direct link to 2.4 Sets">​</a></h3>
+<ol>
+<li>
+<p><strong>Membership Testing</strong></p>
+<ul>
+<li>Checking whether an item is present in a collection, typically with O(1) complexity.</li>
+<li><strong>Example</strong>: Maintaining a set of banned usernames for instant check upon registration.</li>
+</ul>
+</li>
+<li>
+<p><strong>Removing Duplicates</strong></p>
+<ul>
+<li>You have a large list with potential duplicates, and you only need unique values.</li>
+<li><strong>Example</strong>: Creating a list of unique tags from user submissions.</li>
+</ul>
+</li>
+<li>
+<p><strong>Set Algebra</strong> (union, intersection, difference, etc.)</p>
+<ul>
+<li>You need to perform mathematical-like operations on groups of elements.</li>
+<li><strong>Example</strong>: Combining and filtering large data sets of user IDs for different categories (purchased product A vs. product B).</li>
+</ul>
+</li>
+<li>
+<p><strong>Frozenset</strong> for Immutable Requirements</p>
+<ul>
+<li>When a set of items must not change or you want to use it as a dictionary key.</li>
+<li><strong>Example</strong>: Storing a set of read-only permissions in a <code>frozenset</code> to use as a key in a configuration dictionary.</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="3-when-to-choose-which">3. When to Choose Which?<a href="#3-when-to-choose-which" class="hash-link" aria-label="Direct link to 3. When to Choose Which?" title="Direct link to 3. When to Choose Which?">​</a></h2>
+<ul>
+<li>
+<p><strong>If you need an ordered, dynamic list of items</strong> where elements may be <strong>added/removed</strong>:<br>
+<strong>Use a <em>List</em></strong>.</p>
+</li>
+<li>
+<p><strong>If you need an ordered, fixed list of items</strong> where the elements never change:<br>
+<strong>Use a <em>Tuple</em></strong>.</p>
+</li>
+<li>
+<p><strong>If you need to map <strong>keys</strong> to <strong>values</strong>, or need <strong>fast lookups</strong> by an identifier</strong>:<br>
+<strong>Use a <em>Dictionary</em></strong>.</p>
+</li>
+<li>
+<p><strong>If you need a collection of <strong>unique</strong> elements</strong>, especially for <strong>membership tests</strong> or <strong>set algebra</strong>:<br>
+<strong>Use a <em>Set</em></strong>.</p>
+</li>
+</ul>
+<hr>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="summary">Summary<a href="#summary" class="hash-link" aria-label="Direct link to Summary" title="Direct link to Summary">​</a></h3>
+<p>Each Python collection type has unique properties:</p>
+<ul>
+<li><strong>Lists</strong> excel at managing ordered, mutable sequences.</li>
+<li><strong>Tuples</strong> are lightweight, immutable sequences that are often used for fixed groupings of data.</li>
+<li><strong>Dictionaries</strong> map descriptive keys to values, allowing fast lookups and dynamic key-value management.</li>
+<li><strong>Sets</strong> handle unique elements, making them perfect for membership checks and set operations.</li>
+</ul>
+<p>By choosing the <strong>right data structure</strong> for your scenario, you gain clearer, more efficient, and maintainable code.</p></div></article><nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages"><a class="pagination-nav__link pagination-nav__link--prev" href="/MindMash/docs/notes/Information Technology/Python/python-04"><div class="pagination-nav__sublabel">Previous</div><div class="pagination-nav__label">🐍 04. Sets</div></a><a class="pagination-nav__link pagination-nav__link--next" href="/MindMash/docs/notes/Information Technology/Python/python-05"><div class="pagination-nav__sublabel">Next</div><div class="pagination-nav__label">🐍 05. Strings</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#1-comparison-at-a-glance" class="table-of-contents__link toc-highlight">1. Comparison at a Glance</a></li><li><a href="#2-real-programming-scenarios" class="table-of-contents__link toc-highlight">2. Real Programming Scenarios</a><ul><li><a href="#21-lists" class="table-of-contents__link toc-highlight">2.1 Lists</a></li><li><a href="#22-tuples" class="table-of-contents__link toc-highlight">2.2 Tuples</a></li><li><a href="#23-dictionaries" class="table-of-contents__link toc-highlight">2.3 Dictionaries</a></li><li><a href="#24-sets" class="table-of-contents__link toc-highlight">2.4 Sets</a></li></ul></li><li><a href="#3-when-to-choose-which" class="table-of-contents__link toc-highlight">3. When to Choose Which?</a><ul><li><a href="#summary" class="table-of-contents__link toc-highlight">Summary</a></li></ul></li></ul></div></div></div></div></main></div></div></div><footer class="footer footer--dark"><div class="container container-fluid"><div class="row footer__links"><div class="col footer__col"><div class="footer__title">My Links</div><ul class="footer__items clean-list"><li class="footer__item"><a href="https://danielepassabi.github.io/" target="_blank" rel="noopener noreferrer" class="footer__link-item">My Portfolio<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="iconExternalLink_nPIU"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg></a></li><li class="footer__item"><a href="https://www.linkedin.com/in/daniele-passabi/" target="_blank" rel="noopener noreferrer" class="footer__link-item">LinkedIn<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="iconExternalLink_nPIU"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg></a></li></ul></div></div><div class="footer__bottom text--center"><div class="footer__copyright">(I do not really need a) Copyright © 2025 MindMash, Inc. Built with Docusaurus.</div></div></div></footer></div>
+</body>
+</html>
