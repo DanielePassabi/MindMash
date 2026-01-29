@@ -1,0 +1,108 @@
+[
+    {
+        "id": "01",
+        "name": "Crash Bandicoot (PS1)",
+        "hours_played": "8",
+        "completed": true,
+        "notes": "Completato al 100% 🚀",
+        "images": true
+    },
+    {
+        "id": "02",
+        "name": "Alan Wake 2 Night Springs",
+        "hours_played": "3",
+        "completed": true
+    },
+    {
+        "id": "03",
+        "name": "Alan Wake 2 The Lake House",
+        "hours_played": "3",
+        "completed": true
+    },
+    {
+        "id": "04",
+        "name": "Red Dead Redemption",
+        "hours_played": "9",
+        "completed": false
+    },
+    {
+        "id": "05",
+        "name": "The Finals",
+        "hours_played": "missing",
+        "completed": "multiplayer"
+    },
+    {
+        "id": "06",
+        "name": "No Man's Sky",
+        "hours_played": "27",
+        "completed": false
+    },
+    {
+        "id": "07",
+        "name": "Brawhlalla",
+        "hours_played": "18",
+        "completed": "multiplayer"
+    },
+    {
+        "id": "08",
+        "name": "Crash Bandicoot 2 \u2013 Cortex Strikes Back (PS1)",
+        "hours_played": 7,
+        "completed": true,
+        "notes": "Completato al 100% 🚀"
+    },
+    {
+        "id": "09",
+        "name": "Crash Bandicoot 3 \u2013 Warped (PS1)",
+        "hours_played": "missing",
+        "completed": false
+    },
+    {
+        "id": "10",
+        "name": "The Last of Us Part II",
+        "hours_played": "26",
+        "completed": true,
+        "images": true
+    },
+    {
+        "id": "11",
+        "name": "Clair Obscur: Expedition 33",
+        "hours_played": "77",
+        "completed": true,
+        "images": true
+    },
+    {
+        "id": "12",
+        "name": "One-Armed Robber",
+        "hours_played": "5",
+        "completed": "multiplayer",
+        "images": true
+    },
+    {
+        "id": "13",
+        "name": "Hollow Knight: Silksong",
+        "hours_played": "19",
+        "completed": false,
+        "images": false
+    },
+    {
+        "id": "14",
+        "name": "Battlefield 6",
+        "hours_played": "98",
+        "completed": "multiplayer",
+        "images": false
+    },
+    {
+        "id": "15",
+        "name": "It Takes Two",
+        "hours_played": "2",
+        "completed": "multiplayer",
+        "images": false
+    },
+    {
+        "id": "16",
+        "name": "Peak",
+        "hours_played": "3",
+        "completed": "multiplayer",
+        "images": false
+    }
+]
