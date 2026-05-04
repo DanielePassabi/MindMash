@@ -1,0 +1,74 @@
+[
+    {
+        "id": "01",
+        "name": "Ark Raiders",
+        "hours_played": "4",
+        "completed": "multiplayer",
+        "notes": "",
+        "images": false,
+        "played_on": "Desktop_PC"
+    },
+    {
+        "id": "02",
+        "name": "God of War: Chains of Olympus",
+        "hours_played": "6",
+        "completed": true,
+        "notes": "",
+        "images": false,
+        "played_on": "Steam_Deck"
+    },
+    {
+        "id": "03",
+        "name": "Dredge",
+        "hours_played": "12",
+        "completed": true,
+        "notes": "",
+        "images": false,
+        "played_on": "Steam_Deck"
+    },
+    {
+        "id": "04",
+        "name": "Metal Gear Solid Δ: Snake Eater",
+        "hours_played": "12",
+        "completed": true,
+        "notes": "",
+        "images": false,
+        "played_on": "Desktop_PC"
+    },
+    {
+        "id": "05",
+        "name": "Plants Vs. Zombies: Replanted",
+        "hours_played": "10",
+        "completed": true,
+        "notes": "",
+        "images": false,
+        "played_on": "Steam_Deck"
+    },
+    {
+        "id": "06",
+        "name": "Signalis",
+        "hours_played": "0",
+        "completed": false,
+        "notes": "",
+        "images": false,
+        "played_on": "Steam_Deck"
+    },
+    {
+        "id": "07",
+        "name": "Sektori",
+        "hours_played": "0",
+        "completed": false,
+        "notes": "",
+        "images": false,
+        "played_on": "Steam_Deck"
+    },
+    {
+        "id": "08",
+        "name": "The Legend of Zelda: Tears of the Kingdom",
+        "hours_played": "6",
+        "completed": false,
+        "notes": "",
+        "images": false,
+        "played_on": "Desktop_PC"
+    }
+]
