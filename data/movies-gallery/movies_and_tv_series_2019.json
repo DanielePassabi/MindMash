@@ -1,0 +1,643 @@
+{
+  "2019_001": {
+    "title": "Mr Robot S2",
+    "watch_date": "09 Gennaio",
+    "category": "Serie TV",
+    "notes": "28/12 - 09/01",
+    "url": "https://www.themoviedb.org/tv/62560-mr-robot",
+    "release_date": "2015",
+    "genres": [
+      "Crime",
+      "Dramma"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/oKIBhzZzDX07SoE2bOLhq2EE8rf.jpg"
+  },
+  "2019_002": {
+    "title": "Mr Robot S3",
+    "watch_date": "10 Gennaio",
+    "category": "Serie TV",
+    "notes": "10/01 - 15/01",
+    "url": "https://www.themoviedb.org/tv/62560-mr-robot",
+    "release_date": "2015",
+    "genres": [
+      "Crime",
+      "Dramma"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/oKIBhzZzDX07SoE2bOLhq2EE8rf.jpg"
+  },
+  "2019_003": {
+    "title": "I fantastici 4 - 2015",
+    "watch_date": "16 Gennaio",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/166424-fantastic-four",
+    "release_date": "10/09/2015",
+    "genres": [
+      "Azione",
+      "Avventura",
+      "Fantascienza"
+    ],
+    "runtime": "1h 46m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vCchyMyYbAJIj6CLaMSSBSXZuhX.jpg"
+  },
+  "2019_004": {
+    "title": "Bird Box",
+    "watch_date": "09 Febbraio",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/405774-bird-box",
+    "release_date": "21/12/2018",
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Dramma"
+    ],
+    "runtime": "2h 4m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bqNHKz3Q2Bimy3haMCAYHWxklpU.jpg"
+  },
+  "2019_005": {
+    "title": "Suburra S2",
+    "watch_date": "02 Marzo",
+    "category": "Serie TV",
+    "notes": "02/03 - 05/03",
+    "url": "https://www.themoviedb.org/tv/73671-suburra",
+    "release_date": "2017",
+    "genres": [
+      "Crime",
+      "Dramma"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kiKvhrO82jbfM521Q6hz0MlFCN6.jpg"
+  },
+  "2019_006": {
+    "title": "The prodigy - il figlio del male",
+    "watch_date": "31 Aprile",
+    "category": "Film",
+    "notes": "\ud83c\udfa5",
+    "url": "https://www.themoviedb.org/movie/532671-the-prodigy",
+    "release_date": "21/03/2019",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "runtime": "1h 32m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pJCv8teLTyGspsRynS9tX4WAVB.jpg"
+  },
+  "2019_007": {
+    "title": "A star is born 2018",
+    "watch_date": "02 Aprile",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/332562-a-star-is-born",
+    "release_date": "11/10/2018",
+    "genres": [
+      "Musica",
+      "Dramma",
+      "Romance"
+    ],
+    "runtime": "2h 15m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lhUIEmhVTw7iuz2lBABN3Cloxyo.jpg"
+  },
+  "2019_008": {
+    "title": "After",
+    "watch_date": "13 Aprile",
+    "category": "Film",
+    "notes": "\ud83c\udfa5",
+    "url": "https://www.themoviedb.org/movie/537915-after",
+    "release_date": "11/04/2019",
+    "genres": [
+      "Romance",
+      "Dramma"
+    ],
+    "runtime": "1h 46m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dVHvzw1fHdiVUkwBFF8j7yx43jj.jpg"
+  },
+  "2019_009": {
+    "title": "Hush - Il terrore del silenzio",
+    "watch_date": "14 Aprile",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/376570-hush",
+    "release_date": "08/04/2016",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "runtime": "1h 21m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bbX1dDMAp1sGlF08CIWvSQnMEh.jpg"
+  },
+  "2019_010": {
+    "title": "Papillon",
+    "watch_date": "18 Aprile",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/433498-papillon",
+    "release_date": "27/06/2018",
+    "genres": [
+      "Drama"
+    ],
+    "runtime": "2h 14m",
+    "poster_url": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/ahF5c6vyP8HWMqIwlhecbRALkjq.jpg"
+  },
+  "2019_011": {
+    "title": "Capitan Marvel",
+    "watch_date": "19 Aprile",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/299537-captain-marvel",
+    "release_date": "06/03/2019",
+    "genres": [
+      "Azione",
+      "Avventura",
+      "Fantascienza"
+    ],
+    "runtime": "2h 30m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rbfBmt6yuTsvJU90hFdr9xTzrii.jpg"
+  },
+  "2019_012": {
+    "title": "Sulla mia pelle",
+    "watch_date": "20 Aprile",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/538362-sulla-mia-pelle",
+    "release_date": "29/08/2018",
+    "genres": [
+      "Dramma"
+    ],
+    "runtime": "1h 40m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jOvvIZjdbGVpPaQ8upPpZzttO3T.jpg"
+  },
+  "2019_013": {
+    "title": "Benvenuto presidente",
+    "watch_date": "21 Aprile",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/178915-benvenuto-presidente",
+    "release_date": "21/03/2013",
+    "genres": [
+      "Commedia"
+    ],
+    "runtime": "1h 40m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gDs0UPzIeqUgYL0qIaWepJ7Uk9v.jpg"
+  },
+  "2019_014": {
+    "title": "The greatest showman",
+    "watch_date": "22 Aprile",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/316029-the-greatest-showman",
+    "release_date": "28/12/2017",
+    "genres": [
+      "Dramma"
+    ],
+    "runtime": "1h 45m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lnvh46MW76GXSpRnAmIq1ERE6Sz.jpg"
+  },
+  "2019_015": {
+    "title": "Avengers - Infinity War",
+    "watch_date": "23 Aprile",
+    "category": "Film",
+    "notes": "\ud83c\udfa5",
+    "url": "https://www.themoviedb.org/movie/299536-avengers-infinity-war",
+    "release_date": "25/04/2018",
+    "genres": [
+      "Avventura",
+      "Azione",
+      "Fantascienza"
+    ],
+    "runtime": "2h 36m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/t24aimjQLa0dyoZQEbSws7XK1U0.jpg"
+  },
+  "2019_016": {
+    "title": "Avengers - Endgame",
+    "watch_date": "24 Aprile",
+    "category": "Film",
+    "notes": "\ud83c\udfa5",
+    "url": "https://www.themoviedb.org/movie/299534-avengers-endgame",
+    "release_date": "24/04/2019",
+    "genres": [
+      "Avventura",
+      "Fantascienza",
+      "Azione"
+    ],
+    "runtime": "3h 1m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/AwiFJmSGLSNia99080w7RtOB1P.jpg"
+  },
+  "2019_017": {
+    "title": "The Equalizer 2",
+    "watch_date": "19 Maggio",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/345887-the-equalizer-2",
+    "release_date": "13/09/2018",
+    "genres": [
+      "Azione",
+      "Thriller",
+      "Crime"
+    ],
+    "runtime": "2h 1m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fkaunTqE8aN9kwERhe9eweznEzD.jpg"
+  },
+  "2019_018": {
+    "title": "Interstellar",
+    "watch_date": "02 Giugno",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/157336-interstellar",
+    "release_date": "06/11/2014",
+    "genres": [
+      "Avventura",
+      "Dramma",
+      "Fantascienza"
+    ],
+    "runtime": "2h 49m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bMKiLh0mES4Uiococ240lbbTGXQ.jpg"
+  },
+  "2019_019": {
+    "title": "Dunkirk",
+    "watch_date": "04 Giugno",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/374720-dunkirk",
+    "release_date": "31/08/2017",
+    "genres": [
+      "Guerra",
+      "Azione",
+      "Dramma"
+    ],
+    "runtime": "1h 46m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sInkpq76Q9L3JOEXEOVEQeJTjGl.jpg"
+  },
+  "2019_020": {
+    "title": "Shutter Island",
+    "watch_date": "12 Giugno",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/11324-shutter-island",
+    "release_date": "05/03/2010",
+    "genres": [
+      "Dramma",
+      "Thriller",
+      "Mistero"
+    ],
+    "runtime": "2h 18m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rYiiHUOndO4lMLiQZbmARIVmdVX.jpg"
+  },
+  "2019_021": {
+    "title": "The prestige",
+    "watch_date": "17 Giugno",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/1124-the-prestige",
+    "release_date": "22/12/2006",
+    "genres": [
+      "Dramma",
+      "Mistero",
+      "Fantascienza"
+    ],
+    "runtime": "2h 10m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xKsiJimxRa44FArhlfGHnylrT0i.jpg"
+  },
+  "2019_022": {
+    "title": "Cold Pursuit",
+    "watch_date": "24 Giugno",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/438650-cold-pursuit",
+    "release_date": "21/02/2019",
+    "genres": [
+      "Azione",
+      "Crime",
+      "Thriller",
+      "Commedia"
+    ],
+    "runtime": "1h 59m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5UMdKDbiH7vqvdqUmHPZUyTlCu8.jpg"
+  },
+  "2019_023": {
+    "title": "Interstellar",
+    "watch_date": "26 Giugno",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/157336-interstellar",
+    "release_date": "06/11/2014",
+    "genres": [
+      "Avventura",
+      "Dramma",
+      "Fantascienza"
+    ],
+    "runtime": "2h 49m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bMKiLh0mES4Uiococ240lbbTGXQ.jpg"
+  },
+  "2019_024": {
+    "title": "Inception",
+    "watch_date": "05 Luglio",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/27205-inception",
+    "release_date": "24/09/2010",
+    "genres": [
+      "Azione",
+      "Fantascienza",
+      "Avventura"
+    ],
+    "runtime": "2h 28m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5QHWgqaBxZI1eM5e3YhyKzY5o3z.jpg"
+  },
+  "2019_025": {
+    "title": "Arrivederci Professore",
+    "watch_date": "08 Luglio",
+    "category": "Film",
+    "notes": "\ud83c\udfa5",
+    "url": "https://www.themoviedb.org/movie/467956-the-professor",
+    "release_date": "20/06/2019",
+    "genres": [
+      "Commedia",
+      "Dramma"
+    ],
+    "runtime": "1h 30m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2lJbSa1dpZn6FXWDOBIb9LSBZsf.jpg"
+  },
+  "2019_026": {
+    "title": "La casa di papel S1",
+    "watch_date": "09 Luglio",
+    "category": "Serie TV",
+    "notes": "09/07 - 11/07",
+    "url": "https://www.themoviedb.org/tv/71446-la-casa-de-papel",
+    "release_date": "2017",
+    "genres": [
+      "Crime",
+      "Dramma"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/u1RSyTfhoKBMlVqXfoEzGldlDtL.jpg"
+  },
+  "2019_027": {
+    "title": "La casa di papel S2",
+    "watch_date": "13 Luglio",
+    "category": "Serie TV",
+    "notes": "13/07 - 16/07",
+    "url": "https://www.themoviedb.org/tv/71446-la-casa-de-papel",
+    "release_date": "2017",
+    "genres": [
+      "Crime",
+      "Dramma"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/u1RSyTfhoKBMlVqXfoEzGldlDtL.jpg"
+  },
+  "2019_028": {
+    "title": "La casa di papel S3",
+    "watch_date": "20 Luglio",
+    "category": "Serie TV",
+    "notes": "20/07 - 22/07",
+    "url": "https://www.themoviedb.org/tv/71446-la-casa-de-papel",
+    "release_date": "2017",
+    "genres": [
+      "Crime",
+      "Dramma"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/u1RSyTfhoKBMlVqXfoEzGldlDtL.jpg"
+  },
+  "2019_029": {
+    "title": "Black Mirror S4",
+    "watch_date": "15 Agosto",
+    "category": "Serie TV",
+    "notes": "15/08 - 19/08",
+    "url": "https://www.themoviedb.org/tv/42009-black-mirror",
+    "release_date": "2011",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Dramma",
+      "Mistero"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5UaYsGZOFhjFDwQh6GuLjjA1WlF.jpg"
+  },
+  "2019_030": {
+    "title": "Getaway - Via di fuga",
+    "watch_date": "26 Agosto",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/146227-getaway",
+    "release_date": "30/08/2013",
+    "genres": [
+      "Azione",
+      "Crime"
+    ],
+    "runtime": "1h 30m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/z4sEWm1ykf9WX5WJU4XMD4oI5sI.jpg"
+  },
+  "2019_031": {
+    "title": "Dieci piccoli indiani - parte 1",
+    "watch_date": "27 Agosto",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.filmtv.it/film/85357/dieci-piccoli-indiani/",
+    "release_date": "2015",
+    "genres": [
+      "Thriller"
+    ],
+    "runtime": "1h 30m",
+    "poster_url": "https://www.filmtv.it/imgbank/GALLERYXL/R201602/10_00.jpg"
+  },
+  "2019_032": {
+    "title": "Dieci piccoli indiani - parte 2",
+    "watch_date": "27 Agosto",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.filmtv.it/film/85357/dieci-piccoli-indiani/",
+    "release_date": "2015",
+    "genres": [
+      "Thriller"
+    ],
+    "runtime": "1h 30m",
+    "poster_url": "https://www.filmtv.it/imgbank/GALLERYXL/R201602/10_00.jpg"
+  },
+  "2019_033": {
+    "title": "John Wick 3 - Parabellum",
+    "watch_date": "30 Agosto",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/458156-john-wick-chapter-3-parabellum",
+    "release_date": "16/05/2019",
+    "genres": [
+      "Azione",
+      "Thriller",
+      "Crime"
+    ],
+    "runtime": "2h 10m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hU2Rksh0hru4bHMaBcxLAFfqnNK.jpg"
+  },
+  "2019_034": {
+    "title": "Spirit - Cavallo selvaggio",
+    "watch_date": "01 Settembre",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/9023-spirit-stallion-of-the-cimarron",
+    "release_date": "19/12/2002",
+    "genres": [
+      "Animazione",
+      "Avventura",
+      "Commedia",
+      "Famiglia",
+      "Dramma",
+      "Western",
+      "Romance"
+    ],
+    "runtime": "1h 23m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wnCrtSSfMPvty9cJdsMPbWBFF8W.jpg"
+  },
+  "2019_035": {
+    "title": "Spider-Man - Un nuovo universo",
+    "watch_date": "03 Settembre",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/324857-spider-man-into-the-spider-verse",
+    "release_date": "25/12/2018",
+    "genres": [
+      "Animazione",
+      "Azione",
+      "Avventura",
+      "Fantascienza"
+    ],
+    "runtime": "1h 57m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hGLeRHPE0hxMiS5H7l3uaAQ4IlW.jpg"
+  },
+  "2019_036": {
+    "title": "Match point",
+    "watch_date": "07 Settembre",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/116-match-point",
+    "release_date": "13/01/2006",
+    "genres": [
+      "Dramma",
+      "Thriller",
+      "Crime",
+      "Romance"
+    ],
+    "runtime": "2h 4m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vHjEVTD8ucuwKSFOZJeyAnTZYli.jpg"
+  },
+  "2019_037": {
+    "title": "Shining",
+    "watch_date": "10 Settembre",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/694-the-shining",
+    "release_date": "22/12/1980",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "runtime": "2h 22m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/shTUOizWjurXOl5Bp2riMvSNIbZ.jpg"
+  },
+  "2019_038": {
+    "title": "Replicas",
+    "watch_date": "20 Settembre",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/300681-replicas",
+    "release_date": "06/06/2019",
+    "genres": [
+      "Fantascienza",
+      "Thriller",
+      "Dramma"
+    ],
+    "runtime": "1h 47m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qWuUZ58TgYHgoNVlxIPtO60CIFW.jpg"
+  },
+  "2019_039": {
+    "title": "Mile 22",
+    "watch_date": "22 Settembre",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/347375-mile-22",
+    "release_date": "15/11/2018",
+    "genres": [
+      "Azione",
+      "Thriller"
+    ],
+    "runtime": "1h 34m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/z57bif1Okol01ZnHRoRavvtV9E1.jpg"
+  },
+  "2019_040": {
+    "title": "Chernobyl S1",
+    "watch_date": "28 Settembre",
+    "category": "Serie TV",
+    "notes": "28/09 - 05/10",
+    "url": "https://www.themoviedb.org/tv/87108-chernobyl",
+    "release_date": "2019",
+    "genres": [
+      "Dramma"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7vcwOySsqeyEdmfHQNT5jHCL2gb.jpg"
+  },
+  "2019_041": {
+    "title": "Warcraft - L\u2019Inizio",
+    "watch_date": "08 Novembre",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/68735-warcraft",
+    "release_date": "01/06/2016",
+    "genres": [
+      "Azione",
+      "Avventura",
+      "Fantasy"
+    ],
+    "runtime": "2h 3m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/19EgIVVtLZVxJL7liQnhrXlInd7.jpg"
+  },
+  "2019_042": {
+    "title": "Joker",
+    "watch_date": "16 Dicembre",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/475557-joker",
+    "release_date": "03/10/2019",
+    "genres": [
+      "Crime",
+      "Thriller",
+      "Dramma"
+    ],
+    "runtime": "2h 2m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/y1AthYH1r2j4N4cYn2HdrEGgrnJ.jpg"
+  },
+  "2019_043": {
+    "title": "Il Re Leone (Live Action, 2019)",
+    "watch_date": "22 Dicembre",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/420818-the-lion-king",
+    "release_date": "21/08/2019",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Family",
+      "Animation"
+    ],
+    "runtime": "1h 58m",
+    "poster_url": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/dzBtMocZuJbjLOXvrl4zGYigDzh.jpg"
+  },
+  "2019_044": {
+    "title": "The Witcher S1",
+    "watch_date": "22 Dicembre",
+    "category": "Serie TV",
+    "notes": "22/12 - 24/12",
+    "url": "https://www.themoviedb.org/tv/71912-the-witcher",
+    "release_date": "2019",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Dramma",
+      "Action & Adventure"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wSS25kvLxYNLGEYbmWVEF4aoGPt.jpg"
+  }
+}

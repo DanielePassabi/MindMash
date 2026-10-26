@@ -1,0 +1,625 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>💝 Valentine's Day</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: linear-gradient(135deg, #ffeef8 0%, #ffe0f0 100%);
+            overflow: hidden;
+            position: relative;
+        }
+
+        .hearts-background {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            z-index: 1;
+        }
+
+        .floating-heart {
+            position: absolute;
+            font-size: 20px;
+            opacity: 0;
+            animation: floatUp 4s ease-in infinite;
+        }
+
+        @keyframes floatUp {
+            0% {
+                transform: translateY(0) rotate(0deg);
+                opacity: 0;
+            }
+            10% {
+                opacity: 0.8;
+            }
+            90% {
+                opacity: 0.8;
+            }
+            100% {
+                transform: translateY(-100vh) rotate(180deg);
+                opacity: 0;
+            }
+        }
+
+        .container {
+            position: relative;
+            z-index: 10;
+            text-align: center;
+            padding: 20px;
+            max-width: 600px;
+            width: 90%;
+        }
+
+        .main-screen, .final-screen {
+            animation: fadeIn 0.5s ease-in;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+
+        .header-text {
+            color: #d63384;
+            margin-bottom: 40px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.1);
+            line-height: 1.6;
+        }
+        
+        .header-text .greeting {
+            font-size: clamp(1.8rem, 5vw, 2.5rem);
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+        
+        .header-text p {
+            font-size: clamp(1.2rem, 4vw, 1.6rem);
+            margin-bottom: 15px;
+            font-weight: 500;
+        }
+        
+        .header-text .question {
+            font-size: clamp(1.5rem, 5vw, 2rem);
+            font-weight: bold;
+            margin-top: 25px;
+            animation: pulse 2s ease-in-out infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { transform: scale(1); }
+            50% { transform: scale(1.05); }
+        }
+
+        .buttons-container {
+            display: flex;
+            gap: 20px;
+            justify-content: center;
+            align-items: center;
+            margin-bottom: 30px;
+            min-height: 120px;
+            position: relative;
+        }
+
+        button {
+            padding: 15px 30px;
+            font-size: 1.2rem;
+            border: none;
+            border-radius: 50px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-weight: bold;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+        }
+
+        #yesBtn {
+            background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+            color: white;
+            transform-origin: center;
+            transition: transform 0.3s ease;
+        }
+
+        #yesBtn:hover {
+            transform: scale(1.1);
+            box-shadow: 0 6px 20px rgba(245,87,108,0.4);
+        }
+
+        #noBtn {
+            background: linear-gradient(135deg, #a8b8d8 0%, #8b9dc3 100%);
+            color: white;
+            transition: all 0.1s ease;
+        }
+        
+        #noBtn.moving {
+            position: absolute;
+        }
+        
+        #noBtn.exploding {
+            animation: explode 0.6s ease-out forwards;
+        }
+        
+        @keyframes explode {
+            0% {
+                transform: scale(1) rotate(0deg);
+                opacity: 1;
+            }
+            50% {
+                transform: scale(2) rotate(180deg);
+                opacity: 0.8;
+                box-shadow: 0 0 50px rgba(255, 0, 0, 0.8);
+            }
+            100% {
+                transform: scale(0) rotate(360deg);
+                opacity: 0;
+            }
+        }
+
+        .message {
+            font-size: 1.3rem;
+            color: #c2185b;
+            min-height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 500;
+        }
+
+        .final-screen {
+            display: none;
+        }
+
+        .final-screen.active {
+            display: block;
+            animation: zoomIn 0.8s ease-out;
+        }
+
+        @keyframes zoomIn {
+            from {
+                opacity: 0;
+                transform: scale(0.5);
+            }
+            to {
+                opacity: 1;
+                transform: scale(1);
+            }
+        }
+
+        .heart-image-container {
+            position: relative;
+            width: 300px;
+            height: 300px;
+            margin: 0 auto 30px;
+            max-width: 90vw;
+        }
+
+        .heart-image-container img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            border-radius: 20px;
+            animation: heartBeat 1.5s ease-in-out infinite;
+            cursor: pointer;
+            transition: transform 0.3s ease;
+        }
+        
+        .heart-image-container img.spinning {
+            animation: fastSpin 2s linear;
+        }
+
+        @keyframes heartBeat {
+            0%, 100% { transform: scale(1); }
+            10%, 30% { transform: scale(1.1); }
+            20%, 40% { transform: scale(1.05); }
+        }
+        
+        @keyframes fastSpin {
+            from { transform: rotate(0deg); }
+            to { transform: rotate(3600deg); }
+        }
+
+        .final-message {
+            font-size: clamp(1.5rem, 6vw, 2.5rem);
+            color: #d63384;
+            margin-bottom: 30px;
+            font-weight: bold;
+        }
+
+        .replay-btn {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            margin-top: 20px;
+        }
+
+        .replay-btn:hover {
+            transform: scale(1.05);
+        }
+
+        /* Mobile optimizations */
+        @media (max-width: 480px) {
+            .buttons-container {
+                min-height: 100px;
+            }
+            
+            button {
+                padding: 12px 25px;
+                font-size: 1.1rem;
+            }
+            
+            .message {
+                font-size: 1.1rem;
+                padding: 0 10px;
+            }
+        }
+
+        .hidden {
+            display: none !important;
+        }
+    </style>
+</head>
+<body>
+    <!-- Background hearts -->
+    <div class="hearts-background" id="heartsBackground"></div>
+
+    <div class="container">
+        <!-- Main Screen -->
+        <div class="main-screen" id="mainScreen">
+            <div class="header-text">
+                <div class="greeting">Cara Chiara,</div>
+                <p>Sono ormai 126 mesi che stiamo insieme...</p>
+                <p>Eppure sento che San Valentino non può bastarmi.</p>
+                <div class="question">Vuoi uscire con me ogni giorno? 🌻</div>
+            </div>
+            <div class="buttons-container" id="buttonsContainer">
+                <button id="yesBtn">Sì 💕</button>
+                <button id="noBtn">No 😼</button>
+            </div>
+            <div class="message" id="message"></div>
+        </div>
+
+        <!-- Final Screen -->
+        <div class="final-screen" id="finalScreen">
+            <div class="final-message">Finalmente... 😒</div>
+            <div class="heart-image-container">
+                <img src="img/valentine.jpg" alt="Valentine" id="valentineImg">
+            </div>
+            <div class="message">Hai vinto almeno 7 bacini.</div>
+            <button class="replay-btn" onclick="replay()">Rigioca 🔄</button>
+        </div>
+    </div>
+
+    <!-- Canvas Confetti CDN (11kb) -->
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.2/dist/confetti.browser.min.js"></script>
+
+    <script>
+        // State
+        let noClickCount = 0;
+        let yesButtonScale = 1;
+        let noButtonScale = 1; // Track No button scale
+
+        // Audio files for "No" button hover
+        const audioFiles = [
+            '../music/valentine/valentine (1).ogg',
+            '../music/valentine/valentine (2).ogg',
+            '../music/valentine/valentine (3).ogg',
+            '../music/valentine/valentine (4).ogg',
+            '../music/valentine/valentine (5).ogg',
+            '../music/valentine/valentine (6).ogg',
+            '../music/valentine/valentine (7).ogg',
+            '../music/valentine/valentine (8).ogg'
+        ];
+        
+        let currentAudio = null;
+        let recentAudioIndexes = []; // Track recently played audio indexes
+        let noButtonDestroyed = false; // Track if No button has been clicked
+
+        // Elements
+        const yesBtn = document.getElementById('yesBtn');
+        const noBtn = document.getElementById('noBtn');
+        const message = document.getElementById('message');
+        const mainScreen = document.getElementById('mainScreen');
+        const finalScreen = document.getElementById('finalScreen');
+        const buttonsContainer = document.getElementById('buttonsContainer');
+        const heartsBackground = document.getElementById('heartsBackground');
+        const valentineImg = document.getElementById('valentineImg');
+        
+        let isImageSpinning = false; // Prevent multiple spins at once
+
+        // Create floating hearts background
+        function createFloatingHearts() {
+            for (let i = 0; i < 30; i++) {
+                setTimeout(() => {
+                    const heart = document.createElement('div');
+                    heart.className = 'floating-heart';
+                    heart.textContent = '💕';
+                    heart.style.left = Math.random() * 100 + '%';
+                    heart.style.animationDelay = Math.random() * 4 + 's';
+                    heart.style.fontSize = (Math.random() * 25 + 20) + 'px';
+                    heartsBackground.appendChild(heart);
+                }, i * 150);
+            }
+        }
+
+        // Check if two rectangles overlap
+        function rectanglesOverlap(rect1, rect2) {
+            return !(rect1.right < rect2.left || 
+                     rect1.left > rect2.right || 
+                     rect1.bottom < rect2.top || 
+                     rect1.top > rect2.bottom);
+        }
+
+        // Move "No" button to random position
+        function moveNoButton() {
+            if (noButtonDestroyed) return; // Don't move if button is destroyed
+            
+            noBtn.classList.add('moving');
+            
+            const button = noBtn.getBoundingClientRect();
+            const yesButton = yesBtn.getBoundingClientRect();
+            
+            // Use entire viewport for movement
+            const viewportWidth = window.innerWidth;
+            const viewportHeight = window.innerHeight;
+            
+            let newX, newY;
+            let attempts = 0;
+            const maxAttempts = 50;
+            let validPosition = false;
+            
+            // Keep trying until we find a position that doesn't overlap with Yes button
+            while (!validPosition && attempts < maxAttempts) {
+                // Calculate random position anywhere in viewport
+                newX = Math.random() * (viewportWidth - button.width - 40) + 20;
+                newY = Math.random() * (viewportHeight - button.height - 40) + 20;
+                
+                // Create hypothetical rectangle for new position
+                const newRect = {
+                    left: newX,
+                    right: newX + button.width,
+                    top: newY,
+                    bottom: newY + button.height
+                };
+                
+                // Add some padding to the overlap check for better separation
+                const paddedYesRect = {
+                    left: yesButton.left - 20,
+                    right: yesButton.right + 20,
+                    top: yesButton.top - 20,
+                    bottom: yesButton.bottom + 20
+                };
+                
+                // Check if new position overlaps with Yes button
+                if (!rectanglesOverlap(newRect, paddedYesRect)) {
+                    validPosition = true;
+                }
+                
+                attempts++;
+            }
+            
+            // Apply absolute positioning
+            noBtn.style.position = 'fixed';
+            noBtn.style.left = newX + 'px';
+            noBtn.style.top = newY + 'px';
+            
+            // Increase "Yes" button size and decrease "No" button size
+            noClickCount++;
+            yesButtonScale += 0.15;
+            yesBtn.style.transform = `scale(${yesButtonScale})`;
+            
+            // Decrease No button size (minimum 0.3)
+            noButtonScale -= 0.1;
+            if (noButtonScale < 0.3) {
+                noButtonScale = 0.3;
+            }
+            noBtn.style.transform = `scale(${noButtonScale})`;
+            
+            // Play random audio
+            playRandomAudio();
+        }
+        
+        // Play random audio from the list
+        function playRandomAudio() {
+            // Stop current audio if playing
+            if (currentAudio) {
+                currentAudio.pause();
+                currentAudio.currentTime = 0;
+            }
+            
+            // Get available audio indexes (excluding recently played ones)
+            const availableIndexes = [];
+            for (let i = 0; i < audioFiles.length; i++) {
+                if (!recentAudioIndexes.includes(i)) {
+                    availableIndexes.push(i);
+                }
+            }
+            
+            // If all have been played recently, clear history and use all
+            if (availableIndexes.length === 0) {
+                recentAudioIndexes = [];
+                for (let i = 0; i < audioFiles.length; i++) {
+                    availableIndexes.push(i);
+                }
+            }
+            
+            // Select random audio from available ones
+            const randomIndex = availableIndexes[Math.floor(Math.random() * availableIndexes.length)];
+            
+            // Add to recent history and keep only last 2
+            recentAudioIndexes.push(randomIndex);
+            if (recentAudioIndexes.length > 2) {
+                recentAudioIndexes.shift(); // Remove oldest
+            }
+            
+            // Play audio
+            currentAudio = new Audio(audioFiles[randomIndex]);
+            currentAudio.volume = 0.7;
+            currentAudio.play().catch(e => console.log('Audio play failed:', e));
+        }
+
+        // Handle "No" button escape on both desktop and mobile
+        noBtn.addEventListener('mouseenter', moveNoButton);
+        noBtn.addEventListener('touchstart', (e) => {
+            e.preventDefault();
+            moveNoButton();
+        });
+        
+        // Handle "No" button click (explosion)
+        noBtn.addEventListener('click', () => {
+            if (noButtonDestroyed) return; // Prevent multiple triggers
+            
+            noButtonDestroyed = true;
+            
+            // Stop any current audio
+            if (currentAudio) {
+                currentAudio.pause();
+                currentAudio.currentTime = 0;
+            }
+            
+            // Play explosion audio
+            const explosionAudio = new Audio('../music/valentine/valentine_explosion.ogg');
+            explosionAudio.volume = 0.8;
+            explosionAudio.play().catch(e => console.log('Explosion audio play failed:', e));
+            
+            // Add explosion animation
+            noBtn.classList.add('exploding');
+            
+            // Remove button after animation completes
+            setTimeout(() => {
+                noBtn.style.display = 'none';
+            }, 600);
+        });
+
+        // "Yes" button click handler
+        yesBtn.addEventListener('click', () => {
+            // Confetti burst!
+            const duration = 3 * 1000;
+            const animationEnd = Date.now() + duration;
+            const defaults = { startVelocity: 30, spread: 360, ticks: 60, zIndex: 1000 };
+
+            function randomInRange(min, max) {
+                return Math.random() * (max - min) + min;
+            }
+
+            const interval = setInterval(function() {
+                const timeLeft = animationEnd - Date.now();
+
+                if (timeLeft <= 0) {
+                    return clearInterval(interval);
+                }
+
+                const particleCount = 50 * (timeLeft / duration);
+                
+                confetti({
+                    ...defaults,
+                    particleCount,
+                    origin: { x: randomInRange(0.1, 0.3), y: Math.random() - 0.2 },
+                    colors: ['#ff0080', '#ff69b4', '#ff1493', '#c71585']
+                });
+                confetti({
+                    ...defaults,
+                    particleCount,
+                    origin: { x: randomInRange(0.7, 0.9), y: Math.random() - 0.2 },
+                    colors: ['#ff0080', '#ff69b4', '#ff1493', '#c71585']
+                });
+            }, 250);
+
+            // Heart burst
+            confetti({
+                particleCount: 100,
+                spread: 70,
+                origin: { y: 0.6 },
+                shapes: ['circle'],
+                colors: ['#ff0080', '#ff69b4', '#ff1493', '#c71585', '#fff']
+            });
+
+            // Transition to final screen
+            setTimeout(() => {
+                mainScreen.classList.add('hidden');
+                finalScreen.classList.add('active');
+            }, 500);
+        });
+
+        // Replay function
+        function replay() {
+            // Stop any playing audio
+            if (currentAudio) {
+                currentAudio.pause();
+                currentAudio.currentTime = 0;
+            }
+            
+            // Reset state
+            noClickCount = 0;
+            yesButtonScale = 1;
+            noButtonScale = 1;
+            yesBtn.style.transform = 'scale(1)';
+            noBtn.style.position = '';
+            noBtn.style.left = '';
+            noBtn.style.top = '';
+            noBtn.style.transform = '';
+            noBtn.classList.remove('moving', 'exploding');
+            noBtn.style.display = '';
+            noButtonDestroyed = false;
+            recentAudioIndexes = []; // Reset audio history
+            
+            // Switch screens
+            finalScreen.classList.remove('active');
+            mainScreen.classList.remove('hidden');
+        }
+
+        // Handle image spin on click or hover
+        function spinImage() {
+            if (isImageSpinning) return; // Prevent multiple spins
+            
+            isImageSpinning = true;
+            
+            // Play swish audio
+            const swishAudio = new Audio('../music/valentine/valentine_swish.ogg');
+            swishAudio.volume = 0.8;
+            swishAudio.play().catch(e => console.log('Swish audio play failed:', e));
+            
+            // Add spinning animation
+            valentineImg.classList.add('spinning');
+            
+            // Remove animation after 2 seconds
+            setTimeout(() => {
+                valentineImg.classList.remove('spinning');
+                isImageSpinning = false;
+            }, 2000);
+        }
+        
+        valentineImg.addEventListener('click', spinImage);
+        valentineImg.addEventListener('mouseenter', spinImage);
+
+        // Initialize
+        createFloatingHearts();
+        
+        // Continuously add new floating hearts
+        setInterval(() => {
+            if (heartsBackground.children.length < 30) {
+                const heart = document.createElement('div');
+                heart.className = 'floating-heart';
+                heart.textContent = '💕';
+                heart.style.left = Math.random() * 100 + '%';
+                heart.style.fontSize = (Math.random() * 25 + 20) + 'px';
+                heartsBackground.appendChild(heart);
+                
+                // Remove after animation completes
+                setTimeout(() => heart.remove(), 4000);
+            }
+        }, 600);
+    </script>
+</body>
+</html>

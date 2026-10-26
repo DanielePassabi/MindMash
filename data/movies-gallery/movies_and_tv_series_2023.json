@@ -1,0 +1,742 @@
+{
+  "2023_169": {
+    "title": "Hidden Figures",
+    "watch_date": "05 Gennaio",
+    "category": "Film",
+    "notes": "\ud83e\uddda\u200d\u2640\ufe0f",
+    "url": "https://www.themoviedb.org/movie/381284-hidden-figures",
+    "release_date": "08/03/2017",
+    "genres": [
+      "Dramma",
+      "Storia"
+    ],
+    "runtime": "2h 7m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/d6JTN9J9cAwCLDS37FsXTXbl1OQ.jpg"
+  },
+  "2023_170": {
+    "title": "Game of Thrones S7",
+    "watch_date": "08 Gennaio",
+    "category": "Serie TV",
+    "notes": "\ud83e\uddda\u200d\u2640\ufe0f",
+    "url": "https://www.themoviedb.org/tv/1399-game-of-thrones",
+    "release_date": "2011",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Dramma",
+      "Action & Adventure"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qwGKZ0vy6o69aErE6cJ43L8DE2N.jpg"
+  },
+  "2023_171": {
+    "title": "Game of Thrones S8",
+    "watch_date": "15 Gennaio",
+    "category": "Serie TV",
+    "notes": "\ud83e\uddda\u200d\u2640\ufe0f",
+    "url": "https://www.themoviedb.org/tv/1399-game-of-thrones",
+    "release_date": "2011",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Dramma",
+      "Action & Adventure"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qwGKZ0vy6o69aErE6cJ43L8DE2N.jpg"
+  },
+  "2023_172": {
+    "title": "Babylon",
+    "watch_date": "28 Gennaio",
+    "category": "Film",
+    "notes": "\ud83e\uddda\u200d\u2640\ufe0f\ud83c\udfa5",
+    "url": "https://www.themoviedb.org/movie/615777-babylon",
+    "release_date": "19/01/2023",
+    "genres": [
+      "Dramma",
+      "Commedia"
+    ],
+    "runtime": "3h 8m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/h0IRfhDQKXgvrfPYxrNpPuCCGRu.jpg"
+  },
+  "2023_173": {
+    "title": "House of the Dragons",
+    "watch_date": "08 Febbraio",
+    "category": "Serie TV",
+    "notes": "\ud83e\uddda\u200d\u2640\ufe0f",
+    "url": "https://www.themoviedb.org/tv/94997-house-of-the-dragon",
+    "release_date": "2022",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Dramma",
+      "Action & Adventure"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/paD01zRRCY3lXo038pvs2Avu0Q7.jpg"
+  },
+  "2023_174": {
+    "title": "Too Hot to Handle S2",
+    "watch_date": "?",
+    "category": "Serie TV",
+    "notes": "\ud83e\uddda\u200d\u2640\ufe0f",
+    "url": "https://www.themoviedb.org/tv/102085-too-hot-to-handle",
+    "release_date": "2020",
+    "genres": [
+      "Reality"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jr21CagMMfglh7YVgcyov3Cj833.jpg"
+  },
+  "2023_175": {
+    "title": "Blade Runner 2049",
+    "watch_date": "22 Febbraio",
+    "category": "Film",
+    "notes": "\ud83e\uddda\u200d\u2640\ufe0f",
+    "url": "https://www.themoviedb.org/movie/335984-blade-runner-2049",
+    "release_date": "05/10/2017",
+    "genres": [
+      "Fantascienza",
+      "Dramma"
+    ],
+    "runtime": "2h 44m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sPMX3MNTB0DqC6iCveIGKZN5AyN.jpg"
+  },
+  "2023_176": {
+    "title": "Mare Fuori S1",
+    "watch_date": "?",
+    "category": "Serie TV",
+    "notes": "\ud83e\uddda\u200d\u2640\ufe0f",
+    "url": "https://www.themoviedb.org/tv/110283-mare-fuori",
+    "release_date": "2020",
+    "genres": [
+      "Dramma",
+      "Crime"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/i318aG3wUpGLDPxn3cmKM9UvpOy.jpg"
+  },
+  "2023_177": {
+    "title": "Mare Fuori S2",
+    "watch_date": "?",
+    "category": "Serie TV",
+    "notes": "\ud83e\uddda\u200d\u2640\ufe0f",
+    "url": "https://www.themoviedb.org/tv/110283-mare-fuori",
+    "release_date": "2020",
+    "genres": [
+      "Dramma",
+      "Crime"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/i318aG3wUpGLDPxn3cmKM9UvpOy.jpg"
+  },
+  "2023_178": {
+    "title": "The Whale",
+    "watch_date": "?",
+    "category": "Film",
+    "notes": "\ud83e\uddda\u200d\u2640\ufe0f\ud83c\udfa5",
+    "url": "https://www.themoviedb.org/movie/785084-the-whale",
+    "release_date": "23/02/2023",
+    "genres": [
+      "Dramma"
+    ],
+    "runtime": "1h 57m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2kwlQ0U5DuUnnYYgf2ZtjKrF8HG.jpg"
+  },
+  "2023_179": {
+    "title": "The Lord of The Rings: the fellowship of the ring",
+    "watch_date": "10 Marzo",
+    "category": "Film",
+    "notes": "\ud83e\uddda\u200d\u2640\ufe0f",
+    "url": "https://www.themoviedb.org/movie/120-the-lord-of-the-rings-the-fellowship-of-the-ring",
+    "release_date": "18/01/2002",
+    "genres": [
+      "Avventura",
+      "Fantasy",
+      "Azione"
+    ],
+    "runtime": "2h 59m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nv6wnTxXYTbUTObE4VXu7bacPRt.jpg"
+  },
+  "2023_180": {
+    "title": "Samaritan",
+    "watch_date": "11 Aprile",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/629176-samaritan",
+    "release_date": "25/08/2022",
+    "genres": [
+      "Fantascienza",
+      "Crime",
+      "Azione"
+    ],
+    "runtime": "1h 42m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/k67HGdkdsvgmJeet10JSoNhYpDh.jpg"
+  },
+  "2023_181": {
+    "title": "Diamanti Grezzi",
+    "watch_date": "13 Aprile",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/473033-uncut-gems",
+    "release_date": "31/01/2020",
+    "genres": [
+      "Dramma",
+      "Thriller",
+      "Crime"
+    ],
+    "runtime": "2h 15m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eTXKyfzJHrZg9wLwX7WK9RwriHp.jpg"
+  },
+  "2023_182": {
+    "title": "The Last of Us S1",
+    "watch_date": "25 Aprile",
+    "category": "Serie TV",
+    "notes": "\ud83e\uddda\u200d\u2640\ufe0f",
+    "url": "https://www.themoviedb.org/tv/100088-the-last-of-us",
+    "release_date": "2023",
+    "genres": [
+      "Dramma"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6WlffOd3bszyndGgsKGcUL6k28n.jpg"
+  },
+  "2023_183": {
+    "title": "Primal Fear",
+    "watch_date": "29 Aprile",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/1592-primal-fear",
+    "release_date": "17/05/1996",
+    "genres": [
+      "Crime",
+      "Dramma",
+      "Mistero",
+      "Thriller"
+    ],
+    "runtime": "2h 5m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rUMCzqmCD37YlDvVK6T44DP0zXw.jpg"
+  },
+  "2023_184": {
+    "title": "Everything, Everywhere, All at Once",
+    "watch_date": "30 Aprile",
+    "category": "Film",
+    "notes": "\ud83e\uddda\u200d\u2640\ufe0f",
+    "url": "https://www.themoviedb.org/movie/545611-everything-everywhere-all-at-once",
+    "release_date": "06/10/2022",
+    "genres": [
+      "Azione",
+      "Avventura",
+      "Fantascienza"
+    ],
+    "runtime": "2h 20m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4YF4QREw9vUjJSvzypd5uvpDxcT.jpg"
+  },
+  "2023_185": {
+    "title": "Mare Fuori S3",
+    "watch_date": "?",
+    "category": "Serie TV",
+    "notes": "\ud83e\uddda\u200d\u2640\ufe0f",
+    "url": "https://www.themoviedb.org/tv/110283-mare-fuori",
+    "release_date": "2020",
+    "genres": [
+      "Dramma",
+      "Crime"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/i318aG3wUpGLDPxn3cmKM9UvpOy.jpg"
+  },
+  "2023_186": {
+    "title": "SKAM Italia S1",
+    "watch_date": "?",
+    "category": "Serie TV",
+    "notes": "\ud83e\uddda\u200d\u2640\ufe0f",
+    "url": "https://www.themoviedb.org/tv/77826-skam-italia",
+    "release_date": "2018",
+    "genres": [
+      "Dramma"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9XOJpyalPs43SuU9hbcvKnAwKPs.jpg"
+  },
+  "2023_187": {
+    "title": "After Life S1",
+    "watch_date": "?",
+    "category": "Serie TV",
+    "notes": "",
+    "url": "https://www.themoviedb.org/tv/79410-after-life",
+    "release_date": "2019",
+    "genres": [
+      "Commedia",
+      "Dramma"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6eJf4h9XcvqK64vbx27EFlLVURm.jpg"
+  },
+  "2023_188": {
+    "title": "After Life S2",
+    "watch_date": "?",
+    "category": "Serie TV",
+    "notes": "",
+    "url": "https://www.themoviedb.org/tv/79410-after-life",
+    "release_date": "2019",
+    "genres": [
+      "Commedia",
+      "Dramma"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6eJf4h9XcvqK64vbx27EFlLVURm.jpg"
+  },
+  "2023_189": {
+    "title": "The Walking Dead S1",
+    "watch_date": "31 Maggio",
+    "category": "Serie TV",
+    "notes": "",
+    "url": "https://www.themoviedb.org/tv/1402-the-walking-dead",
+    "release_date": "2010",
+    "genres": [
+      "Action & Adventure",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "runtime": "-",
+    "poster_url": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/yTNP9UOdUbGBUZ7SSVng75IwAaY.jpg"
+  },
+  "2023_190": {
+    "title": "The Walking Dead S2",
+    "watch_date": "09 Giugno",
+    "category": "Serie TV",
+    "notes": "",
+    "url": "https://www.themoviedb.org/tv/1402-the-walking-dead",
+    "release_date": "2010",
+    "genres": [
+      "Action & Adventure",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "runtime": "-",
+    "poster_url": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/yTNP9UOdUbGBUZ7SSVng75IwAaY.jpg"
+  },
+  "2023_191": {
+    "title": "The Walking Dead S3",
+    "watch_date": "17 Giugno",
+    "category": "Serie TV",
+    "notes": "",
+    "url": "https://www.themoviedb.org/tv/1402-the-walking-dead",
+    "release_date": "2010",
+    "genres": [
+      "Action & Adventure",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "runtime": "-",
+    "poster_url": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/yTNP9UOdUbGBUZ7SSVng75IwAaY.jpg"
+  },
+  "2023_192": {
+    "title": "SKAM Italia S2",
+    "watch_date": "?",
+    "category": "Serie TV",
+    "notes": "\ud83e\uddda\u200d\u2640\ufe0f",
+    "url": "https://www.themoviedb.org/tv/77826-skam-italia",
+    "release_date": "2018",
+    "genres": [
+      "Dramma"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9XOJpyalPs43SuU9hbcvKnAwKPs.jpg"
+  },
+  "2023_193": {
+    "title": "SKAM Italia S3",
+    "watch_date": "?",
+    "category": "Serie TV",
+    "notes": "\ud83e\uddda\u200d\u2640\ufe0f",
+    "url": "https://www.themoviedb.org/tv/77826-skam-italia",
+    "release_date": "2018",
+    "genres": [
+      "Dramma"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9XOJpyalPs43SuU9hbcvKnAwKPs.jpg"
+  },
+  "2023_194": {
+    "title": "His Dark Materials S1",
+    "watch_date": "28 Giugno",
+    "category": "Serie TV",
+    "notes": "\ud83e\uddda\u200d\u2640\ufe0f",
+    "url": "https://www.themoviedb.org/tv/68507-his-dark-materials",
+    "release_date": "2019",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Dramma"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/68QaCYKD688SBwaNbX5CZa9NPjf.jpg"
+  },
+  "2023_195": {
+    "title": "The Walking Dead S4",
+    "watch_date": "?",
+    "category": "Serie TV",
+    "notes": "",
+    "url": "https://www.themoviedb.org/tv/1402-the-walking-dead",
+    "release_date": "2010",
+    "genres": [
+      "Action & Adventure",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "runtime": "-",
+    "poster_url": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/yTNP9UOdUbGBUZ7SSVng75IwAaY.jpg"
+  },
+  "2023_196": {
+    "title": "The Walking Dead S5",
+    "watch_date": "09 Luglio",
+    "category": "Serie TV",
+    "notes": "",
+    "url": "https://www.themoviedb.org/tv/1402-the-walking-dead",
+    "release_date": "2010",
+    "genres": [
+      "Action & Adventure",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "runtime": "-",
+    "poster_url": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/yTNP9UOdUbGBUZ7SSVng75IwAaY.jpg"
+  },
+  "2023_197": {
+    "title": "The Walking Dead S6",
+    "watch_date": "19 Luglio",
+    "category": "Serie TV",
+    "notes": "",
+    "url": "https://www.themoviedb.org/tv/1402-the-walking-dead",
+    "release_date": "2010",
+    "genres": [
+      "Action & Adventure",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "runtime": "-",
+    "poster_url": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/yTNP9UOdUbGBUZ7SSVng75IwAaY.jpg"
+  },
+  "2023_198": {
+    "title": "The Walking Dead S7",
+    "watch_date": "25 Luglio",
+    "category": "Serie TV",
+    "notes": "",
+    "url": "https://www.themoviedb.org/tv/1402-the-walking-dead",
+    "release_date": "2010",
+    "genres": [
+      "Action & Adventure",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "runtime": "-",
+    "poster_url": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/yTNP9UOdUbGBUZ7SSVng75IwAaY.jpg"
+  },
+  "2023_199": {
+    "title": "The Walking Dead S8",
+    "watch_date": "08 Agosto",
+    "category": "Serie TV",
+    "notes": "",
+    "url": "https://www.themoviedb.org/tv/1402-the-walking-dead",
+    "release_date": "2010",
+    "genres": [
+      "Action & Adventure",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "runtime": "-",
+    "poster_url": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/yTNP9UOdUbGBUZ7SSVng75IwAaY.jpg"
+  },
+  "2023_200": {
+    "title": "The Walking Dead S9",
+    "watch_date": "18 Agosto",
+    "category": "Serie TV",
+    "notes": "",
+    "url": "https://www.themoviedb.org/tv/1402-the-walking-dead",
+    "release_date": "2010",
+    "genres": [
+      "Action & Adventure",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "runtime": "-",
+    "poster_url": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/yTNP9UOdUbGBUZ7SSVng75IwAaY.jpg"
+  },
+  "2023_201": {
+    "title": "The Hunger Games",
+    "watch_date": "?",
+    "category": "Film",
+    "notes": "\ud83e\uddda\u200d\u2640\ufe0f",
+    "url": "https://www.themoviedb.org/movie/70160-the-hunger-games",
+    "release_date": "01/05/2012",
+    "genres": [
+      "Fantascienza",
+      "Avventura",
+      "Fantasy"
+    ],
+    "runtime": "1h 57m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/82bWLBzXvwvTRVBsH0GbW0lgnfi.jpg"
+  },
+  "2023_202": {
+    "title": "The Walking Dead S10",
+    "watch_date": "?",
+    "category": "Serie TV",
+    "notes": "",
+    "url": "https://www.themoviedb.org/tv/1402-the-walking-dead",
+    "release_date": "2010",
+    "genres": [
+      "Action & Adventure",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "runtime": "-",
+    "poster_url": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/yTNP9UOdUbGBUZ7SSVng75IwAaY.jpg"
+  },
+  "2023_203": {
+    "title": "Oppenheimer",
+    "watch_date": "03 Settembre",
+    "category": "Film",
+    "notes": "\ud83c\udfa5\ud83e\uddda\u200d\u2640\ufe0f",
+    "url": "https://www.themoviedb.org/movie/872585-oppenheimer",
+    "release_date": "23/08/2023",
+    "genres": [
+      "Dramma",
+      "Storia"
+    ],
+    "runtime": "3h 9m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fRtaxfyynWMJI6DhejyA6JOzVTB.jpg"
+  },
+  "2023_204": {
+    "title": "The Walking Dead S11",
+    "watch_date": "14 Settembre",
+    "category": "Serie TV",
+    "notes": "",
+    "url": "https://www.themoviedb.org/tv/1402-the-walking-dead",
+    "release_date": "2010",
+    "genres": [
+      "Action & Adventure",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "runtime": "-",
+    "poster_url": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/yTNP9UOdUbGBUZ7SSVng75IwAaY.jpg"
+  },
+  "2023_205": {
+    "title": "La ragazza di Stillwater",
+    "watch_date": "15 Settembre",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/616651-stillwater",
+    "release_date": "09/09/2021",
+    "genres": [
+      "Dramma",
+      "Crime",
+      "Thriller"
+    ],
+    "runtime": "2h 19m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5zRcYZ0BDlsFdNAFaErmZy8uu97.jpg"
+  },
+  "2023_206": {
+    "title": "Insomnia",
+    "watch_date": "16 Settembre",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/320-insomnia",
+    "release_date": "30/11/2002",
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "runtime": "1h 58m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qK9LTPsM3IeLyXti8wvZTqZHoJm.jpg"
+  },
+  "2023_207": {
+    "title": "Near Automata Ver1.1a S1",
+    "watch_date": "24 Settembre",
+    "category": "Serie TV",
+    "notes": "",
+    "url": null,
+    "release_date": null,
+    "genres": [],
+    "runtime": null,
+    "poster_url": null
+  },
+  "2023_208": {
+    "title": "Pinocchio",
+    "watch_date": "?",
+    "category": "Film",
+    "notes": "\ud83e\uddda\u200d\u2640\ufe0f",
+    "url": "https://www.themoviedb.org/movie/10895-pinocchio",
+    "release_date": "05/11/1947",
+    "genres": [
+      "Animazione",
+      "Famiglia",
+      "Fantasy"
+    ],
+    "runtime": "1h 28m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/uI7p7I2c4iVf0jQaOlJdVQhu6Kz.jpg"
+  },
+  "2023_209": {
+    "title": "Alice nel paese delle meraviglie",
+    "watch_date": "?",
+    "category": "Film",
+    "notes": "\ud83e\uddda\u200d\u2640\ufe0f",
+    "url": "https://www.themoviedb.org/movie/12092-alice-in-wonderland",
+    "release_date": "06/12/1951",
+    "genres": [
+      "Animazione",
+      "Famiglia",
+      "Fantasy",
+      "Avventura"
+    ],
+    "runtime": "1h 15m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/csuK4kZS4iESSa8wyQojDujchcC.jpg"
+  },
+  "2023_210": {
+    "title": "Get Out",
+    "watch_date": "?",
+    "category": "Film",
+    "notes": "\ud83e\uddda\u200d\u2640\ufe0f",
+    "url": "https://www.themoviedb.org/movie/419430-get-out",
+    "release_date": "18/05/2017",
+    "genres": [
+      "Mistero",
+      "Thriller",
+      "Horror"
+    ],
+    "runtime": "1h 44m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/w2jxCYzXj15wxbGJOT6emg6gLOn.jpg"
+  },
+  "2023_211": {
+    "title": "The Truman Show",
+    "watch_date": "21 Novembre",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/37165-the-truman-show",
+    "release_date": "25/09/1998",
+    "genres": [
+      "Commedia",
+      "Dramma"
+    ],
+    "runtime": "1h 43m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vniJPHHUpjdVPTSGxn6b3z93nyK.jpg"
+  },
+  "2023_212": {
+    "title": "Hunger Games: Catching Fire",
+    "watch_date": "25 Novembre",
+    "category": "Film",
+    "notes": "\ud83e\uddda\u200d\u2640\ufe0f",
+    "url": "https://www.themoviedb.org/movie/101299-the-hunger-games-catching-fire",
+    "release_date": "27/11/2013",
+    "genres": [
+      "Avventura",
+      "Azione",
+      "Fantascienza"
+    ],
+    "runtime": "2h 26m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bTuBbGx8RYdhtf73hlCWo8wStMZ.jpg"
+  },
+  "2023_213": {
+    "title": "Logan",
+    "watch_date": "26 Novembre",
+    "category": "Film",
+    "notes": "\ud83e\uddda\u200d\u2640\ufe0f",
+    "url": "https://www.themoviedb.org/movie/263115-logan",
+    "release_date": "01/03/2017",
+    "genres": [
+      "Azione",
+      "Dramma",
+      "Fantascienza"
+    ],
+    "runtime": "2h 17m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kHA8Ru0xKTa6ZW4UQWjsVwgtEHi.jpg"
+  },
+  "2023_214": {
+    "title": "Invincible S1",
+    "watch_date": "27 Novembre",
+    "category": "Serie TV",
+    "notes": "27/11 - 29/11",
+    "url": "https://www.themoviedb.org/tv/95557-invincible",
+    "release_date": "2021",
+    "genres": [
+      "Animazione",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure",
+      "Dramma"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dMOpdkrDC5dQxqNydgKxXjBKyAc.jpg"
+  },
+  "2023_215": {
+    "title": "Invincible S2",
+    "watch_date": "29 Novembre",
+    "category": "Serie TV",
+    "notes": "29/11 - XX",
+    "url": "https://www.themoviedb.org/tv/95557-invincible",
+    "release_date": "2021",
+    "genres": [
+      "Animazione",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure",
+      "Dramma"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dMOpdkrDC5dQxqNydgKxXjBKyAc.jpg"
+  },
+  "2023_216": {
+    "title": "The Ballad of Buster Scruggs",
+    "watch_date": "02 Dicembre",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/537996-the-ballad-of-buster-scruggs",
+    "release_date": "30/08/2018",
+    "genres": [
+      "Western",
+      "Commedia",
+      "Dramma"
+    ],
+    "runtime": "2h 12m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fiI2W5iVbqw9ZReJPrRktaU0Wae.jpg"
+  },
+  "2023_217": {
+    "title": "Killers of the flower moon",
+    "watch_date": "24 Dicembre",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/466420-killers-of-the-flower-moon",
+    "release_date": "19/10/2023",
+    "genres": [
+      "Crime",
+      "Storia",
+      "Dramma"
+    ],
+    "runtime": "3h 26m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/l7CXClIApqEWrUaaSNFBMvFtKQ2.jpg"
+  },
+  "2023_218": {
+    "title": "Rebel Moon (Part I)",
+    "watch_date": "?",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/934632-rebel-moon-part-two-the-scargiver",
+    "release_date": "19/04/2024",
+    "genres": [
+      "Fantascienza",
+      "Azione"
+    ],
+    "runtime": "2h 3m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jxxv8VOTIPimq7RclxNKzi9zvgj.jpg"
+  },
+  "2023_219": {
+    "title": "Heat La Sfida",
+    "watch_date": "?",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/949-heat",
+    "release_date": "09/02/1996",
+    "genres": [
+      "Crime",
+      "Dramma",
+      "Azione"
+    ],
+    "runtime": "2h 50m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/AptL97ys8lxAy5hJ7UhuhawQUDe.jpg"
+  }
+}

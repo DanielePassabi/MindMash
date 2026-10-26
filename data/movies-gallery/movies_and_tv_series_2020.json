@@ -1,0 +1,485 @@
+{
+  "2020_045": {
+    "title": "Joker",
+    "watch_date": "20 Gennaio",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/475557-joker",
+    "release_date": "03/10/2019",
+    "genres": [
+      "Crime",
+      "Thriller",
+      "Dramma"
+    ],
+    "runtime": "2h 2m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/y1AthYH1r2j4N4cYn2HdrEGgrnJ.jpg"
+  },
+  "2020_046": {
+    "title": "Batman Begins",
+    "watch_date": "22 Febbraio",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/272-batman-begins",
+    "release_date": "17/06/2005",
+    "genres": [
+      "Azione",
+      "Crime",
+      "Dramma"
+    ],
+    "runtime": "2h 20m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/53lvq1hrL8NcFW1VXEhfXH0UmWt.jpg"
+  },
+  "2020_047": {
+    "title": "Dumbo",
+    "watch_date": "25 Febbraio",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/11360-dumbo",
+    "release_date": "02/10/1948",
+    "genres": [
+      "Animazione",
+      "Famiglia"
+    ],
+    "runtime": "1h 4m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2yFUAm5VYQvqiibymzegn7vgHMj.jpg"
+  },
+  "2020_048": {
+    "title": "Peaky Blinders S1",
+    "watch_date": "26 Febbraio",
+    "category": "Serie TV",
+    "notes": "26/02 - 28/02",
+    "url": "https://www.themoviedb.org/tv/60574-peaky-blinders",
+    "release_date": "2013",
+    "genres": [
+      "Dramma",
+      "Crime"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg"
+  },
+  "2020_049": {
+    "title": "Peaky Blinders S2",
+    "watch_date": "28 Febbraio",
+    "category": "Serie TV",
+    "notes": "28/02 - 01/03",
+    "url": "https://www.themoviedb.org/tv/60574-peaky-blinders",
+    "release_date": "2013",
+    "genres": [
+      "Dramma",
+      "Crime"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg"
+  },
+  "2020_050": {
+    "title": "Peaky Blinders S3",
+    "watch_date": "01 Marzo",
+    "category": "Serie TV",
+    "notes": "01/03 - 03/03",
+    "url": "https://www.themoviedb.org/tv/60574-peaky-blinders",
+    "release_date": "2013",
+    "genres": [
+      "Dramma",
+      "Crime"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg"
+  },
+  "2020_051": {
+    "title": "Peaky Blinders S4",
+    "watch_date": "03 Marzo",
+    "category": "Serie TV",
+    "notes": "03/03 - 05/03",
+    "url": "https://www.themoviedb.org/tv/60574-peaky-blinders",
+    "release_date": "2013",
+    "genres": [
+      "Dramma",
+      "Crime"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg"
+  },
+  "2020_052": {
+    "title": "Peaky Blinders S5",
+    "watch_date": "05 Marzo",
+    "category": "Serie TV",
+    "notes": "05/03 - 08/03",
+    "url": "https://www.themoviedb.org/tv/60574-peaky-blinders",
+    "release_date": "2013",
+    "genres": [
+      "Dramma",
+      "Crime"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg"
+  },
+  "2020_053": {
+    "title": "C\u2019era una volta a Hollywood",
+    "watch_date": "27 Marzo",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/466272-once-upon-a-time-in-hollywood",
+    "release_date": "18/09/2019",
+    "genres": [
+      "Commedia",
+      "Dramma",
+      "Thriller"
+    ],
+    "runtime": "2h 42m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wW5t1FNg3ZHQu5sXeShyaN3oU9Z.jpg"
+  },
+  "2020_054": {
+    "title": "La casa di papel S4",
+    "watch_date": "04 Aprile",
+    "category": "Serie TV",
+    "notes": "04/04 - 05/04",
+    "url": "https://www.themoviedb.org/tv/71446-la-casa-de-papel",
+    "release_date": "2017",
+    "genres": [
+      "Crime",
+      "Dramma"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/u1RSyTfhoKBMlVqXfoEzGldlDtL.jpg"
+  },
+  "2020_055": {
+    "title": "Batman - Il cavaliere oscuro",
+    "watch_date": "07 Aprile",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/155-the-dark-knight",
+    "release_date": "23/07/2008",
+    "genres": [
+      "Dramma",
+      "Azione",
+      "Crime",
+      "Thriller"
+    ],
+    "runtime": "2h 26m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qIhsgno1mjbzUbs4H6DaRjhskAR.jpg"
+  },
+  "2020_056": {
+    "title": "Batman - Il cavaliere oscuro - Il ritorno",
+    "watch_date": "07 Aprile",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/49026-the-dark-knight-rises",
+    "release_date": "29/08/2012",
+    "genres": [
+      "Azione",
+      "Crime",
+      "Dramma",
+      "Thriller"
+    ],
+    "runtime": "2h 45m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/p2JzxFRAlbxS4EvWMo4yiYZXu1W.jpg"
+  },
+  "2020_057": {
+    "title": "Southpaw",
+    "watch_date": "12 Aprile",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/307081-southpaw",
+    "release_date": "02/09/2015",
+    "genres": [
+      "Azione",
+      "Dramma"
+    ],
+    "runtime": "2h 4m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5Hm5oKL1pDsqWr66UbZonWE6wV6.jpg"
+  },
+  "2020_058": {
+    "title": "Diavoli S1",
+    "watch_date": "17 Aprile",
+    "category": "Serie TV",
+    "notes": "17/04 - 15/05",
+    "url": "https://www.themoviedb.org/tv/99741-devils",
+    "release_date": "2020",
+    "genres": [
+      "Drama"
+    ],
+    "runtime": "-",
+    "poster_url": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/l4Pl7APWpRANULCirWTrcMPfdIl.jpg"
+  },
+  "2020_059": {
+    "title": "Parasite",
+    "watch_date": "05 Luglio",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/496243",
+    "release_date": "07/11/2019",
+    "genres": [
+      "Comedy",
+      "Thriller",
+      "Drama"
+    ],
+    "runtime": "2h 13m",
+    "poster_url": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg"
+  },
+  "2020_060": {
+    "title": "Tenet",
+    "watch_date": "26 Agosto",
+    "category": "Film",
+    "notes": "\ud83c\udfa5",
+    "url": "https://www.themoviedb.org/movie/577922-tenet",
+    "release_date": "26/08/2020",
+    "genres": [
+      "Azione",
+      "Thriller",
+      "Fantascienza"
+    ],
+    "runtime": "2h 30m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iKXqUiLFDgeIGozRR6JYRvFmD5A.jpg"
+  },
+  "2020_061": {
+    "title": "Donnie Darko",
+    "watch_date": "28 Agosto",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/141-donnie-darko",
+    "release_date": "19/11/2004",
+    "genres": [
+      "Fantasy",
+      "Dramma",
+      "Mistero"
+    ],
+    "runtime": "1h 53m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rJPGEGIlFSGM8TDKr2ZPO5xhJH9.jpg"
+  },
+  "2020_062": {
+    "title": "Il padrino",
+    "watch_date": "30 Agosto",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/238-the-godfather",
+    "release_date": "21/09/1972",
+    "genres": [
+      "Dramma",
+      "Crime"
+    ],
+    "runtime": "2h 55m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hGgz5ho658NECzErDayV5FQTemy.jpg"
+  },
+  "2020_063": {
+    "title": "Peaky Blinders S1",
+    "watch_date": "02 Settembre",
+    "category": "Serie TV",
+    "notes": "02/09 - 21/09",
+    "url": "https://www.themoviedb.org/tv/60574-peaky-blinders",
+    "release_date": "2013",
+    "genres": [
+      "Dramma",
+      "Crime"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg"
+  },
+  "2020_064": {
+    "title": "Forrest Gump",
+    "watch_date": "10 Settembre",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/13-forrest-gump",
+    "release_date": "06/10/1994",
+    "genres": [
+      "Commedia",
+      "Dramma",
+      "Romance"
+    ],
+    "runtime": "2h 17m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pGZqc9jQ6F8klQZKm37NAAMH70o.jpg"
+  },
+  "2020_065": {
+    "title": "Ted Bundy",
+    "watch_date": "13 Settembre",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/34081-ted-bundy",
+    "release_date": "22/11/2002",
+    "genres": [
+      "Crime",
+      "Horror"
+    ],
+    "runtime": "1h 39m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bh6wHjHxmuSyYL8jSFqtLlzMSGq.jpg"
+  },
+  "2020_066": {
+    "title": "Peaky Blinders S2",
+    "watch_date": "21 Settembre",
+    "category": "Serie TV",
+    "notes": "21/09 - 23/09",
+    "url": "https://www.themoviedb.org/tv/60574-peaky-blinders",
+    "release_date": "2013",
+    "genres": [
+      "Dramma",
+      "Crime"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg"
+  },
+  "2020_067": {
+    "title": "Codice genesi",
+    "watch_date": "23 Settembre",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/20504-the-book-of-eli",
+    "release_date": "26/02/2010",
+    "genres": [
+      "Azione",
+      "Thriller",
+      "Fantascienza"
+    ],
+    "runtime": "1h 58m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7p7mDqvuLGbUfLvUQi5PCA7OQuy.jpg"
+  },
+  "2020_068": {
+    "title": "Old boy",
+    "watch_date": "04 Ottobre",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/670",
+    "release_date": "06/05/2005",
+    "genres": [
+      "Dramma",
+      "Thriller",
+      "Mistero",
+      "Azione"
+    ],
+    "runtime": "1h 59m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6o3LQiH138JPjQOdmkjUMEPJKzW.jpg"
+  },
+  "2020_069": {
+    "title": "Suburra S3",
+    "watch_date": "04 Novembre",
+    "category": "Serie TV",
+    "notes": "04/11 - 05/11",
+    "url": "https://www.themoviedb.org/tv/73671-suburra",
+    "release_date": "2017",
+    "genres": [
+      "Crime",
+      "Dramma"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kiKvhrO82jbfM521Q6hz0MlFCN6.jpg"
+  },
+  "2020_070": {
+    "title": "Bojack Horseman S1",
+    "watch_date": "06 Novembre",
+    "category": "Serie TV",
+    "notes": "06/11 - 09/11",
+    "url": "https://www.themoviedb.org/tv/61222-bojack-horseman",
+    "release_date": "2014",
+    "genres": [
+      "Animazione",
+      "Commedia",
+      "Dramma"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6JFWzlChcGgLiIUo2COgNlWGFKy.jpg"
+  },
+  "2020_071": {
+    "title": "Marvel\u2019s The Punisher S1",
+    "watch_date": "21 Novembre",
+    "category": "Serie TV",
+    "notes": "21/11 - 23/11",
+    "url": "https://www.themoviedb.org/tv/67178-marvel-s-the-punisher",
+    "release_date": "2017",
+    "genres": [
+      "Action & Adventure",
+      "Crime",
+      "Dramma"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9l6cJGkqBiV0CpWESbPZGvI8szP.jpg"
+  },
+  "2020_072": {
+    "title": "Marvel\u2019s The Punisher S2",
+    "watch_date": "23 Novembre",
+    "category": "Serie TV",
+    "notes": "23/11 - 26/11",
+    "url": "https://www.themoviedb.org/tv/67178-marvel-s-the-punisher",
+    "release_date": "2017",
+    "genres": [
+      "Action & Adventure",
+      "Crime",
+      "Dramma"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9l6cJGkqBiV0CpWESbPZGvI8szP.jpg"
+  },
+  "2020_073": {
+    "title": "Marvel\u2019s Daredevil S1",
+    "watch_date": "30 Novembre",
+    "category": "Serie TV",
+    "notes": "30/11 - 03/12",
+    "url": "https://www.themoviedb.org/tv/61889-marvel-s-daredevil",
+    "release_date": "2015",
+    "genres": [
+      "Crime",
+      "Dramma",
+      "Action & Adventure"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qshMA7GUeaq0iWFTRGFJW1mrJoY.jpg"
+  },
+  "2020_074": {
+    "title": "Marvel\u2019s Daredevil S2",
+    "watch_date": "03 Dicembre",
+    "category": "Serie TV",
+    "notes": "03/12 - 07/12",
+    "url": "https://www.themoviedb.org/tv/61889-marvel-s-daredevil",
+    "release_date": "2015",
+    "genres": [
+      "Crime",
+      "Dramma",
+      "Action & Adventure"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qshMA7GUeaq0iWFTRGFJW1mrJoY.jpg"
+  },
+  "2020_075": {
+    "title": "Il signore degli anelli - La compagnia dell\u2019anello",
+    "watch_date": "23 Dicembre",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/120-the-lord-of-the-rings-the-fellowship-of-the-ring",
+    "release_date": "18/01/2002",
+    "genres": [
+      "Avventura",
+      "Fantasy",
+      "Azione"
+    ],
+    "runtime": "2h 59m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nv6wnTxXYTbUTObE4VXu7bacPRt.jpg"
+  },
+  "2020_076": {
+    "title": "Il signore degli anelli - Le due torri",
+    "watch_date": "24 Dicembre",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/121-the-lord-of-the-rings-the-two-towers",
+    "release_date": "16/01/2003",
+    "genres": [
+      "Avventura",
+      "Fantasy",
+      "Azione"
+    ],
+    "runtime": "3h",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fVKewiBPcY2dQujYEsnQmQ7lfRZ.jpg"
+  },
+  "2020_077": {
+    "title": "Il signore degli anelli - Il ritorno del re",
+    "watch_date": "25 Dicembre",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/122-the-lord-of-the-rings-the-return-of-the-king",
+    "release_date": "22/01/2004",
+    "genres": [
+      "Avventura",
+      "Fantasy",
+      "Azione"
+    ],
+    "runtime": "3h 21m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/96XilLzI7bijsCG4l7oW6I62oad.jpg"
+  }
+}
