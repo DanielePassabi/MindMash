@@ -1,0 +1,440 @@
+{
+  "2024_001": {
+    "title": "Hunger Games - La ballata dell'usignolo e del serpente",
+    "watch_date": "13 Gennaio",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/695721-the-hunger-games-the-ballad-of-songbirds-snakes",
+    "release_date": "15/11/2023",
+    "genres": [
+      "Dramma",
+      "Fantascienza",
+      "Azione"
+    ],
+    "runtime": "2h 37m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bk2Bh5mD3uvyKDaXKTAOGfoCTq5.jpg"
+  },
+  "2024_002": {
+    "title": "Jujutsu Kaisen S1",
+    "watch_date": "30 Gennaio",
+    "category": "Serie TV",
+    "notes": "",
+    "url": "https://www.themoviedb.org/tv/95479",
+    "release_date": "2020",
+    "genres": [
+      "Animazione",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg"
+  },
+  "2024_003": {
+    "title": "Society of the snow",
+    "watch_date": "07 Febbraio",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/906126-la-sociedad-de-la-nieve",
+    "release_date": "09/09/2023",
+    "genres": [
+      "Dramma",
+      "Storia"
+    ],
+    "runtime": "2h 24m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eOu5TmFYmLJ1bzRMWNmxWAtU7cQ.jpg"
+  },
+  "2024_004": {
+    "title": "Un Professore S1",
+    "watch_date": "?",
+    "category": "Serie TV",
+    "notes": "\ud83e\uddda\u200d\u2640\ufe0f",
+    "url": "https://www.themoviedb.org/tv/138395-un-professore",
+    "release_date": "2021",
+    "genres": [
+      "Dramma",
+      "Commedia",
+      "Famiglia"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/g1Z60kHQ8NsryXtsrXfEysTAQs2.jpg"
+  },
+  "2024_005": {
+    "title": "Un Professore S2",
+    "watch_date": "?",
+    "category": "Serie TV",
+    "notes": "\ud83e\uddda\u200d\u2640\ufe0f",
+    "url": "https://www.themoviedb.org/tv/138395-un-professore",
+    "release_date": "2021",
+    "genres": [
+      "Dramma",
+      "Commedia",
+      "Famiglia"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/g1Z60kHQ8NsryXtsrXfEysTAQs2.jpg"
+  },
+  "2024_006": {
+    "title": "Red Eye",
+    "watch_date": "27 Marzo",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/11460-red-eye",
+    "release_date": "21/10/2005",
+    "genres": [
+      "Thriller",
+      "Mistero"
+    ],
+    "runtime": "1h 25m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2a2FC6AycssJ1cZfZEBHc4smDGY.jpg"
+  },
+  "2024_007": {
+    "title": "Attack on Titan",
+    "watch_date": "?",
+    "category": "Serie TV",
+    "notes": "\ud83e\uddda\u200d\u2640\ufe0f",
+    "url": "https://www.themoviedb.org/tv/1429",
+    "release_date": "2013",
+    "genres": [
+      "Animation",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "runtime": "-",
+    "poster_url": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/hTP1DtLGFamjfu8WqjnuQdP1n4i.jpg"
+  },
+  "2024_008": {
+    "title": "Death Note",
+    "watch_date": "?",
+    "category": "Serie TV",
+    "notes": "",
+    "url": "https://www.themoviedb.org/tv/13916-death-note",
+    "release_date": "2006",
+    "genres": [
+      "Animazione",
+      "Mistero",
+      "Sci-Fi & Fantasy"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/tCZFfYTIwrR7n94J6G14Y4hAFU6.jpg"
+  },
+  "2024_009": {
+    "title": "The Boys S1",
+    "watch_date": "?",
+    "category": "Serie TV",
+    "notes": "",
+    "url": "https://www.themoviedb.org/tv/76479-the-boys",
+    "release_date": "2019",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg"
+  },
+  "2024_010": {
+    "title": "The Boys S2",
+    "watch_date": "?",
+    "category": "Serie TV",
+    "notes": "",
+    "url": "https://www.themoviedb.org/tv/76479-the-boys",
+    "release_date": "2019",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg"
+  },
+  "2024_011": {
+    "title": "The Boys S3",
+    "watch_date": "?",
+    "category": "Serie TV",
+    "notes": "",
+    "url": "https://www.themoviedb.org/tv/76479-the-boys",
+    "release_date": "2019",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg"
+  },
+  "2024_012": {
+    "title": "The Boys S4",
+    "watch_date": "?",
+    "category": "Serie TV",
+    "notes": "",
+    "url": "https://www.themoviedb.org/tv/76479-the-boys",
+    "release_date": "2019",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg"
+  },
+  "2024_013": {
+    "title": "Rick and Morty S1",
+    "watch_date": "Settembre",
+    "category": "Serie TV",
+    "notes": "",
+    "url": "https://www.themoviedb.org/tv/60625-rick-and-morty",
+    "release_date": "2013",
+    "genres": [
+      "Animazione",
+      "Commedia",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gdIrmf2DdY5mgN6ycVP0XlzKzbE.jpg"
+  },
+  "2024_014": {
+    "title": "Rick and Morty S2",
+    "watch_date": "Settembre",
+    "category": "Serie TV",
+    "notes": "",
+    "url": "https://www.themoviedb.org/tv/60625-rick-and-morty",
+    "release_date": "2013",
+    "genres": [
+      "Animazione",
+      "Commedia",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gdIrmf2DdY5mgN6ycVP0XlzKzbE.jpg"
+  },
+  "2024_015": {
+    "title": "Rick and Morty S3",
+    "watch_date": "Settembre",
+    "category": "Serie TV",
+    "notes": "",
+    "url": "https://www.themoviedb.org/tv/60625-rick-and-morty",
+    "release_date": "2013",
+    "genres": [
+      "Animazione",
+      "Commedia",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gdIrmf2DdY5mgN6ycVP0XlzKzbE.jpg"
+  },
+  "2024_016": {
+    "title": "Rick and Morty S4",
+    "watch_date": "Settembre",
+    "category": "Serie TV",
+    "notes": "",
+    "url": "https://www.themoviedb.org/tv/60625-rick-and-morty",
+    "release_date": "2013",
+    "genres": [
+      "Animazione",
+      "Commedia",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gdIrmf2DdY5mgN6ycVP0XlzKzbE.jpg"
+  },
+  "2024_017": {
+    "title": "Rick and Morty S5",
+    "watch_date": "Settembre",
+    "category": "Serie TV",
+    "notes": "",
+    "url": "https://www.themoviedb.org/tv/60625-rick-and-morty",
+    "release_date": "2013",
+    "genres": [
+      "Animazione",
+      "Commedia",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gdIrmf2DdY5mgN6ycVP0XlzKzbE.jpg"
+  },
+  "2024_018": {
+    "title": "Rick and Morty S6",
+    "watch_date": "Settembre",
+    "category": "Serie TV",
+    "notes": "",
+    "url": "https://www.themoviedb.org/tv/60625-rick-and-morty",
+    "release_date": "2013",
+    "genres": [
+      "Animazione",
+      "Commedia",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gdIrmf2DdY5mgN6ycVP0XlzKzbE.jpg"
+  },
+  "2024_019": {
+    "title": "La Principessa Mononoke",
+    "watch_date": "Settembre",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/128",
+    "release_date": "19/05/2000",
+    "genres": [
+      "Avventura",
+      "Fantasy",
+      "Animazione"
+    ],
+    "runtime": "2h 14m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3alL6upCn0GX9Rp1RXtGzmJbEQa.jpg"
+  },
+  "2024_020": {
+    "title": "Fight Club",
+    "watch_date": "Settembre",
+    "category": "Film",
+    "notes": "\ud83e\uddda\u200d\u2640\ufe0f",
+    "url": "https://www.themoviedb.org/movie/550-fight-club",
+    "release_date": "29/10/1999",
+    "genres": [
+      "Dramma"
+    ],
+    "runtime": "2h 19m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rtNLQ8HbPElzEfrHjrzSr07prKT.jpg"
+  },
+  "2024_021": {
+    "title": "Rick and Morty S7",
+    "watch_date": "Settembre",
+    "category": "Serie TV",
+    "notes": "",
+    "url": "https://www.themoviedb.org/tv/60625-rick-and-morty",
+    "release_date": "2013",
+    "genres": [
+      "Animazione",
+      "Commedia",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gdIrmf2DdY5mgN6ycVP0XlzKzbE.jpg"
+  },
+  "2024_022": {
+    "title": "Vinland Saga S1",
+    "watch_date": "Ottobre",
+    "category": "Serie TV",
+    "notes": "",
+    "url": "https://www.themoviedb.org/tv/88803",
+    "release_date": "2019",
+    "genres": [
+      "Animazione",
+      "War & Politics"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vUHlpA5c1NXkds59reY3HMb4Abs.jpg"
+  },
+  "2024_023": {
+    "title": "Vinland Saga S2",
+    "watch_date": "Ottobre",
+    "category": "Serie TV",
+    "notes": "",
+    "url": "https://www.themoviedb.org/tv/88803",
+    "release_date": "2019",
+    "genres": [
+      "Animazione",
+      "War & Politics"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vUHlpA5c1NXkds59reY3HMb4Abs.jpg"
+  },
+  "2024_024": {
+    "title": "Kill Bill Volume II",
+    "watch_date": "Novembre",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/393-kill-bill-vol-2",
+    "release_date": "23/04/2004",
+    "genres": [
+      "Azione",
+      "Crime",
+      "Thriller"
+    ],
+    "runtime": "1h 50m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nZlx4AacM0OwUCjvhrjNYUXGFCv.jpg"
+  },
+  "2024_025": {
+    "title": "Fullmetal Alchemist: Brotherhood S1",
+    "watch_date": "Dicembre",
+    "category": "Serie TV",
+    "notes": "",
+    "url": "https://www.themoviedb.org/tv/31911-fullmetal-alchemist",
+    "release_date": "2009",
+    "genres": [
+      "Action & Adventure",
+      "Animazione",
+      "Sci-Fi & Fantasy",
+      "Commedia"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5ZFUEOULaVml7pQuXxhpR2SmVUw.jpg"
+  },
+  "2024_026": {
+    "title": "Fullmetal Alchemist: Brotherhood S2",
+    "watch_date": "Dicembre",
+    "category": "Serie TV",
+    "notes": "",
+    "url": "https://www.themoviedb.org/tv/31911-fullmetal-alchemist",
+    "release_date": "2009",
+    "genres": [
+      "Action & Adventure",
+      "Animazione",
+      "Sci-Fi & Fantasy",
+      "Commedia"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5ZFUEOULaVml7pQuXxhpR2SmVUw.jpg"
+  },
+  "2024_027": {
+    "title": "Fullmetal Alchemist: Brotherhood S3",
+    "watch_date": "Dicembre",
+    "category": "Serie TV",
+    "notes": "",
+    "url": "https://www.themoviedb.org/tv/31911-fullmetal-alchemist",
+    "release_date": "2009",
+    "genres": [
+      "Action & Adventure",
+      "Animazione",
+      "Sci-Fi & Fantasy",
+      "Commedia"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5ZFUEOULaVml7pQuXxhpR2SmVUw.jpg"
+  },
+  "2024_028": {
+    "title": "Fullmetal Alchemist: Brotherhood S4",
+    "watch_date": "Dicembre",
+    "category": "Serie TV",
+    "notes": "",
+    "url": "https://www.themoviedb.org/tv/31911-fullmetal-alchemist",
+    "release_date": "2009",
+    "genres": [
+      "Action & Adventure",
+      "Animazione",
+      "Sci-Fi & Fantasy",
+      "Commedia"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5ZFUEOULaVml7pQuXxhpR2SmVUw.jpg"
+  },
+  "2024_029": {
+    "title": "Il ragazzo e l\u2019airone",
+    "watch_date": "Dicembre",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/508883",
+    "release_date": "01/01/2024",
+    "genres": [
+      "Animazione",
+      "Avventura",
+      "Fantasy",
+      "Famiglia",
+      "Dramma"
+    ],
+    "runtime": "2h 4m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/p9tHvoXaIUapKWygs1DKKkvVjCY.jpg"
+  }
+}

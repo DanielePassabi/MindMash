@@ -1,0 +1,797 @@
+{
+  "2021_078": {
+    "title": "Ava",
+    "watch_date": "17 Gennaio",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/539885-ava",
+    "release_date": "25/09/2020",
+    "genres": [
+      "Azione",
+      "Thriller",
+      "Crime"
+    ],
+    "runtime": "1h 36m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rkiV5ZCp9wcT9SkZQB11uxmA5GT.jpg"
+  },
+  "2021_079": {
+    "title": "Assassini Nati",
+    "watch_date": "23 Gennaio",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/241-natural-born-killers",
+    "release_date": "23/09/1994",
+    "genres": [
+      "Crime",
+      "Thriller",
+      "Dramma"
+    ],
+    "runtime": "2h 2m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fagcRVQyfcg92X7pAjKr0zz98gc.jpg"
+  },
+  "2021_080": {
+    "title": "L\u2019ultimo samurai",
+    "watch_date": "09 Febbraio",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/616-the-last-samurai",
+    "release_date": "09/01/2004",
+    "genres": [
+      "Dramma",
+      "Azione",
+      "Guerra"
+    ],
+    "runtime": "2h 34m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hHYbOZVogfOIVg4FEF2Hs2UUNHs.jpg"
+  },
+  "2021_081": {
+    "title": "Fight Club",
+    "watch_date": "18 Febbraio",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/550-fight-club",
+    "release_date": "29/10/1999",
+    "genres": [
+      "Dramma"
+    ],
+    "runtime": "2h 19m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rtNLQ8HbPElzEfrHjrzSr07prKT.jpg"
+  },
+  "2021_082": {
+    "title": "Spirit - Cavallo selvaggio",
+    "watch_date": "26 Febbraio",
+    "category": "Film",
+    "notes": "\ud83e\uddda\u200d\u2640\ufe0f",
+    "url": "https://www.themoviedb.org/movie/9023-spirit-stallion-of-the-cimarron",
+    "release_date": "19/12/2002",
+    "genres": [
+      "Animazione",
+      "Avventura",
+      "Commedia",
+      "Famiglia",
+      "Dramma",
+      "Western",
+      "Romance"
+    ],
+    "runtime": "1h 23m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wnCrtSSfMPvty9cJdsMPbWBFF8W.jpg"
+  },
+  "2021_083": {
+    "title": "L\u2019isola del tesoro",
+    "watch_date": "01 Marzo",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/26612-treasure-island",
+    "release_date": "22/01/1990",
+    "genres": [
+      "Avventura",
+      "Famiglia",
+      "televisione film"
+    ],
+    "runtime": "2h 11m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fCmRWcHXIiJMUtbIksOXp9ED6GP.jpg"
+  },
+  "2021_084": {
+    "title": "V per Vendetta",
+    "watch_date": "13 Marzo",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/752-v-for-vendetta",
+    "release_date": "17/03/2006",
+    "genres": [
+      "Azione",
+      "Thriller",
+      "Fantascienza"
+    ],
+    "runtime": "2h 12m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vJcKTp8SggmO6K5klYurYdpzt8S.jpg"
+  },
+  "2021_085": {
+    "title": "Coraline e la porta magica",
+    "watch_date": "25 Marzo",
+    "category": "Film",
+    "notes": "\ud83e\uddda\u200d\u2640\ufe0f",
+    "url": "https://www.themoviedb.org/movie/14836-coraline",
+    "release_date": "19/06/2009",
+    "genres": [
+      "Animazione",
+      "Famiglia",
+      "Fantasy"
+    ],
+    "runtime": "1h 40m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/n9iPZlchNYYhfYX1naHETb07tnW.jpg"
+  },
+  "2021_086": {
+    "title": "Eternal sunshine of the spotless mind",
+    "watch_date": "27 Marzo",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/38-eternal-sunshine-of-the-spotless-mind",
+    "release_date": "22/10/2004",
+    "genres": [
+      "Fantascienza",
+      "Dramma",
+      "Romance"
+    ],
+    "runtime": "1h 48m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/uDuAYpBfFQvFMnlt2w8xUUZiWrr.jpg"
+  },
+  "2021_087": {
+    "title": "Django Unchained",
+    "watch_date": "04 Aprile",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/68718-django-unchained",
+    "release_date": "17/01/2013",
+    "genres": [
+      "Dramma",
+      "Western"
+    ],
+    "runtime": "2h 45m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3Q41QdROiYoEMY0qXhfRMT5DbPd.jpg"
+  },
+  "2021_088": {
+    "title": "Sin City: A Dame to Kill For",
+    "watch_date": "?",
+    "category": "Film",
+    "notes": "\ud83e\uddda\u200d\u2640\ufe0f",
+    "url": "https://www.themoviedb.org/movie/189-sin-city-a-dame-to-kill-for",
+    "release_date": "01/10/2014",
+    "genres": [
+      "Crime",
+      "Azione",
+      "Thriller"
+    ],
+    "runtime": "1h 42m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sG6qxhO1gV7LG8WsVRJNWacwp3Q.jpg"
+  },
+  "2021_089": {
+    "title": "See S1",
+    "watch_date": "16 Aprile",
+    "category": "Serie TV",
+    "notes": "16/04 - 25/04",
+    "url": "https://www.themoviedb.org/tv/80752-see",
+    "release_date": "2019",
+    "genres": [
+      "Dramma",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lKDIhc9FQibDiBQ57n3ELfZCyZg.jpg"
+  },
+  "2021_090": {
+    "title": "Her",
+    "watch_date": "19 Aprile",
+    "category": "Film",
+    "notes": "\ud83e\uddda\u200d\u2640\ufe0f",
+    "url": "https://www.themoviedb.org/movie/152601-her",
+    "release_date": "13/03/2014",
+    "genres": [
+      "Romance",
+      "Fantascienza",
+      "Dramma"
+    ],
+    "runtime": "2h 6m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ptoIaqRBgyBVMKXRG2V2afFqDut.jpg"
+  },
+  "2021_091": {
+    "title": "Seven",
+    "watch_date": "04 Maggio",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/754137-seven",
+    "release_date": "08/12/2020",
+    "genres": [
+      "Documentario"
+    ],
+    "runtime": "45m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/h7904tdTu4O6EVX4UyesxtqF0xR.jpg"
+  },
+  "2021_092": {
+    "title": "Trainspotting",
+    "watch_date": "10 Maggio",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/627-trainspotting",
+    "release_date": "03/10/1996",
+    "genres": [
+      "Dramma",
+      "Crime"
+    ],
+    "runtime": "1h 34m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rW8igIeFq2reJPgUYK5gukdSVVB.jpg"
+  },
+  "2021_093": {
+    "title": "Interstellar",
+    "watch_date": "?",
+    "category": "Film",
+    "notes": "\ud83e\uddda\u200d\u2640\ufe0f",
+    "url": "https://www.themoviedb.org/movie/157336-interstellar",
+    "release_date": "06/11/2014",
+    "genres": [
+      "Avventura",
+      "Dramma",
+      "Fantascienza"
+    ],
+    "runtime": "2h 49m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bMKiLh0mES4Uiococ240lbbTGXQ.jpg"
+  },
+  "2021_094": {
+    "title": "Black Mirror S5",
+    "watch_date": "18 Giugno",
+    "category": "Serie TV",
+    "notes": "18/06 - ?",
+    "url": "https://www.themoviedb.org/tv/42009-black-mirror",
+    "release_date": "2011",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Dramma",
+      "Mistero"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5UaYsGZOFhjFDwQh6GuLjjA1WlF.jpg"
+  },
+  "2021_095a": {
+    "title": "The Big Bang Theory S1",
+    "watch_date": "29 Giugno",
+    "category": "Serie TV",
+    "notes": "? - 29/06",
+    "url": "https://www.themoviedb.org/tv/1418-the-big-bang-theory",
+    "release_date": "2007",
+    "genres": [
+      "Commedia"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ooBGRQBdbGzBxAVfExiO8r7kloA.jpg"
+  },
+  "2021_095b": {
+    "title": "The Big Bang Theory S2",
+    "watch_date": "29 Giugno",
+    "category": "Serie TV",
+    "notes": "? - 29/06",
+    "url": "https://www.themoviedb.org/tv/1418-the-big-bang-theory",
+    "release_date": "2007",
+    "genres": [
+      "Commedia"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ooBGRQBdbGzBxAVfExiO8r7kloA.jpg"
+  },
+  "2021_095c": {
+    "title": "The Big Bang Theory S3",
+    "watch_date": "29 Giugno",
+    "category": "Serie TV",
+    "notes": "? - 29/06",
+    "url": "https://www.themoviedb.org/tv/1418-the-big-bang-theory",
+    "release_date": "2007",
+    "genres": [
+      "Commedia"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ooBGRQBdbGzBxAVfExiO8r7kloA.jpg"
+  },
+  "2021_095d": {
+    "title": "The Big Bang Theory S4",
+    "watch_date": "29 Giugno",
+    "category": "Serie TV",
+    "notes": "? - 29/06",
+    "url": "https://www.themoviedb.org/tv/1418-the-big-bang-theory",
+    "release_date": "2007",
+    "genres": [
+      "Commedia"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ooBGRQBdbGzBxAVfExiO8r7kloA.jpg"
+  },
+  "2021_096": {
+    "title": "The Big Bang Theory S5",
+    "watch_date": "29 Giugno",
+    "category": "Serie TV",
+    "notes": "29/06 - 01/07",
+    "url": "https://www.themoviedb.org/tv/1418-the-big-bang-theory",
+    "release_date": "2007",
+    "genres": [
+      "Commedia"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ooBGRQBdbGzBxAVfExiO8r7kloA.jpg"
+  },
+  "2021_097": {
+    "title": "The Big Bang Theory S6",
+    "watch_date": "02 Luglio",
+    "category": "Serie TV",
+    "notes": "02/07 - 09/07",
+    "url": "https://www.themoviedb.org/tv/1418-the-big-bang-theory",
+    "release_date": "2007",
+    "genres": [
+      "Commedia"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ooBGRQBdbGzBxAVfExiO8r7kloA.jpg"
+  },
+  "2021_098": {
+    "title": "Vikings S1",
+    "watch_date": "05 Luglio",
+    "category": "Serie TV",
+    "notes": "05/07 - 12/07",
+    "url": "https://www.themoviedb.org/tv/44217-vikings",
+    "release_date": "2013",
+    "genres": [
+      "Action & Adventure",
+      "Dramma",
+      "War & Politics"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg"
+  },
+  "2021_099": {
+    "title": "Vikings S2",
+    "watch_date": "12 Luglio",
+    "category": "Serie TV",
+    "notes": "12/07 - 15/07",
+    "url": "https://www.themoviedb.org/tv/44217-vikings",
+    "release_date": "2013",
+    "genres": [
+      "Action & Adventure",
+      "Dramma",
+      "War & Politics"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg"
+  },
+  "2021_100": {
+    "title": "Vikings S3",
+    "watch_date": "15 Luglio",
+    "category": "Serie TV",
+    "notes": "15/07 - 20/07",
+    "url": "https://www.themoviedb.org/tv/44217-vikings",
+    "release_date": "2013",
+    "genres": [
+      "Action & Adventure",
+      "Dramma",
+      "War & Politics"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg"
+  },
+  "2021_101": {
+    "title": "Vikings S4",
+    "watch_date": "20 Luglio",
+    "category": "Serie TV",
+    "notes": "20/07 - 31/07",
+    "url": "https://www.themoviedb.org/tv/44217-vikings",
+    "release_date": "2013",
+    "genres": [
+      "Action & Adventure",
+      "Dramma",
+      "War & Politics"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg"
+  },
+  "2021_102": {
+    "title": "Vikings S5",
+    "watch_date": "31 Luglio",
+    "category": "Serie TV",
+    "notes": "31/07 - 10/08",
+    "url": "https://www.themoviedb.org/tv/44217-vikings",
+    "release_date": "2013",
+    "genres": [
+      "Action & Adventure",
+      "Dramma",
+      "War & Politics"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg"
+  },
+  "2021_103": {
+    "title": "Man in the Dark",
+    "watch_date": "16 Agosto",
+    "category": "Film",
+    "notes": "\ud83e\uddda\u200d\u2640\ufe0f",
+    "url": "https://www.themoviedb.org/movie/300669-don-t-breathe",
+    "release_date": "01/09/2016",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "runtime": "1h 28m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5EG1C1mrak2WsP3xcluRQ74ZbDl.jpg"
+  },
+  "2021_104": {
+    "title": "Malcolm & Marie",
+    "watch_date": "18 Agosto",
+    "category": "Film",
+    "notes": "\ud83e\uddda\u200d\u2640\ufe0f",
+    "url": "https://www.themoviedb.org/movie/722913-malcolm-marie",
+    "release_date": "05/02/2021",
+    "genres": [
+      "Dramma",
+      "Romance"
+    ],
+    "runtime": "1h 45m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wbqinL61gWEqX6C0KAQHvB3dfDZ.jpg"
+  },
+  "2021_105": {
+    "title": "Attack on Titan S1",
+    "watch_date": "20 Agosto",
+    "category": "Serie TV",
+    "notes": "20/08 - 25/08",
+    "url": "https://www.themoviedb.org/tv/1429",
+    "release_date": "2013",
+    "genres": [
+      "Animation",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "runtime": "-",
+    "poster_url": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/hTP1DtLGFamjfu8WqjnuQdP1n4i.jpg"
+  },
+  "2021_106": {
+    "title": "Attack on Titan S2",
+    "watch_date": "25 Agosto",
+    "category": "Serie TV",
+    "notes": "25/08 - 26/08",
+    "url": "https://www.themoviedb.org/tv/1429",
+    "release_date": "2013",
+    "genres": [
+      "Animation",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "runtime": "-",
+    "poster_url": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/hTP1DtLGFamjfu8WqjnuQdP1n4i.jpg"
+  },
+  "2021_107": {
+    "title": "Attack on Titan S3 Parte I",
+    "watch_date": "26 Agosto",
+    "category": "Serie TV",
+    "notes": "26/08 - 28/08",
+    "url": "https://www.themoviedb.org/tv/1429",
+    "release_date": "2013",
+    "genres": [
+      "Animation",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "runtime": "-",
+    "poster_url": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/hTP1DtLGFamjfu8WqjnuQdP1n4i.jpg"
+  },
+  "2021_108": {
+    "title": "Spider-Man Far From Home",
+    "watch_date": "28 Agosto",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/429617-spider-man-far-from-home",
+    "release_date": "10/07/2019",
+    "genres": [
+      "Azione",
+      "Avventura",
+      "Fantascienza"
+    ],
+    "runtime": "2h 9m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3XG7AT6rw6OzNJXdih5XX4Gw0oO.jpg"
+  },
+  "2021_109": {
+    "title": "Lavoro a mano armata S1",
+    "watch_date": "28 Agosto",
+    "category": "Serie TV",
+    "notes": "28/08 - 29/08",
+    "url": "https://www.themoviedb.org/tv/101690-derapages",
+    "release_date": "2020",
+    "genres": [
+      "Dramma"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nzXZJDFa4nE6qwISO4aKGbmmVoB.jpg"
+  },
+  "2021_110": {
+    "title": "Attack on Titan S3 Parte II",
+    "watch_date": "29 Agosto",
+    "category": "Serie TV",
+    "notes": "29/08 - 30/08",
+    "url": "https://www.themoviedb.org/tv/1429",
+    "release_date": "2013",
+    "genres": [
+      "Animation",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "runtime": "-",
+    "poster_url": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/hTP1DtLGFamjfu8WqjnuQdP1n4i.jpg"
+  },
+  "2021_111": {
+    "title": "Nobody",
+    "watch_date": "04 Settembre",
+    "category": "Film",
+    "notes": "",
+    "url": "https://www.themoviedb.org/movie/615457-nobody",
+    "release_date": "01/07/2021",
+    "genres": [
+      "Azione",
+      "Thriller"
+    ],
+    "runtime": "1h 32m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iECT5xNf72P7cx9LDMrEwhGYD5O.jpg"
+  },
+  "2021_112": {
+    "title": "Attack on Titan S4 Parte I",
+    "watch_date": "?",
+    "category": "Serie TV",
+    "notes": "\ud83e\uddda\u200d\u2640\ufe0f",
+    "url": "https://www.themoviedb.org/tv/1429",
+    "release_date": "2013",
+    "genres": [
+      "Animation",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "runtime": "-",
+    "poster_url": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/hTP1DtLGFamjfu8WqjnuQdP1n4i.jpg"
+  },
+  "2021_113": {
+    "title": "Perfect Blue",
+    "watch_date": "?",
+    "category": "Film",
+    "notes": "\ud83e\uddda\u200d\u2640\ufe0f",
+    "url": "https://www.themoviedb.org/movie/10494-perfect-blue",
+    "release_date": "22/04/2024",
+    "genres": [
+      "Animazione",
+      "Thriller"
+    ],
+    "runtime": "1h 21m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sVkBjkEB8RwwAetZ1qmt4LeSjac.jpg"
+  },
+  "2021_114": {
+    "title": "Modern Family S1",
+    "watch_date": "?",
+    "category": "Serie TV",
+    "notes": "\ud83e\uddda\u200d\u2640\ufe0f",
+    "url": "https://www.themoviedb.org/tv/1421-modern-family",
+    "release_date": "2009",
+    "genres": [
+      "Commedia"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/klL4yhwiU8aF4AuF5dCfJA9sRnS.jpg"
+  },
+  "2021_115": {
+    "title": "Your Name",
+    "watch_date": "?",
+    "category": "Film",
+    "notes": "\ud83e\uddda\u200d\u2640\ufe0f",
+    "url": "https://www.themoviedb.org/movie/372058",
+    "release_date": "26/08/2016",
+    "genres": [
+      "Animazione",
+      "Romance",
+      "Dramma"
+    ],
+    "runtime": "1h 46m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8cFxeflG3pVRJcy339HwImTOUlc.jpg"
+  },
+  "2021_116": {
+    "title": "Squid Game S1",
+    "watch_date": "?",
+    "category": "Serie TV",
+    "notes": "\ud83e\uddda\u200d\u2640\ufe0f",
+    "url": "https://www.themoviedb.org/tv/93405",
+    "release_date": "2021",
+    "genres": [
+      "Action & Adventure",
+      "Mistero",
+      "Dramma"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nW5rupC5zMeAGgGBYXkr8JL8Xq7.jpg"
+  },
+  "2021_117": {
+    "title": "Modern Family S2",
+    "watch_date": "?",
+    "category": "Serie TV",
+    "notes": "\ud83e\uddda\u200d\u2640\ufe0f",
+    "url": "https://www.themoviedb.org/tv/1421-modern-family",
+    "release_date": "2009",
+    "genres": [
+      "Commedia"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/klL4yhwiU8aF4AuF5dCfJA9sRnS.jpg"
+  },
+  "2021_118": {
+    "title": "La citt\u00e0 incantata",
+    "watch_date": "02 Novembre",
+    "category": "Film",
+    "notes": "\ud83e\uddda\u200d\u2640\ufe0f",
+    "url": "https://www.themoviedb.org/movie/129",
+    "release_date": "18/04/2003",
+    "genres": [
+      "Animazione",
+      "Famiglia",
+      "Fantasy"
+    ],
+    "runtime": "2h 5m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3PV6lq9BNmoyyDXr5tdNeeESEMn.jpg"
+  },
+  "2021_119": {
+    "title": "Il Castello Errante di Howl",
+    "watch_date": "05 Novembre",
+    "category": "Film",
+    "notes": "\ud83e\uddda\u200d\u2640\ufe0f",
+    "url": "https://www.themoviedb.org/movie/4935",
+    "release_date": "09/09/2004",
+    "genres": [
+      "Fantasy",
+      "Animazione",
+      "Avventura"
+    ],
+    "runtime": "1h 59m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jxhJkdeCzChcAWUsLNIhBCLyIlK.jpg"
+  },
+  "2021_120": {
+    "title": "Dune - Part 1",
+    "watch_date": "28 Novembre",
+    "category": "Film",
+    "notes": "\ud83e\uddda\u200d\u2640\ufe0f",
+    "url": "https://www.themoviedb.org/movie/438631-dune",
+    "release_date": "16/09/2021",
+    "genres": [
+      "Fantascienza",
+      "Avventura"
+    ],
+    "runtime": "2h 35m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/a4DiBbHqXg91YQ8SLGL8otVqeOa.jpg"
+  },
+  "2021_121": {
+    "title": "The Witcher S2",
+    "watch_date": "?",
+    "category": "Serie TV",
+    "notes": "\ud83e\uddda\u200d\u2640\ufe0f",
+    "url": "https://www.themoviedb.org/tv/71912-the-witcher",
+    "release_date": "2019",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Dramma",
+      "Action & Adventure"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wSS25kvLxYNLGEYbmWVEF4aoGPt.jpg"
+  },
+  "2021_122": {
+    "title": "Strappare Lungo i Bordi",
+    "watch_date": "?",
+    "category": "Serie TV",
+    "notes": "\ud83e\uddda\u200d\u2640\ufe0f",
+    "url": "https://www.themoviedb.org/tv/135918-strappare-lungo-i-bordi",
+    "release_date": "2021",
+    "genres": [
+      "Animazione",
+      "Commedia",
+      "Dramma"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fNraXwEwbttpQdKVHRPMPYYhqP9.jpg"
+  },
+  "2021_123": {
+    "title": "Il principe d\u2019Egitto",
+    "watch_date": "?",
+    "category": "Film",
+    "notes": "\ud83e\uddda\u200d\u2640\ufe0f",
+    "url": "https://www.themoviedb.org/movie/9837-the-prince-of-egypt",
+    "release_date": "18/12/1998",
+    "genres": [
+      "Avventura",
+      "Animazione",
+      "Dramma",
+      "Famiglia"
+    ],
+    "runtime": "1h 39m",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7zootUc1mgJTMUeUFn9xN1Q1nG9.jpg"
+  },
+  "2021_124": {
+    "title": "Peaky Blinders S1",
+    "watch_date": "?",
+    "category": "Serie TV",
+    "notes": "",
+    "url": "https://www.themoviedb.org/tv/60574-peaky-blinders",
+    "release_date": "2013",
+    "genres": [
+      "Dramma",
+      "Crime"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg"
+  },
+  "2021_125": {
+    "title": "Peaky Blinders S2",
+    "watch_date": "?",
+    "category": "Serie TV",
+    "notes": "",
+    "url": "https://www.themoviedb.org/tv/60574-peaky-blinders",
+    "release_date": "2013",
+    "genres": [
+      "Dramma",
+      "Crime"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg"
+  },
+  "2021_126": {
+    "title": "Peaky Blinders S3",
+    "watch_date": "?",
+    "category": "Serie TV",
+    "notes": "",
+    "url": "https://www.themoviedb.org/tv/60574-peaky-blinders",
+    "release_date": "2013",
+    "genres": [
+      "Dramma",
+      "Crime"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg"
+  },
+  "2021_127": {
+    "title": "Altered Carbon S1",
+    "watch_date": "?",
+    "category": "Serie TV",
+    "notes": "",
+    "url": "https://www.themoviedb.org/tv/68421-altered-carbon",
+    "release_date": "2018",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Dramma"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/95IsiH4p5937YXQHaOS2W2dWYOG.jpg"
+  },
+  "2021_128": {
+    "title": "Peaky Blinders S4",
+    "watch_date": "?",
+    "category": "Serie TV",
+    "notes": "",
+    "url": "https://www.themoviedb.org/tv/60574-peaky-blinders",
+    "release_date": "2013",
+    "genres": [
+      "Dramma",
+      "Crime"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg"
+  },
+  "2021_129": {
+    "title": "Peaky Blinders S5",
+    "watch_date": "?",
+    "category": "Serie TV",
+    "notes": "",
+    "url": "https://www.themoviedb.org/tv/60574-peaky-blinders",
+    "release_date": "2013",
+    "genres": [
+      "Dramma",
+      "Crime"
+    ],
+    "runtime": null,
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg"
+  }
+}
